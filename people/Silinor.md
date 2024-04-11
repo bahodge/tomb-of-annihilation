@@ -1,0 +1,1 @@
+An elf that joined our party but disappeared shortly after arriving to [[Port Nyanzahru]]

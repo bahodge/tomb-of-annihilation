@@ -19,4 +19,7 @@ As we are eating, we see a pirate ship approach. We get back to the [[Dinoseur S
 
 [[Munch]] is covered in t-rex blood.
 
-We meet the crew of [[The Sturge]] on the beach and [[Jr]] attacks with an awesome fire breath!
+We meet the crew of [[The Sturge]] on the beach and [[Jr]] attacks with an awesome fire breath! We fought tooth and nail and killed a few pirates but [[Jr]] was struck down by the First Mate of [[The Sturge]].
+
+Next Time:
+- unknown?

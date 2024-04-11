@@ -1,0 +1,12 @@
+Session 4 recap
+- Met a shady character who wants to steal intel from [[Fort Beluarian]]
+- [[Undril Silvertusk]], half orc, is now a bunkmate with [[Jr]].
+- At the baths, there was a Chultan who would pay 100 GP to escort them to [[Aldani Basin]] looking for signs of the [[red wizards]]
+- Spoke with [[Trade Prince Jobal]],
+- Helped [[Drazza]] survive execution, but was actually a murderer.
+- Wants something to help gain control over the [[Flaming Fists]]
+- Bring him the head of Jolana Porche
+- [[Pandora]] made some random guy gay
+- Heard some rumors about the kings and queens of the land. There is a [[Garden Palace of Nangalor]]. There may be some good treasure there. Best queen was [[Queen Zelkor]] because she cared for the people.
+- [[Ifan Talroa]] would buy a dinosaur from us if we find one.
+- [[Pandora]] performed and it went well and earned a week’s worth of lodging.
