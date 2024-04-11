@@ -1,0 +1,1 @@
+Works at the dyer. She was likely possessed and had no recollection of speaking with us.

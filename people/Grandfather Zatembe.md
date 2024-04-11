@@ -1,0 +1,1 @@
+Diviner of the [[Temple of Savrus]]. Father of [[Annette]]

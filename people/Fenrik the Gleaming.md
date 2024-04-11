@@ -1,0 +1,1 @@
+A mountain dwarf gem dealer accompanying [[Artis Cymber]]. He provides diamonds to [[Port Nyanzahru]]

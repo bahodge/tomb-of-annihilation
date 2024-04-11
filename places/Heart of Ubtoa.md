@@ -1,0 +1,1 @@
+Floating boulder in the center of [[Chult]] dedicated to the ancient god [[Ubtoa]]

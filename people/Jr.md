@@ -1,0 +1,1 @@
+Dragonborn Devotion paladin who is part of the [[Order of the Gauntlet]]

@@ -1,0 +1,1 @@
+Located most recently at the [[Heart of Ubtoa]]. She is looking for the source of the undead. We got some real "red wizard" vibes from her. [[Indy]] showed her his entire map.

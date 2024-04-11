@@ -1,0 +1,1 @@
+Sole survivor in [[Mbala]] and follower of [[Myrkul]]. She will grant us a resurrection of an ally with a fresh body in exchange. We have allowed her to join our camp followers.

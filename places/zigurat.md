@@ -1,0 +1,1 @@
+A temple to the west of [[Mbala]].

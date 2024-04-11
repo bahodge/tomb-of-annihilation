@@ -1,0 +1,1 @@
+Pirate captain of the [[Emerald Eye]]. He has a ruby eye.

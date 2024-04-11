@@ -1,0 +1,1 @@
+King of the [[Grung]]. Commanded us to summon [[Queen Nang Nang]] but we couldn't so we faked it.

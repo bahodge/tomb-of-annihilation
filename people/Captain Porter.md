@@ -1,0 +1,1 @@
+An officer of the [[Flaming Fists]] and leader of [[Fort Beluarian]]. Was killed by [[Trade Prince Jobal]] during hostile takeover for encroaching on his taxes.

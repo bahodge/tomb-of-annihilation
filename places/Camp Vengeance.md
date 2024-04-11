@@ -1,0 +1,1 @@
+An [[Order of the Gauntlet]] encampment built up of survivors of [[Camp Righteous]].

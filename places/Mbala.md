@@ -1,0 +1,1 @@
+Small town where our guide [[Eku]] is from. We learn that there were [[pterafolk]] who killed the entire town. There was a lone survivor [[Nanny Pu'Pu]].

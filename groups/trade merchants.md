@@ -1,0 +1,1 @@
+Overthrew the ruling king and queen of chult and became the [[Trade Princes]]

@@ -1,0 +1,1 @@
+Temple dedicated to the god [[Savrus]]

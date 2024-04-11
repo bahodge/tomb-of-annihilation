@@ -1,0 +1,1 @@
+Autognome artificer and member of the [[Emerald Enclave]]

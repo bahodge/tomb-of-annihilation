@@ -1,0 +1,1 @@
+Trade prince of the gems and mining. A strong looking older woman.

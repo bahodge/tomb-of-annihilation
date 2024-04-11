@@ -1,0 +1,1 @@
+Follower of [[Kelemvor]]. Guide. Fire newts forced all of the people out of [[Hrakamar]]. Located at the [[Thundering Lizard]]

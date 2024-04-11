@@ -1,0 +1,1 @@
+a general description of evil wizards. Typically known as the [[Red Wizards of Thay]]

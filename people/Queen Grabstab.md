@@ -1,0 +1,1 @@
+Leader of the goblins of [[Yellyark]] and best friend of [[Munch]]. Launch with [[Emery]]

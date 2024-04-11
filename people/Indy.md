@@ -1,0 +1,1 @@
+Half-orc dex fighter and professor at the University of [[Baldur’s Gate]]

@@ -1,0 +1,1 @@
+Cleric of [[Camp Vengeance]]

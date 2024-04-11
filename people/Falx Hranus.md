@@ -1,0 +1,1 @@
+First mate of the [[Star Goddess]]

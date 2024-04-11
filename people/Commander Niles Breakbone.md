@@ -1,0 +1,1 @@
+Leader of [[Camp Vengeance]] and member of the [[Order of the Gauntlet]]

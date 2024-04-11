@@ -1,0 +1,1 @@
+Temple located in [[Port Nyanzahru]]

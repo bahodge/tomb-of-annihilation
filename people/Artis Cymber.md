@@ -1,0 +1,1 @@
+Mysterious author of the map held by [[Indy]]. He is pursued by may people.
