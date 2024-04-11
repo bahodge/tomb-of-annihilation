@@ -1,0 +1,1 @@
+Owner of [[Garden Palace of Nangalor]]

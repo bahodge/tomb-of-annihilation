@@ -1,0 +1,1 @@
+Ancient palace of riches ruled by [[Queen Zelkor]].

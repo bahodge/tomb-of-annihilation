@@ -11,9 +11,41 @@
             "id": "321583adb89e6a96",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7000d632f992383d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a44eb61614a097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Taven the Bald.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39831f91e661dcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Gruta.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colesseum",
+                "query": "queen zelk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,21 +215,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "321583adb89e6a96",
+  "active": "7000d632f992383d",
   "lastOpenFiles": [
+    "sessions/Session 5.md",
+    "people/Taven the Bald.md",
+    "people/Gruta.md",
+    "sessions/Session 4.md",
+    "people/Queen Zelkor.md",
+    "places/Garden Palace of Nangalor.md",
+    "Session 21.md",
     "misc/Tej grapes.md",
     "misc",
     "creatures/Chowatha.md",
     "sessions/Session 6.md",
     "creatures/yacha beetle.md",
     "creatures/Yuan-ti.md",
-    "sessions/Session 4.md",
-    "sessions/Session 5.md",
     "sessions/Session 3.md",
     "sessions/Session 2.md",
     "places/Hrakamar.md",
     "places/colesseum.md",
-    "Session 21.md",
     "people/Silinor.md",
     "people/Trade Prince Ifan Talro’a.md",
     "creatures/Arameg.md",
@@ -207,9 +244,6 @@
     "sessions/Session 7.md",
     "people/Fenrik the Gleaming.md",
     "Party Loot.md",
-    "people/Captain Porter.md",
-    "places/Fort Beluarian.md",
-    "sessions/Session 8.md",
     "events",
     "groups/Untitled",
     "groups",

@@ -1,0 +1,1 @@
+Stablemaster at [[Fort Beluarian]]
