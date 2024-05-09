@@ -37,4 +37,9 @@ We split out our share:
 - 1 electrum goblet
 - 2 unnamed scrolls
 
-We speak with [[Bosco]] and he says that he would be interested in becoming a privateer. We agree that [[Bosco]] will help us take the [[Dragon Fang]] ship and then return to [[Port Nyanzahru]] to discuss a contract with the [[Trade Princes]].
+We speak with [[Bosco]] and he says that he would be interested in becoming a privateer. We agree that [[Bosco]] will help us take the [[Dragon Fang]] ship and then return to [[Port Nyanzahru]] to discuss a contract with the [[Trade Princes]]. We see that we have a very small crew and decide to check out the prison of [[Jahaka Anchorage]]. We speak with the prisoners and they swear fealty to [[Pandora]].
+
+We decide that we will have [[Captain Taban]] captain the [[Sturge]] and [[Bosco]] to captain the [[Emerald Eye]] and have [[Pandora]] be the admiral. [[Captain Taban]] will be given a sending stone.
+
+Next time:
+- The party will be on the [[Emerald Eye]] and attack the [[Dragon Fang]].
