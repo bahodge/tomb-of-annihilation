@@ -29,16 +29,16 @@ The party thinks that they can make a deal with a trade prince. They remember th
 
 We also learn that the ship we rescued at the very beginning survived the shipwreck. We head to the harbor and see the [[Harbor Master Zendar]].  We inform him of our plan. 
 
-We are given the ship and crew [[Jack Canary]], [[Captain Taban]] and [[Xandraugh]]. We decide to name the ship [[Dinoseur Ship]]
+We are given the ship and crew [[Jack Canary]], [[Captain Taban]] and [[Xandraugh]]. We decide to name the ship [[Taban's Big Deck]]
 
-We are warned of the pirates patrolling the west coast. The big three are [[Elock J'harwan]], [[Laskilar]] and [[Zaroum Al-Saryak]]
+We are warned of the pirates patrolling the west coast. The big three are [[Elock J'harwan]], [[Captain Laskilar]] and [[Captain Zaroum Al-Saryak]]
 
 - 2000gp for each ship captured.
 - 500gp for each captain head (preferably alive).
 
 We learn that the red dragon at [[Wyrmheart Mine]] will not immediately kill because it is interested in learning about the world. She also does not hold back when using her breath. She likes to hear her victims scream. She also is confident in her lair.
 
-We assign [[Captain Taban]] and name him [[Captain Taban]] of the [[Dinoseur Ship]].
+We assign [[Captain Taban]] and name him [[Captain Taban]] of the [[Taban's Big Deck]].
 
  We leave the port and see [[Syndra Silvayn]] and tell her what we have learned about the undead. She look more pale and is feeling more weak. We info dump. She reminds us that we should search for [[Artis Cymber]]. She gives a circlet of telepathy to [[Pandora]].
 

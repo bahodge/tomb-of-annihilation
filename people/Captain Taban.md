@@ -1,1 +1,1 @@
-Fighter and camp follower. Now assigned as a crew member of the [[Dinoseur Ship]]. Alcoholic
+Fighter and camp follower. Now assigned as a crew member of the [[Taban's Big Deck]]. Alcoholic

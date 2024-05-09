@@ -1,1 +1,1 @@
-Amathist Tiefling crewmate of the [[Dinoseur Ship]]
+Amathist Tiefling crewmate of the [[Taban's Big Deck]]

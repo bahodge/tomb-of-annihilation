@@ -1,1 +1,1 @@
-Human crewman of the [[Dinoseur Ship]]
+Human crewman of the [[Taban's Big Deck]]

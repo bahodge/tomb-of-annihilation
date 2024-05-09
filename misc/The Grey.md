@@ -1,0 +1,1 @@
+A contagious disease with no known cures.

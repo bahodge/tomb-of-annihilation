@@ -1,1 +1,1 @@
-Pirate ship.
+Pirate ship. Crewed by undead.

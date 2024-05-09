@@ -1,0 +1,1 @@
+Pirate bay. The ceiling of the cave is 60 feet high and is guarded by treacherous rocks. Within there is a tavern and a small amount of permanent residents.

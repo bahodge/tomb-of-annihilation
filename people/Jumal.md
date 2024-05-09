@@ -1,0 +1,1 @@
+A random pirate that was promoted after the [[Dinoseurs]] killed the first mate of [[Sturge]].

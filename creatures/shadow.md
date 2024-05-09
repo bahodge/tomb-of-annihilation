@@ -1,0 +1,1 @@
+Creatures that are manifested with light. Their attacks drain your strength.

@@ -4,91 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0898bce961189fb5",
+        "id": "8d8bbae00e5c4266",
         "type": "tabs",
         "children": [
           {
-            "id": "321583adb89e6a96",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7000d632f992383d",
+            "id": "255f87ea4090c7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 21.md",
+                "file": "sessions/Session 24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0a44eb61614a097",
+            "id": "f46265cb577ee1c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Taven the Bald.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39831f91e661dcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Gruta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c990c29ed9193c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/yacha beetle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "492952ecd81f2e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/Yuan-ti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255224c5395192e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Tej grapes.md",
+                "file": "misc/Inflammation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 21.md",
+                "file": "sessions/Session 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 21.md",
+                "file": "sessions/Session 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 21.md"
+                "file": "sessions/Session 24.md"
               }
             }
           }
@@ -202,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,35 +157,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7000d632f992383d",
+  "active": "255f87ea4090c7bc",
   "lastOpenFiles": [
-    "sessions/Session 5.md",
-    "people/Taven the Bald.md",
-    "people/Gruta.md",
-    "sessions/Session 4.md",
-    "people/Queen Zelkor.md",
-    "places/Garden Palace of Nangalor.md",
-    "Session 21.md",
-    "misc/Tej grapes.md",
+    "misc/Inflammation.md",
+    "sessions/Session 24.md",
+    "misc/minor organ necrosis.md",
+    "misc/The Grey.md",
+    "Untitled.md",
+    "misc/groin injury.md",
+    "sessions/Session 23.md",
+    "sessions/Session 22.md",
+    "people/Captain Zaroum Al-Saryak.md",
+    "creatures/shadow.md",
+    "places/Taban's Big Deck.md",
+    "people/Lorenzo von Matterhorn.md",
+    "creatures/Orc.md",
+    "places/Waterdeep.md",
+    "places/Jahaka Bay.md",
+    "places/Jahaka Anchorage.md",
+    "places/Emerald Eye.md",
+    "people/Bosco.md",
+    "places/Bosco's Bilge.md",
+    "creatures/Dry Tortuga.md",
+    "creatures/ankylosaurus.md",
+    "media/jahaka_anchorage.png",
+    "media",
+    "misc/Tej wine.md",
+    "places/Sturge.md",
+    "people/Jumal.md",
+    "people/Tide Sage Umberly.md",
+    "people/Captain Laskilar.md",
     "misc",
-    "creatures/Chowatha.md",
-    "sessions/Session 6.md",
-    "creatures/yacha beetle.md",
-    "creatures/Yuan-ti.md",
-    "sessions/Session 3.md",
-    "sessions/Session 2.md",
-    "places/Hrakamar.md",
-    "places/colesseum.md",
-    "people/Silinor.md",
-    "people/Trade Prince Ifan Talro’a.md",
-    "creatures/Arameg.md",
-    "sessions/Session 1.md",
-    "people/Akina Afa.md",
-    "sessions/Session 20.md",
-    "sessions/Session 19.md",
-    "sessions/Session 7.md",
-    "people/Fenrik the Gleaming.md",
-    "Party Loot.md",
     "events",
     "groups/Untitled",
     "groups",
@@ -251,7 +195,6 @@
     "creatures",
     "items",
     "places",
-    "people",
-    "sessions"
+    "people"
   ]
 }
