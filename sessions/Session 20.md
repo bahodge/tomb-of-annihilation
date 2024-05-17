@@ -31,7 +31,7 @@ We also learn that the ship we rescued at the very beginning survived the shipwr
 
 We are given the ship and crew [[Jack Canary]], [[Captain Taban]] and [[Xandraugh]]. We decide to name the ship [[Taban's Big Deck]]
 
-We are warned of the pirates patrolling the west coast. The big three are [[Elock J'harwan]], [[Captain Laskilar]] and [[Captain Zaroum Al-Saryak]]
+We are warned of the pirates patrolling the west coast. The big three are [[Captain Elock J'harwan]], [[Captain Laskilar]] and [[Captain Zaroum Al-Saryak]]
 
 - 2000gp for each ship captured.
 - 500gp for each captain head (preferably alive).
