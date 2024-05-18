@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ab044a8a64322bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Captain Elock J'harwan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -170,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "126a4bdbe06e63fc",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
+    "creatures/wereboar.md",
+    "sessions/Session 25.md",
     "people/Captain Elock J'harwan.md",
     "places/Dragon Fang.md",
-    "sessions/Session 25.md",
     "people/Captain Lathewing.md",
     "sessions/Session 24.md",
     "2024-05-13.md",
@@ -200,7 +189,6 @@
     "creatures/ankylosaurus.md",
     "media/jahaka_anchorage.png",
     "media",
-    "misc/Tej wine.md",
     "misc",
     "events",
     "groups/Untitled",
