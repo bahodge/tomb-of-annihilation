@@ -1,0 +1,1 @@
+[[Artis Cymber]]'s daughter. We met her in the bath house of [[Port Nyanzahru]].

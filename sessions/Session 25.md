@@ -4,4 +4,11 @@ We split our party between [[Sturge]] and [[Emerald Eye]] ships.
 
 We go to [[Bosco's Bilge]] and have a meeting with [[Bosco]] and [[Jumal]] to discuss strategy for the upcoming battle. We learn that the [[Dragon Fang]]'s crew is more magic focused with 2 tide sages.
 
-We decided to 
+We decided to ambush the [[Dragon Fang]] in [[Jahaka Bay]]. We setup in the tavern and poison all of the beer and food.
+
+We expertly deceive some of the crew in the tavern and poison many of them. We fight and defeat the captain and crew of the [[Dragon Fang]].
+
+[[Captain Elock J'harwan]] surrended.
+
+Next Time:
+- Loot everything and go to [[Port Nyanzahru]]

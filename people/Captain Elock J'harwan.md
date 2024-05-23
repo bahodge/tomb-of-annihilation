@@ -1,1 +1,1 @@
-Pirate captain of the [[Dragon Fang]]
+Pirate captain of the [[Dragon Fang]].  Is a [[wereboar]]

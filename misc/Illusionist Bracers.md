@@ -1,0 +1,1 @@
+Bracers for [[Cyan]] given to him by [[Captain Elock J'harwan]]

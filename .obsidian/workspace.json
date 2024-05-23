@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ae2b8991cab6600",
+            "id": "d4371d1a2f0f3a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/minor organ necrosis.md",
+                "file": "sessions/Session 26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef583ee2854cc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dragon Tinder.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "queen zelk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/minor organ necrosis.md",
+                "file": "sessions/Session 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/minor organ necrosis.md",
+                "file": "sessions/Session 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/minor organ necrosis.md"
+                "file": "sessions/Session 26.md"
               }
             }
           }
@@ -133,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,35 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ae2b8991cab6600",
+  "active": "d4371d1a2f0f3a3f",
   "lastOpenFiles": [
+    "Dragon Tinder.md",
+    "sessions/Session 26.md",
+    "people/Hugh Hackenstone.md",
+    "people/Vorn.md",
     "sessions/Session 24.md",
+    "Oculeth.md",
+    "places/Keyas House of Repose.md",
     "sessions/Session 25.md",
+    "people/Zendalla.md",
+    "people/Captain Elock J'harwan.md",
+    "people/Grandfather Zatembe.md",
+    "sessions/Session 21.md",
+    "people/Annette.md",
+    "misc/minor organ necrosis.md",
+    "sessions/Session 23.md",
+    "people/Lorenzo von Matterhorn.md",
+    "creatures/Arameg.md",
+    "sessions/Session 1.md",
+    "misc/Illusionist Bracers.md",
     "misc/Inflammation.md",
     "places/Jahaka Anchorage.md",
     "media/jahaka_anchorage.png",
     "places/Jahaka Bay.md",
     "sessions/Session 22.md",
     "creatures/wereboar.md",
-    "people/Captain Elock J'harwan.md",
     "places/Dragon Fang.md",
     "people/Captain Lathewing.md",
-    "2024-05-13.md",
     "Untitled.canvas",
-    "misc/minor organ necrosis.md",
-    "misc/The Grey.md",
-    "misc/groin injury.md",
-    "sessions/Session 23.md",
-    "people/Captain Zaroum Al-Saryak.md",
-    "creatures/shadow.md",
-    "places/Taban's Big Deck.md",
-    "people/Lorenzo von Matterhorn.md",
-    "creatures/Orc.md",
-    "places/Waterdeep.md",
-    "places/Emerald Eye.md",
-    "people/Bosco.md",
-    "places/Bosco's Bilge.md",
-    "creatures/Dry Tortuga.md",
     "media",
     "misc",
     "events",
