@@ -18,7 +18,7 @@ Based off our speed, the bookies have ranked us 7:1.
 
 [[Pandora]] and [[Jr]] win the race and are awarded 300gp. [[Munch]] is arrested for pushing the child into the race and died. The party grabs [[Nanny Pu'Pu]] to revive the child. She says that we need to gather a life for a life. The party approaches the prison. The party tries to convince the guards of the prison that they can revive the child in exchange for [[Munch]]'s life. The guards don't like goblins.  The most dangerous criminal in the prison is [[Omala]] and the party wants to use him to exchange for the life of the girl. The party must submit themselves by the end of the night to the prison.
 
-We will have to speak with [[Trade Prince Jesamine]] to handle the sentencing of [[Munch]].
+We will have to speak with [[Trade Princess Jesamine]] to handle the sentencing of [[Munch]].
 
 [[Munch]] is able to remember the path to her cell from the entrance. [[Munch]]'s cellmate is [[Omala]] who bought some dancing monkey fruit and made dye out of band of the trade prince.
 

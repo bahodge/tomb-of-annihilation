@@ -1,0 +1,1 @@
+Hired investigator mercenaries

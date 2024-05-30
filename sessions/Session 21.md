@@ -2,7 +2,7 @@ As thanks for protecting and rescuing [[Munch]] from prison, [[Munch]] has sworn
 
 [[Munch]] and [[Pandora]] find a note written in blood stabbed into their door. "The debt must be paid" was written on the note.
 
-We think that the [[Trade Prince Jesamine]] may have sanctioned the assassination attempt. We should speak with her to see who put out a us.
+We think that the [[Trade Princess Jesamine]] may have sanctioned the assassination attempt. We should speak with her to see who put out a us.
 
 We buy a bunch of supplies for pirate hunting. We hear that there is a pirate port out towards the west. We finish buying supplies and set sail. We head west from [[Port Nyanzahru]].
 
