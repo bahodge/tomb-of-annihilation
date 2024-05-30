@@ -25,5 +25,6 @@ We continue south into the unknown. As we continue down towards [[Hrakamar]], we
 We arrive at the [[Valley of Lost Honor]]
 
 Next Time:
+ - set up the teleporter at [[Shilku]].
 - Arrive at [[Hrakamar]]
 - kill all the fire newts
