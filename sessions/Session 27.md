@@ -22,9 +22,9 @@ We teleport to [[Camp Vengeance]] and we start moving towards [[Shilku]]. We con
 
 We continue south into the unknown. As we continue down towards [[Hrakamar]], we see some vibrant red parrot. [[Indy]] tries to sneak up to the birds but gets shit on. [[Pandora]] whistles and another [[chawinga]]. She consistently one up's [[Indy]]. We come across a snake orgy in a pit. We start fucking with [[Indy]] and [[Pandora]] tries to scare him and he falls out of the tree super gracefully. We see a [[chawinga]] with a snake mask. After the snake orgy, it crawls into the [[chawinga]]'s mouth and the [[chawinga]] slithers away. No one has any idea of what the fuck is going on.
 
-We arrive at the [[Valley of Lost Honor]]
+We arrive at the [[Valley of Lost Honor]].
 
 Next Time:
- - set up the teleporter at [[Shilku]].
+- set up the teleporter at [[Shilku]].
 - Arrive at [[Hrakamar]]
 - kill all the fire newts
