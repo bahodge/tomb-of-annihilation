@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 28.md",
+                "file": "people/Vorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 28.md",
+                "file": "people/Vorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 28.md",
+                "file": "people/Vorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 28.md"
+                "file": "people/Vorn.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "a0923dd0888ae3b5",
   "lastOpenFiles": [
+    "sessions/Session 28.md",
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
-    "sessions/Session 28.md",
     "people/Vorn.md",
     "sessions/Session 6.md",
     "sessions/Session 27.md",
