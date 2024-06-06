@@ -1,0 +1,1 @@
+a rare metal used for high tier gear/crafting

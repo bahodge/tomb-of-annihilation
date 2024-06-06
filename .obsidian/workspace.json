@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4371d1a2f0f3a3f",
+            "id": "a0923dd0888ae3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 27.md",
+                "file": "sessions/Session 28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 27.md",
+                "file": "sessions/Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 27.md",
+                "file": "sessions/Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 27.md"
+                "file": "sessions/Session 28.md"
               }
             }
           }
@@ -146,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4371d1a2f0f3a3f",
+  "active": "a0923dd0888ae3b5",
   "lastOpenFiles": [
+    "creatures/fire newts.md",
+    "misc/fire newt mucus.md",
     "sessions/Session 28.md",
+    "people/Vorn.md",
+    "sessions/Session 6.md",
     "sessions/Session 27.md",
+    "misc/Moradan's Gauntlet.md",
+    "misc/adamantium.md",
+    "people/Seethee Stonesmith.md",
+    "places/Valley of Lost Honor.md",
     "sessions/Session 2.md",
     "sessions/Session 1.md",
-    "places/Valley of Lost Honor.md",
     "creatures/chawinga.md",
     "creatures/Chowatha.md",
     "groups/Golden Banner.md",
@@ -164,16 +171,9 @@
     "creatures/Dragon Tinder.md",
     "sessions/Session 26.md",
     "people/Hugh Hackenstone.md",
-    "people/Vorn.md",
     "sessions/Session 24.md",
     "people/Oculeth.md",
     "places/Keyas House of Repose.md",
-    "sessions/Session 25.md",
-    "people/Zendalla.md",
-    "people/Captain Elock J'harwan.md",
-    "people/Grandfather Zatembe.md",
-    "sessions/Session 21.md",
-    "people/Annette.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

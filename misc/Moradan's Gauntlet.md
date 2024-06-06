@@ -1,0 +1,1 @@
+Ceremonial gauntlet indicating the leader of [[Hrakamar]]
