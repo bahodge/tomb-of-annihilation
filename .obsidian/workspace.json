@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0923dd0888ae3b5",
+            "id": "aef5d42d0d4ab938",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f3821ad1f400bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79afd9f7e8de3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creatures/fire elemental.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Vorn.md"
+                "file": "sessions/Session 29.md"
               }
             }
           }
@@ -146,12 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0923dd0888ae3b5",
+  "active": "aef5d42d0d4ab938",
   "lastOpenFiles": [
+    "people/Vorn.md",
+    "sessions/Session 29.md",
+    "creatures/fire elemental.md",
     "sessions/Session 28.md",
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
-    "people/Vorn.md",
     "sessions/Session 6.md",
     "sessions/Session 27.md",
     "misc/Moradan's Gauntlet.md",
@@ -172,8 +198,6 @@
     "sessions/Session 26.md",
     "people/Hugh Hackenstone.md",
     "sessions/Session 24.md",
-    "people/Oculeth.md",
-    "places/Keyas House of Repose.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

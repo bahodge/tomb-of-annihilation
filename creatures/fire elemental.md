@@ -1,0 +1,1 @@
+Giant elemental that was born from the the forge of [[Hrakamar]]

@@ -16,4 +16,7 @@ We march in with [[Vorn]] and [[Munch]] at the front, making lots of noise. We c
 
  - 3 [[fire newt mucus]] vials.
 
-We use 2 [[fire newt mucus]] and lubricate the wheels of a mine cart to acrross the lava river.
+We use 2 [[fire newt mucus]] and lubricate the wheels of a mine cart to across the lava river. 
+
+Next time:
+	- continue fighting newts
