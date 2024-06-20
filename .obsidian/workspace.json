@@ -6,38 +6,34 @@
       {
         "id": "900fbbf3d72190ef",
         "type": "tabs",
+        "dimension": 29.1019955654102,
         "children": [
           {
-            "id": "aef5d42d0d4ab938",
+            "id": "10b0df0b719036e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 29.md",
+                "file": "people/Vorn.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7cdda40339d5528b",
+        "type": "tabs",
+        "dimension": 70.89800443458981,
+        "children": [
           {
-            "id": "87f3821ad1f400bc",
+            "id": "88afb224c73b98c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79afd9f7e8de3a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/fire elemental.md",
+                "file": "sessions/Session 30.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "silk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 29.md",
+                "file": "sessions/Session 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 29.md",
+                "file": "sessions/Session 30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 29.md"
+                "file": "sessions/Session 30.md"
               }
             }
           }
@@ -170,17 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aef5d42d0d4ab938",
+  "active": "88afb224c73b98c8",
   "lastOpenFiles": [
+    "places/Port Nyanzahru.md",
+    "sessions/Session 26.md",
     "people/Vorn.md",
+    "sessions/Session 30.md",
+    "sessions/Session 28.md",
+    "misc/Moradan's Gauntlet.md",
+    "people/Malkar.md",
     "sessions/Session 29.md",
     "creatures/fire elemental.md",
-    "sessions/Session 28.md",
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
     "sessions/Session 6.md",
     "sessions/Session 27.md",
-    "misc/Moradan's Gauntlet.md",
     "misc/adamantium.md",
     "people/Seethee Stonesmith.md",
     "places/Valley of Lost Honor.md",
@@ -194,10 +195,6 @@
     "people/Calindra.md",
     "places/Shilku.md",
     "places/Kobold Mountains.md",
-    "creatures/Dragon Tinder.md",
-    "sessions/Session 26.md",
-    "people/Hugh Hackenstone.md",
-    "sessions/Session 24.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
