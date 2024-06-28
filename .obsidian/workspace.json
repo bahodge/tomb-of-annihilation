@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "900fbbf3d72190ef",
+        "id": "d15cc790050f6218",
         "type": "tabs",
-        "dimension": 29.1019955654102,
+        "dimension": 40.691489361702125,
         "children": [
           {
-            "id": "10b0df0b719036e3",
+            "id": "6127f50ddbc122cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +19,33 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7cdda40339d5528b",
-        "type": "tabs",
-        "dimension": 70.89800443458981,
-        "children": [
+          },
           {
-            "id": "88afb224c73b98c8",
+            "id": "721d2ca8b22d653f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 30.md",
+                "file": "creatures/Giant Ant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "900fbbf3d72190ef",
+        "type": "tabs",
+        "dimension": 59.308510638297875,
+        "children": [
+          {
+            "id": "e4c1e51bd4b72e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 31.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "silk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 30.md",
+                "file": "people/Vorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 30.md",
+                "file": "people/Vorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 30.md"
+                "file": "people/Vorn.md"
               }
             }
           }
@@ -167,16 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88afb224c73b98c8",
+  "active": "6127f50ddbc122cf",
   "lastOpenFiles": [
-    "places/Port Nyanzahru.md",
-    "sessions/Session 26.md",
+    "sessions/Session 31.md",
     "people/Vorn.md",
+    "creatures/Giant Ant.md",
+    "creatures/kobold.md",
     "sessions/Session 30.md",
+    "sessions/Session 29.md",
+    "sessions/Session 26.md",
+    "places/Port Nyanzahru.md",
     "sessions/Session 28.md",
     "misc/Moradan's Gauntlet.md",
     "people/Malkar.md",
-    "sessions/Session 29.md",
     "creatures/fire elemental.md",
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
@@ -192,9 +206,6 @@
     "groups/Golden Banner.md",
     "people/Trade Princess Jesamine.md",
     "misc/nausea.md",
-    "people/Calindra.md",
-    "places/Shilku.md",
-    "places/Kobold Mountains.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
