@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Vorn.md"
+                "file": "sessions/Session 31.md"
               }
             }
           }
@@ -178,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6127f50ddbc122cf",
+  "active": "e4c1e51bd4b72e96",
   "lastOpenFiles": [
-    "sessions/Session 31.md",
     "people/Vorn.md",
+    "sessions/Session 31.md",
     "creatures/Giant Ant.md",
     "creatures/kobold.md",
     "sessions/Session 30.md",
