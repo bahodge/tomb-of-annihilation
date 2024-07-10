@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 31.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 32.md"
+                "file": "sessions/Session 31.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "f24b3aa5f05943f5",
   "lastOpenFiles": [
-    "sessions/Session 31.md",
     "sessions/Session 32.md",
+    "sessions/Session 31.md",
     "people/Queen Zelkor.md",
     "sessions/Session 4.md",
     "creatures/Giant Ant.md",

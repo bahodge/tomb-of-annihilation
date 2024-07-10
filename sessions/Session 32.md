@@ -6,4 +6,4 @@ We spend the night in [[Shilku]]. We step the the portal and go to [[Port Nyanza
 
 ## Port Nyanzahru
 
-We see [[Oculeth]]. He is happy.
+We see [[Oculeth]]. He is happy. We tell [[Oculeth]] that we slayed the [[Dragon Tinder]]. We ask about the [[colesseum]] was closed.
