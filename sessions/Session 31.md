@@ -43,7 +43,7 @@ We head to [[Shilku]] and we arrive about a day. We hold a democratic election a
 
 ## Loot
 
-- 20lbs of ingots of adamantine
+- 20lbs of ingots of adamantine for each of us. Each is worth 10gp
 - 5 adamantine weapons (one of these kinds of weapons battleaxes, greataxes, mauls, morningstars, war picks, warhammers)
 
 
