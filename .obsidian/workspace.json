@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "422ee102d76ce2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "Selida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "Selida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 32.md"
+                "file": "Selida.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f24b3aa5f05943f5",
+  "active": "422ee102d76ce2f3",
   "lastOpenFiles": [
-    "sessions/Session 31.md",
     "sessions/Session 32.md",
+    "Selida.md",
+    "sessions/Session 31.md",
     "misc/Eye of Zaltec.md",
     "places/Lost City of Omu.md",
     "people/Queen Zelkor.md",
@@ -186,7 +199,6 @@
     "sessions/Session 6.md",
     "sessions/Session 27.md",
     "misc/adamantium.md",
-    "people/Seethee Stonesmith.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
