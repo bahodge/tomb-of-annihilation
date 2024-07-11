@@ -40,4 +40,6 @@ We decide to head the the [[Garden Palace of Nangalor]] with [[Selida]] on the [
 
 We fly to [[Mezro]]. The city is abandoned. We land in the middle of the city on the main temple. As we land we see no movement at all. We ask [[Selida]] if [[Mezro]] was a busselling city but learn that it hasn't been for a long time. The [[Flaming Fists]] ransacked the city. We go into the central temple area.
 
-We find a giant tablet that says ""
+We find a giant tablet that says "Queen Napaka proclaims that the free people of Omu fear nothing. Brave new gods protect us, as Ubtao did before but does no longer. Omu will rise again, and Napaka shall reclaim all that is hers by right of conquest."
+
+[[Indy]] takes a paper and charcoal and copies the message.
