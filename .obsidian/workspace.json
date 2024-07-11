@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e39c1a1c6f3118b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/Garden Palace of Nangalor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d7f9713135c8aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Trade Princesses Ymezra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "422ee102d76ce2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3dce7bc11c0833e5",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +148,9 @@
   },
   "active": "3dce7bc11c0833e5",
   "lastOpenFiles": [
-    "places/Mezro.md",
+    "places/Oralunga.md",
     "sessions/Session 32.md",
+    "places/Mezro.md",
     "places/Garden Palace of Nangalor.md",
     "sessions/Session 4.md",
     "sessions/Session 31.md",
@@ -210,7 +174,6 @@
     "creatures/fire elemental.md",
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
-    "sessions/Session 6.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
