@@ -60,4 +60,4 @@ We ask the snake
 
 1. Where is [[Artis Cymber]]. [[Lost City of Omu]].
 2. How do we stop [[The Grey]]. It has something to do with the [[Lost City of Omu]].
-3. 
+3. Who is taking our body parts? That sounds like the work of the [[Hags Swin Sisters]].
