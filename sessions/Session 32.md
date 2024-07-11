@@ -22,3 +22,5 @@ We see [[Akina Afa]]. We produce the Adamantine, tanned dragon skin and the elem
 
 We shop around and steal some stuff. We spend the week at the [[Thundering Lizard]] for 1gp/night.
 
+[[Munch]] goes to the bath house and takes a bath.
+
