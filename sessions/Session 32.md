@@ -54,4 +54,10 @@ As we are sailing towards the [[zigurat]], we are unable to approach it from the
 
 We reach the second level but the stairs look very rickety. [[Pandora]] turns into a red parrot and we violently rip some feathers out of her wings. We climb up the steps. We remember a story about [[chawinga]]s and bonk snakes with the orchid and tickle them with a feather and then it slithers into our mouth. We all slither up to the top level of the [[zigurat]].
 
-We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Lost City of Omu]] to rid the world of [[Raznisi]].
+We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Lost City of Omu]] to rid the world of [[Raznisi]]. 
+
+We ask the snake
+
+1. Where is [[Artis Cymber]]. [[Lost City of Omu]].
+2. How do we stop [[The Grey]]. It has something to do with the [[Lost City of Omu]].
+3. 

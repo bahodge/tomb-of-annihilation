@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 25.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 32.md"
+                "file": "sessions/Session 25.md"
               }
             }
           }
@@ -161,10 +160,14 @@
   },
   "active": "3eda644a198d0574",
   "lastOpenFiles": [
-    "Saja n'baza.md",
-    "sessions/Session 32.md",
+    "sessions/Session 26.md",
     "sessions/Session 27.md",
+    "sessions/Session 28.md",
+    "sessions/Session 29.md",
+    "sessions/Session 30.md",
     "sessions/Session 31.md",
+    "sessions/Session 32.md",
+    "Saja n'baza.md",
     "places/Oralunga.md",
     "sessions/Session 20.md",
     "places/Mezro.md",
@@ -179,11 +182,7 @@
     "people/Eshek.md",
     "people/Vorn.md",
     "creatures/kobold.md",
-    "sessions/Session 30.md",
-    "sessions/Session 29.md",
-    "sessions/Session 26.md",
     "places/Port Nyanzahru.md",
-    "sessions/Session 28.md",
     "misc/Moradan's Gauntlet.md",
     "people/Malkar.md",
     "creatures/fire elemental.md",
