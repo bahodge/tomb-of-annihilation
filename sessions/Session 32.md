@@ -45,3 +45,5 @@ We find a giant tablet that says "Queen Napaka proclaims that the free people of
 [[Indy]] takes a paper and charcoal and copies the message. We look around and see a trail cut into the foliage that had overgrown the forest.
 
 We follow the trail to a building but see that someone was here maybe a month ago. It is [[Artis Cymber]]'s house. We find a note written by [[Artis Cymber]] that says that there is no change in [[Mezro]] and that he has gone to [[Oralunga]] for answers.
+
+We fly west to [[Dungrunglung]] and see that it was burned down. They were likely killed by a horde undead. We saw that the King [[G’roak]] is dead. We don't see [[Roark]] or [[Krr’ook]].
