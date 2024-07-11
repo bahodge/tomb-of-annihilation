@@ -1,1 +1,1 @@
-Ancient palace of riches ruled by [[Queen Zelkor]].
+Ancient palace of riches ruled by [[Queen Zelkor]]. In the far south of the continent.
