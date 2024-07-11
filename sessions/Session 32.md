@@ -63,3 +63,5 @@ We ask the snake
 3. Who is taking our body parts? That sounds like the work of the [[Hags Swin Sisters]].
 4. Where can we find the parts to heal [[Cyan]]'s master? [[Garden Palace of Nangalor]] but beware the Queen's sight.
 5. Is [[Nanny Pu'Pu]] a hag? She is a hag.
+
+We run out of questions but the threat of [[Raznisi]] must be dealt with. We promise [[Saja n'baza]] that we will kill them.
