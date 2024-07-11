@@ -52,4 +52,4 @@ We fly west to [[Dungrunglung]] and see that it was burned down. They were likel
 
 As we are sailing towards the [[zigurat]], we are unable to approach it from the sky. So we decide to land. We decide to scale up the [[zigurat]]. We climb up the the first few feet, but are unable to reach the top. [[Pandora]] uses her cloak and teleports her and and [[Munch]] to the top of the [[zigurat]]. We are unable to teleport to the top and we see a new [[chawinga]]. It scurries into the forest. [[Pandora]] was able to communicate with the [[chawinga]]. We look around for some orchids. We proceed up the stairs using the orchids.
 
-We reach the second level but the stairs look very rickety. [[Pandora]] turns into a red parrot and we violently rip some feathers out of her wings. We climb up the steps.
+We reach the second level but the stairs look very rickety. [[Pandora]] turns into a red parrot and we violently rip some feathers out of her wings. We climb up the steps. We remember a story about [[chawinga]]s and bonk snakes with the orchid and tickle them with a feather and then it slithers into our mouth.
