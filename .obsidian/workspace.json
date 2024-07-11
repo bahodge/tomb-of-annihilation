@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dce7bc11c0833e5",
+            "id": "3eda644a198d0574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "sessions/Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d33feb6186a5396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Oralung",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dce7bc11c0833e5",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "sessions/Session 20.md",
+    "sessions/Session 31.md",
     "places/Oralunga.md",
     "sessions/Session 32.md",
+    "sessions/Session 20.md",
     "places/Mezro.md",
     "places/Garden Palace of Nangalor.md",
     "sessions/Session 4.md",
-    "sessions/Session 31.md",
     "people/Trade Princesses Ymezra.md",
     "people/Selida.md",
     "misc/Eye of Zaltec.md",

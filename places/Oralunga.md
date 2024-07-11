@@ -1,1 +1,1 @@
-We are approached by a strange woman and are told to find Oralunga
+We are approached by a strange woman and are told to find Oralunga. A massive brick and stone [[zigurat]]. The top level is 60ft above the jungle floor. The stairs are choked with creepers and vines. Massively overgrown.

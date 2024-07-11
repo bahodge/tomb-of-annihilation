@@ -46,4 +46,8 @@ We find a giant tablet that says "Queen Napaka proclaims that the free people of
 
 We follow the trail to a building but see that someone was here maybe a month ago. It is [[Artis Cymber]]'s house. We find a note written by [[Artis Cymber]] that says that there is no change in [[Mezro]] and that he has gone to [[Oralunga]] for answers.
 
-We fly west to [[Dungrunglung]] and see that it was burned down. They were likely killed by a horde undead. We saw that the King [[G’roak]] is dead. We don't see [[Roark]] or [[Krr’ook]].
+We fly west to [[Dungrunglung]] and see that it was burned down. They were likely killed by a horde undead. We saw that the King [[G’roak]] is dead. We don't see [[Roark]] or [[Krr’ook]]. We continue to [[Oralunga]].
+
+## Oralunga
+
+As we are sailing towards the [[zigurat]], 
