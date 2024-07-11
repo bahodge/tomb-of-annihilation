@@ -34,4 +34,10 @@ We go to [[Trade Prince Zhan'ti]] and sell all the bolts of silk and loom for 20
 
 ## Port Nyanzahru Colesseum
 
-We decide to head the the [[Garden Palace of Nangalor]] with [[Selida]] on the [[Star Goddess]]. 
+We decide to head the the [[Garden Palace of Nangalor]] with [[Selida]] on the [[Star Goddess]].  We head to [[Mezro]] to to find [[Artis Cymber]] since it is on the way.
+
+## Mezro
+
+We fly to [[Mezro]]. The city is abandoned. We land in the middle of the city on the main temple. As we land we see no movement at all. We ask [[Selida]] if [[Mezro]] was a busselling city but learn that it hasn't been for a long time. The [[Flaming Fists]] ransacked the city. We go into the central temple area.
+
+We find a giant tablet that says ""

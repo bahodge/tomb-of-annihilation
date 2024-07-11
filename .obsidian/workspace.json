@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dce7bc11c0833e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/Garden Palace of Nangalor.md",
+                "file": "sessions/Session 32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/Garden Palace of Nangalor.md",
+                "file": "sessions/Session 32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/Garden Palace of Nangalor.md"
+                "file": "sessions/Session 32.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e39c1a1c6f3118b",
+  "active": "3dce7bc11c0833e5",
   "lastOpenFiles": [
+    "places/Mezro.md",
     "sessions/Session 32.md",
-    "sessions/Session 4.md",
     "places/Garden Palace of Nangalor.md",
+    "sessions/Session 4.md",
     "sessions/Session 31.md",
     "people/Trade Princesses Ymezra.md",
     "people/Selida.md",
@@ -198,7 +211,6 @@
     "creatures/fire newts.md",
     "misc/fire newt mucus.md",
     "sessions/Session 6.md",
-    "sessions/Session 27.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
