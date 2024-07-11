@@ -24,3 +24,6 @@ We shop around and steal some stuff. We spend the week at the [[Thundering Lizar
 
 [[Munch]] goes to the bath house and takes a bath.
 
+## Thundering Lizard
+
+We ask one of the guides if they can take us to the [[Lost City of Omu]]. Her name is [[Seli]]
