@@ -18,5 +18,7 @@ We see [[Akina Afa]]. We produce the Adamantine, tanned dragon skin and the elem
 
 [[Pandora]] asks why there is no one about the town. As people have been turning grey. Anyone who fights that has [[The Grey]] cannot be healed or resurrected. Thus forcing the [[colesseum]] to close.
 
-## Port Nyanzahru
+## Downtime Activity
+
+We shop around and steal some stuff. We spend the week at the [[Thundering Lizard]] for 1gp/night.
 
