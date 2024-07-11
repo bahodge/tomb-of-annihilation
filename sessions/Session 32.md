@@ -26,4 +26,6 @@ We shop around and steal some stuff. We spend the week at the [[Thundering Lizar
 
 ## Thundering Lizard
 
-We ask one of the guides if they can take us to the [[Lost City of Omu]]. Her name is [[Selida]]
+We ask one of the guides if they can take us to the [[Lost City of Omu]]. Her name is [[Selida]]. She agrees to take us.
+
+[[Munch]] goes to buy poison from [[Trade Princess Jesamine]] but she is dead and her daughter is now the trade princess. [[Trade Princesses Ymezra]]

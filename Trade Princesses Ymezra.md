@@ -1,0 +1,1 @@
+Daughter of [[Trade Princess Jesamine]] and in charge of dealing with plants poisons and assassinations.
