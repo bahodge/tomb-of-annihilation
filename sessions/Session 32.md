@@ -72,4 +72,6 @@ We run out of questions but the threat of [[Raj'nisi]] must be dealt with. We pr
 - [[Indy]] is granted the charm of far reach
 - [[Cyan]] is granted the panic charm
 
-We exit the temple and a massive shimmer happens.
+We exit the temple and a massive shimmer happens. We head back to the [[Star Goddess]]. We speak with [[Nanny Pu'Pu]].
+
+[[Lorenzo von Matterhorn]], [[Pandora]] and [[Munch]] confront [[Nanny Pu'Pu]]. We ask what she is and she admits to being a hag. We mention the [[Hags Swin Sisters]], and she spits on the ground. She admits she takes our body parts and we believe she is a [[Hags Swin Sisters]], and on that she teleports away.
