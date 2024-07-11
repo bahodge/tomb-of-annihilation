@@ -29,3 +29,9 @@ We ask one of the guides if they can take us to the [[Lost City of Omu]]. Her na
 [[Munch]] goes to buy poison from [[Trade Princess Jesamine]] but she is dead and her daughter is now the trade princess. We buy some drow poison from  [[Trade Princesses Ymezra]].
 
 We go to [[Trade Prince Zhan'ti]] and sell all the bolts of silk and loom for 2000gp. We also sell all of our other wares.  We go to the bonesmith and craft a new dragon short bow for [[Munch]].
+
+[[Pandora]] mercilessly killed [[Lorenzo von Matterhorn]]'s skeleton helpers. [[Lorenzo von Matterhorn]] respecs from skelli summoner spell to grasp of hadar.
+
+## Port Nyanzahru Colesseum
+
+We decide to head the the [[Garden Palace of Nangalor]] with [[Selida]] on the [[Star Goddess]]. 
