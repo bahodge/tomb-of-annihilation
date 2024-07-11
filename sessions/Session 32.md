@@ -65,3 +65,9 @@ We ask the snake
 5. Is [[Nanny Pu'Pu]] a hag? She is a hag.
 
 We run out of questions but the threat of [[Raznisi]] must be dealt with. We promise [[Saja n'baza]] that we will kill them.
+
+- [[Munch]] is granted the switcharoo charm
+- [[Pandora]] is granted the selfless charm
+- [[Lorenzo von Matterhorn]] is granted the challengers charm
+- [[Indy]] is granted the charm of far reach
+- [[Cyan]] is granted the panic charm
