@@ -50,4 +50,4 @@ We fly west to [[Dungrunglung]] and see that it was burned down. They were likel
 
 ## Oralunga
 
-As we are sailing towards the [[zigurat]], we are unable to approach it from the sky. So we decide to land. We decide to scale up the [[zigurat]].
+As we are sailing towards the [[zigurat]], we are unable to approach it from the sky. So we decide to land. We decide to scale up the [[zigurat]]. We climb up the the first few feet, 
