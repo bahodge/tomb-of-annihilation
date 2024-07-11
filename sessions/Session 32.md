@@ -42,4 +42,6 @@ We fly to [[Mezro]]. The city is abandoned. We land in the middle of the city on
 
 We find a giant tablet that says "Queen Napaka proclaims that the free people of Omu fear nothing. Brave new gods protect us, as Ubtao did before but does no longer. Omu will rise again, and Napaka shall reclaim all that is hers by right of conquest."
 
-[[Indy]] takes a paper and charcoal and copies the message.
+[[Indy]] takes a paper and charcoal and copies the message. We look around and see a trail cut into the foliage that had overgrown the forest.
+
+We follow the trail to a building but see that someone was here maybe a month ago.
