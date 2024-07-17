@@ -1,1 +1,1 @@
-As we board the ship [[Indy]] notices that one of his hands starts going grey. He feels cursed. 
+As we board the ship [[Indy]] notices that one of his hands starts going grey. He feels cursed. [[Indy]] and [[Lorenzo von Matterhorn]] try to decipher the tablet rubbing. [[Lorenzo von Matterhorn]] validates that common translation.
