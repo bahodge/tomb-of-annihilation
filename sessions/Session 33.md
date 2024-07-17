@@ -12,4 +12,4 @@ In the gazeebo we see a massive warrior statue. The face of the warrior has been
 
 [[Lorenzo von Matterhorn]] helps translate some plaques to help [[Indy]]
 1. bemused expression. The message above it reads, “This garden is dedicated to Zalkoré, queen of Omu and jewel of Chult.”
-2. 
+2. condescending expression. The message above it reads, “Worshiped by her people and by Thiru-taya, who crossed-out:loves BETRAYED her.”
