@@ -1,0 +1,1 @@
+As we board the ship [[Indy]] notices that one of his hands starts going grey. He feels cursed. 

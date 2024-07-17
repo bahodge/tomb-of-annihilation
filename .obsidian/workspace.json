@@ -13,74 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dea037d3c5b706a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755f835352199d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Saja n'baza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eda644a198d0574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d92d84867a18c9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Hags Swin Sisters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d00bbcab7d09d402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Saja n'baza.md",
+                "file": "sessions/Session 33.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 32.md",
+                "file": "sessions/Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 32.md"
+                "file": "sessions/Session 33.md"
               }
             }
           }
@@ -207,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dea037d3c5b706a9",
+  "active": "16e01c40f1492f8a",
   "lastOpenFiles": [
+    "sessions/Session 32.md",
+    "sessions/Session 33.md",
+    "people/Saja n'baza.md",
     "sessions/Session 31.md",
     "people/Raj'nisi.md",
-    "sessions/Session 32.md",
-    "people/Saja n'baza.md",
     "sessions/Session 23.md",
     "people/Hags Swin Sisters.md",
     "sessions/Session 5.md",
@@ -234,7 +174,6 @@
     "sessions/Session 21.md",
     "sessions/Session 22.md",
     "sessions/Session 24.md",
-    "sessions/Session 25.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

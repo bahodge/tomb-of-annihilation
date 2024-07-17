@@ -78,4 +78,4 @@ We exit the temple and a massive shimmer happens. We head back to the [[Star God
 
 
 ## Next time
-- got to [[Garden Palace of Nangalor]] for [[Cyan]] to find some special reagents to save his creator.
+- go to the [[Garden Palace of Nangalor]] for [[Cyan]] to find some special reagents to save his creator.
