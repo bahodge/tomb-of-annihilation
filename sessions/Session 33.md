@@ -6,6 +6,10 @@ A beautiful land mass surrounded by swamp. Lots of gardens with a large gazeebo 
 
 Looking into the palace we see gardens and many statues. Lots of untamed overgrowth.
 
-In the gazeebo we see a massive warrior statue. The face of the warrior has been obliterated by deep gouges. [[Indy]] begins translating a plaque.
+In the gazeebo we see a massive warrior statue. The face of the warrior has been obliterated by deep gouges. [[Indy]] begins translating a plaque. He translates it to. Warrior placard reads: “True love, faithful general, safe will you rest in Nangalore eternal. None will disturb you while I live. Such is my vow of penance, and for my sins I cannot die.” 
 
-[[Pandora]] and [[Cyan]] go and inspect the broken water wheel.
+[[Pandora]] and [[Cyan]] go and inspect the broken water wheel. Out of the water wheel spouts a [[chawinga]] and splashes in the water. It is very impressed with how tall [[Pandora]] is and dances around her. It splashes her with magic dust and [[Pandora]] feels blessed.
+
+[[Lorenzo von Matterhorn]] helps translate some plaques to help [[Indy]]
+1. bemused expression. The message above it reads, “This garden is dedicated to Zalkoré, queen of Omu and jewel of Chult.”
+2. 
