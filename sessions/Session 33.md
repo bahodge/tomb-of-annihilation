@@ -19,7 +19,7 @@ In the gazeebo we see a massive warrior statue. The face of the warrior has been
 
 We see a small message carved into the bottom of the statue and it says "forgive me". 
 
-[[Indy]] translates the plaque under a statue and it looks like it is a orc barbarian turned to stone.
+[[Indy]] translates the plaque under a statue and it looks like it is a orc barbarian turned to stone. As we are exploring the garden, [[Indy]] is attacked by a [[maneater]] and we begin fighting many garden plants.
 
 Munch attacks:
 - bow 1d6 + 5 piercing 
