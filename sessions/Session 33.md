@@ -24,7 +24,7 @@ We see a small message carved into the bottom of the statue and it says "forgive
 Munch attacks once:
 - bow 1d6 + 5 piercing 
 - bow 1d4 fire
-- swarm 1d6 
-- fire ant 1d4
-- sneak attack 1d6
 - hunters mark 1d6 
+- swarm 1d6 (1)
+- fire ant 1d4 (1)
+- sneak attack 1d6 (1)
