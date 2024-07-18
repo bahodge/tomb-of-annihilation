@@ -20,3 +20,11 @@ In the gazeebo we see a massive warrior statue. The face of the warrior has been
 We see a small message carved into the bottom of the statue and it says "forgive me". 
 
 [[Indy]] translates the plaque under a statue and it looks like it is a orc barbarian turned to stone.
+
+Munch attacks once:
+- bow 1d6 + 5 piercing 
+- bow 1d4 fire
+- swarm 1d6 
+- fire ant 1d4
+- sneak attack 1d6
+- hunters mark 1d6 
