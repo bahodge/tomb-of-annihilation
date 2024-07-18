@@ -17,4 +17,6 @@ In the gazeebo we see a massive warrior statue. The face of the warrior has been
 3. stern expression. The message above it reads, “In this, the tenth year of her reign, may she govern forever in splendor.”
 4. serene expression. The message above it reads, “And may the gods themselves marvel at this humble reflection of her beauty.”
 
-We see a small message carved into the bottom of the statue and it says "forgive me".
+We see a small message carved into the bottom of the statue and it says "forgive me". 
+
+[[Indy]] translates the plaque under a statue and it looks like it is a orc barbarian turned to stone.
