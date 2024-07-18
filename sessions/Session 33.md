@@ -10,6 +10,11 @@ In the gazeebo we see a massive warrior statue. The face of the warrior has been
 
 [[Pandora]] and [[Cyan]] go and inspect the broken water wheel. Out of the water wheel spouts a [[chawinga]] and splashes in the water. It is very impressed with how tall [[Pandora]] is and dances around her. It splashes her with magic dust and [[Pandora]] feels blessed.
 
-[[Lorenzo von Matterhorn]] helps translate some plaques to help [[Indy]]
+[[Lorenzo von Matterhorn]] helps translate some plaques to help [[Indy]] under some stone faces with different expressions.
+
 1. bemused expression. The message above it reads, “This garden is dedicated to Zalkoré, queen of Omu and jewel of Chult.”
 2. condescending expression. The message above it reads, “Worshiped by her people and by Thiru-taya, who crossed-out:loves BETRAYED her.”
+3. stern expression. The message above it reads, “In this, the tenth year of her reign, may she govern forever in splendor.”
+4. serene expression. The message above it reads, “And may the gods themselves marvel at this humble reflection of her beauty.”
+
+We see a small message carved into the bottom of the statue and it says "forgive me".
