@@ -30,3 +30,7 @@ Munch attacks:
 - fire ant 1d4 (1) 
 
 We killed all the plants.
+
+## Next time
+
+- ride on the back of a dinosaur and bust into the palace.
