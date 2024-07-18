@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maneater.md",
+                "file": "creatures/maneater.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,9 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e01c40f1492f8a",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "maneater.md",
+    "creatures/maneater.md",
     "sessions/Session 33.md",
     "sessions/Session 32.md",
     "people/Saja n'baza.md",
