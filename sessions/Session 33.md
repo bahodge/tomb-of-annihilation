@@ -21,10 +21,10 @@ We see a small message carved into the bottom of the statue and it says "forgive
 
 [[Indy]] translates the plaque under a statue and it looks like it is a orc barbarian turned to stone.
 
-Munch attacks once:
+Munch attacks:
 - bow 1d6 + 5 piercing 
 - bow 1d4 fire
 - hunters mark 1d6 
 - swarm 1d6 (1)
-- fire ant 1d4 (1)
 - sneak attack 1d6 (1)
+- fire ant 1d4 (1)
