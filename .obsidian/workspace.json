@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 33.md",
+                "file": "sessions/Session 34.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 33.md",
+                "file": "sessions/Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 33.md",
+                "file": "sessions/Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 33.md"
+                "file": "sessions/Session 34.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "16e01c40f1492f8a",
   "lastOpenFiles": [
-    "sessions/Session 34.md",
     "sessions/Session 33.md",
+    "sessions/Session 34.md",
     "creatures/maneater.md",
     "sessions/Session 32.md",
     "people/Saja n'baza.md",
