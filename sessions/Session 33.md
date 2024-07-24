@@ -27,7 +27,7 @@ Munch attacks:
 - hunters mark 1d6 
 - swarm 1d6 (1)
 - sneak attack 1d6 (1)
-- fire ant 1d4 (1) 
+- fire ant 1d4 (1)
 
 We killed all the plants.
 
