@@ -6,4 +6,5 @@ A figure appears dressed in beautiful feathery clothes. She says "Strangers have
 
 [[Pandora]] becomes [[Pandora]] the panderer and compliments the heckos peckos out of [[Queen Zelkor]] to avoid being turned into stone. She also has a great-great granddaughter in [[Kir Sabal]]. She tells us that we can find the [[Lost City of Omu]] in between the [[Peeks of Flame]] and the [[Valley of Lost Honor]]. It will be hard to find because it sank.
 
-As everyone is distracted [[Munch]] scurries down and steals the [[Black Orchid]] from the [[Queen Zelkor]]'s chamber and starts combat for everyone. "[[Munch]] drives stories forward" - [[Lorenzo von Matterhorn|Lorenzo]]>
+As everyone is distracted [[Munch]] scurries down and steals the [[Black Orchid]] from the [[Queen Zelkor]]'s chamber and starts combat for everyone. "[[Munch]] drives stories forward" - [[Lorenzo von Matterhorn|Lorenzo]].
+
