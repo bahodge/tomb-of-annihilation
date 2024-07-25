@@ -9,3 +9,5 @@ A figure appears dressed in beautiful feathery clothes. She says "Strangers have
 As everyone is distracted [[Munch]] scurries down and steals the [[Black Orchid]] from the [[Queen Zelkor]]'s chamber and starts combat for everyone. "[[Munch]] drives stories forward" - [[Lorenzo von Matterhorn|Lorenzo]].
 
 Steven says some bullshit about a burning bird flying through a water fountain to douse it's flame. [[Pandora]] rebukes the fuck out of a giant bird.
+
+[[Munch]] gets [[Minor kidney failure]]
