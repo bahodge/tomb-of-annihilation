@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0c158e0677eeb0b",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "places/Kir Sabal.md",
+    "places/Peeks of Flame.md",
     "sessions/Session 34.md",
+    "places/Kir Sabal.md",
     "sessions/Session 4.md",
     "sessions/Session 32.md",
     "people/Selida.md",
@@ -174,7 +174,6 @@
     "sessions/Session 11.md",
     "sessions/Session 12.md",
     "sessions/Session 13.md",
-    "sessions/Session 14.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
