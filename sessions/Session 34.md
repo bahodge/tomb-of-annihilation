@@ -11,3 +11,15 @@ As everyone is distracted [[Munch]] scurries down and steals the [[Black Orchid]
 Steven says some bullshit about a burning bird flying through a water fountain to douse it's flame. [[Pandora]] rebukes the fuck out of a giant bird.
 
 [[Munch]] gets [[Minor kidney failure]]. We loot some vials.
+
+We loot from Lorenzo
+- 2 potions of healing
+- robes
+- theives tools
+- crystal
+- light crossbow
+- Dragon Touched focus (metallic)
+- Dueling Gloves
+
+Next Time:
+- 
