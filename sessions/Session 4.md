@@ -1,4 +1,3 @@
-Session 4 recap
 - Met a shady character who wants to steal intel from [[Fort Beluarian]]
 - [[Undril Silvertusk]], half orc, is now a bunkmate with [[Jr]].
 - At the baths, there was a Chultan who would pay 100 GP to escort them to [[Aldani Basin]] looking for signs of the [[red wizards]]
