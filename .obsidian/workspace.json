@@ -30,42 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48be858cd5dd6663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "medusa saliva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "320f5fd773447585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/minor kidney failure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84756f1a8145a593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/major Kidney Failure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -197,9 +161,10 @@
   },
   "active": "8f1e203a455b5482",
   "lastOpenFiles": [
-    "medusa saliva.md",
-    "sessions/Session 35.md",
+    "misc/medusa saliva.md",
     "sessions/Session 34.md",
+    "Khar.md",
+    "sessions/Session 35.md",
     "misc/major Kidney Failure.md",
     "misc/minor kidney failure.md",
     "misc/minor organ necrosis.md",
@@ -222,7 +187,6 @@
     "people/Hags Swin Sisters.md",
     "sessions/Session 5.md",
     "sessions/Session 6.md",
-    "sessions/Session 7.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

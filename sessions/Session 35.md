@@ -6,3 +6,5 @@ We begin by looting [[Queen Zelkor]] and harvest 1 vial of [[medusa saliva]] tha
 - we find a tincture of dreaming
 
 [[Munch]] begins decorating the dead bodies of [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. [[Indy]] takes [[Pandora]]'s spell casting focus. 
+
+We speak with an unpetrified paladin who convinces us to use the medusa head to unpetrify a very handsome bugbear. He is carrying a bow and two shortswords. The bugbear is likely a hick. He introduces himself as [[Khar]]
