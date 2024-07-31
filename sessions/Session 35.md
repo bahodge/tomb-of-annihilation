@@ -14,3 +14,5 @@ We ask [[Khar]] what he can do. He says he is pretty good with a bow. We ask how
 We walk towards the the [[Star Goddess]] with [[Khar]] and the bodies and hear a scream for help in the forest. We find a very pretty but very young 16 year old human girl with red hair. She looks very dirty and gross.
 
 We lure the child with with candy out of a tree. [[Indy]] asks if she is hiding from someone and she says that she was separated and freaked out and word vomitted. She was with the [[Emerald Enclave]] looking for the cause of the undead menace as punished. She is named [[Merrick Ravenshade]].
+
+We embark on the [[Star Goddess]]. 
