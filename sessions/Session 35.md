@@ -9,4 +9,6 @@ We begin by looting [[Queen Zelkor]] and harvest 1 vial of [[medusa saliva]] tha
 
 We speak with an unpetrified paladin who convinces us to use the medusa head to unpetrify a very handsome bugbear. He is carrying a bow and two shortswords. The bugbear is likely a hick. He introduces himself as [[Khar]].
 
-We ask [[Khar]] what he can do. He says he is pretty good with a bow. We ask how he got here and he says that the [[Trade Princes]] told him to investigate the undead menace but it didn't 
+We ask [[Khar]] what he can do. He says he is pretty good with a bow. We ask how he got here and he says that the [[Trade Princes]] told him to investigate the undead menace but it didn't work.
+
+We walk towards the the [[Star Goddess]] with [[Khar]] and the bodies and hear a scream for help in the forest. We find a very pretty but very young 16 year old human girl with red hair. She looks very dirty and gross.
