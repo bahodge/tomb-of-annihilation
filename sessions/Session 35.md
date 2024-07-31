@@ -19,3 +19,4 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 ## Camp Vengeance
 
+We arrive at the camp and speak with [[Sister Cyas]] and get healed.

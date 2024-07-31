@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 34.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef73afc4e75fae72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/minor kidney failure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f026b36b04b7fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/major Kidney Failure.md",
+                "file": "sessions/Session 35.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/major Kidney Failure.md",
+                "file": "sessions/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/major Kidney Failure.md",
+                "file": "sessions/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/major Kidney Failure.md"
+                "file": "sessions/Session 35.md"
               }
             }
           }
@@ -171,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f026b36b04b7fd2",
+  "active": "8f1e203a455b5482",
   "lastOpenFiles": [
     "misc/minor kidney failure.md",
-    "sessions/Session 34.md",
+    "misc/major Kidney Failure.md",
     "sessions/Session 35.md",
+    "sessions/Session 34.md",
     "people/Merrick Ravenshade.md",
     "misc/medusa saliva.md",
     "people/Khar.md",
-    "misc/major Kidney Failure.md",
     "misc/minor organ necrosis.md",
     "misc/Moradan's Gauntlet.md",
     "sessions/Session 32.md",
