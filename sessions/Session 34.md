@@ -12,6 +12,8 @@ Steven says some bullshit about a burning bird flying through a water fountain t
 
 [[Munch]] gets [[minor kidney failure]]. We loot some vials.
 
+[[Pandora]] is struck down by arrows and dies. [[Lorenzo von Matterhorn|Lorenzo]] was also murdered by [[Queen Zelkor]].
+
 We loot Pandora
 - 
 
@@ -25,4 +27,4 @@ We loot from Lorenzo
 - Dueling Gloves
 
 Next Time:
-- 
+- unknown
