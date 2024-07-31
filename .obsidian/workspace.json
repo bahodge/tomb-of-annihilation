@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minor kidney failure.md",
+                "file": "misc/minor kidney failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Major Kidney Failure.md",
+                "file": "misc/major Kidney Failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,8 +172,10 @@
   },
   "active": "b0c158e0677eeb0b",
   "lastOpenFiles": [
-    "Major Kidney Failure.md",
-    "Minor kidney failure.md",
+    "misc/major Kidney Failure.md",
+    "misc/minor kidney failure.md",
+    "misc/minor organ necrosis.md",
+    "misc/Moradan's Gauntlet.md",
     "sessions/Session 34.md",
     "sessions/Session 32.md",
     "places/Peeks of Flame.md",
@@ -196,8 +198,6 @@
     "sessions/Session 7.md",
     "sessions/Session 8.md",
     "sessions/Session 9.md",
-    "sessions/Session 10.md",
-    "sessions/Session 11.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
