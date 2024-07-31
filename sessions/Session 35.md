@@ -4,3 +4,5 @@ We begin by looting [[Queen Zelkor]] and harvest 1 vial of [[medusa saliva]] tha
 - a co'atl bracelet
 - a wooden scroll tube decorated with skeletons
 - we find a tincture of dreaming
+
+[[Munch]] begins decorating the dead bodies of [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. [[Indy]] takes [[Pandora]]'s spell casting focus.
