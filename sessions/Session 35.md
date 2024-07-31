@@ -15,4 +15,7 @@ We walk towards the the [[Star Goddess]] with [[Khar]] and the bodies and hear a
 
 We lure the child with with candy out of a tree. [[Indy]] asks if she is hiding from someone and she says that she was separated and freaked out and word vomitted. She was with the [[Emerald Enclave]] looking for the cause of the undead menace as punished. She is named [[Merrick Ravenshade]].
 
-We embark on the [[Star Goddess]]. 
+We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]] and [[Indy]].
+
+## Camp Vengeance
+
