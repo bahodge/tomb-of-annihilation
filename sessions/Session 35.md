@@ -21,4 +21,8 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Lost City of Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. 
 
-[[Merrick Ravenshade]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]
+[[Merrick Ravenshade]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]. We say some beautiful memories about them. We take 20 crystals and head back to [[Port Nyanzahru]] to pick up [[Vorn]].
+
+## Port Nyanzahru
+
+We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 26.md",
+                "file": "sessions/Session 35.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 26.md",
+                "file": "sessions/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 26.md",
+                "file": "sessions/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 26.md"
+                "file": "sessions/Session 35.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "bef26de26d51c541",
   "lastOpenFiles": [
+    "sessions/Session 31.md",
+    "sessions/Session 32.md",
+    "sessions/Session 33.md",
+    "sessions/Session 29.md",
+    "sessions/Session 30.md",
+    "sessions/Session 26.md",
     "sessions/Session 28.md",
     "sessions/Session 24.md",
     "sessions/Session 22.md",
@@ -159,11 +165,8 @@
     "sessions/Session 13.md",
     "sessions/Session 12.md",
     "sessions/Session 7.md",
-    "sessions/Session 32.md",
-    "sessions/Session 31.md",
-    "sessions/Session 29.md",
     "sessions/Session 35.md",
-    "Vorn Crystal Mine.md",
+    "places/Vorn Crystal Mine.md",
     "places/Tomb of the Nine Gods.md",
     "misc/minor kidney failure.md",
     "misc/major Kidney Failure.md",
@@ -171,9 +174,6 @@
     "people/Merrick Ravenshade.md",
     "misc/medusa saliva.md",
     "people/Khar.md",
-    "misc/minor organ necrosis.md",
-    "misc/Moradan's Gauntlet.md",
-    "places/Peeks of Flame.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
