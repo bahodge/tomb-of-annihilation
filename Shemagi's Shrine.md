@@ -1,0 +1,1 @@
+Shrine in the [[Lost City of Omu]].

@@ -69,4 +69,5 @@ we see a mage circle and a large violet cracked crystal. [[Khar]] won't touch it
 
 We start searching the sector and see a walled compound. It is a large building w/ wall and smoke drifts lazily. Scorch march glaze the building. We are able to convince them that we know [[Valendra]]. We see a woman that has a face that is old and young. Her name is [[Zigmara]]. We tell here that [[Valendra]] moved east to of the [[Heart of Ubtoa]]. They found the [[Tomb of the Nine Gods]]. They have puzzle cube with the shape of jaguar and snakes coming out of it's back.
 
-They tell us they found the cube at [[Shemagi's Shrine]].
+They tell us they found the cube at [[Shemagi's Shrine]]. We think that we will fight the frog monster.
+
