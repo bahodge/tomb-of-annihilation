@@ -31,6 +31,15 @@ We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party go
 
 We fly to [[Lost City of Omu]] and try to land on the south side near a staircase. A ruined city drenched in a swollen river. A ruined palace lies a few hundred feet near the steaming gash. 
 
-Hexed Omu:
-- 16 - ornately decorated shrine
-- 
+[[Munch]] tries to plant the acorn outside the city but it jumps out of the hole. We continue down the stairs towards the guardhouse. We are able to squeeze under the gate.
+
+We go to the guardhouse and much of the interior is rubble. Covered in vines and graffiti with painted.
+
+“Fear the fangs of Ras Nsi!”
+“Erik, I’ve gone in search of the nine shrines. V.”
+“The puzzle cubes are the key.”
+“Beware the frog monster!”
+“Who is Unkh?”
+“All hail the King of Feathers!”
+“The snakes are not what they seem.”
+“Kubazan = bravery. Shagambi = wisdom. Moa = ?”
