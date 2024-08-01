@@ -33,6 +33,8 @@ We fly to [[Lost City of Omu]] and try to land on the south side near a staircas
 
 [[Munch]] tries to plant the acorn outside the city but it jumps out of the hole. We continue down the stairs towards the guardhouse. We are able to squeeze under the gate.
 
+## Sector 1
+
 We go to the guardhouse and much of the interior is rubble. Covered in vines and graffiti with painted.
 
 “Fear the fangs of Ras Nsi!”
@@ -49,6 +51,17 @@ We are ambushed by a bunch of snake people. They look similar to [[Raj'nisi]]. W
 We loot:
 - 3 longbows carved like snakes
 
-We are moving to hex 2
+## Sector 2
+
+We are moving to sector 2
 
 We see signs of a fight and see some goblin masks and weapons. We think that [[Queen Grabstab]] was captured.
+
+## Sector 3
+
+We move to sector 3. nothing
+
+## Sector 6
+
+we see a mage circle and a large violet cracked crystal. [[Khar]] won't touch it because it looks like a trap. [[Cyan]] tosses something into the circle and learns that the crystal can be used for devineing. [[Merrick Ravenshade]] walks in and grabs the crystal. She sees visions of the old Omuans and she sees and entity. Towards the end of the vision the entity locks eyes with [[Merrick Ravenshade|Merrick]]. [[Munch]] climbs onto [[Khar]]'s shoulders and get's a lift.
+
