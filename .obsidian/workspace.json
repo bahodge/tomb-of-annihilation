@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "452c74a09f802279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zigmara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "436e88ad16e8519a",
             "type": "leaf",
             "state": {
@@ -160,8 +172,9 @@
   },
   "active": "bef26de26d51c541",
   "lastOpenFiles": [
-    "people/Vorn.md",
+    "Zigmara.md",
     "sessions/Session 35.md",
+    "people/Vorn.md",
     "sessions/Session 31.md",
     "sessions/Session 32.md",
     "sessions/Session 33.md",
@@ -185,7 +198,6 @@
     "misc/major Kidney Failure.md",
     "sessions/Session 34.md",
     "people/Merrick Ravenshade.md",
-    "misc/medusa saliva.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
