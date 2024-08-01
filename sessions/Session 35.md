@@ -51,4 +51,4 @@ We loot:
 
 We are moving to hex 2
 
-We see signs of a fight and see some goblin
+We see signs of a fight and see some goblin masks and weapons. We think that [[Queen Grabstab]] was captured.
