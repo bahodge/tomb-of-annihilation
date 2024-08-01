@@ -30,3 +30,7 @@ We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party go
 ## Omu
 
 We fly to [[Lost City of Omu]] and try to land on the south side near a staircase. A ruined city drenched in a swollen river. A ruined palace lies a few hundred feet near the steaming gash. 
+
+Hexed Omu:
+- 16 - ornately decorated shrine
+- 
