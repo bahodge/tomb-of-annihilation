@@ -19,4 +19,4 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 ## Camp Vengeance
 
-We arrive at the camp and speak with [[Sister Cyas]] and get healed.
+We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Lost City of Omu]] and look for the [[Tomb of the Nine Gods]]
