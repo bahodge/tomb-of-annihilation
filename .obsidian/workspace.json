@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Vorn.md"
+                "file": "sessions/Session 35.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "436e88ad16e8519a",
+  "active": "bef26de26d51c541",
   "lastOpenFiles": [
+    "people/Vorn.md",
     "sessions/Session 35.md",
     "sessions/Session 31.md",
     "sessions/Session 32.md",
@@ -186,7 +186,6 @@
     "sessions/Session 34.md",
     "people/Merrick Ravenshade.md",
     "misc/medusa saliva.md",
-    "people/Khar.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

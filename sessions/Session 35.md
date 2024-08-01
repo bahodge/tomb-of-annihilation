@@ -43,3 +43,6 @@ We go to the guardhouse and much of the interior is rubble. Covered in vines and
 “All hail the King of Feathers!”
 “The snakes are not what they seem.”
 “Kubazan = bravery. Shagambi = wisdom. Moa = ?”
+
+We are ambushed by a bunch of snake people. They look similar to [[Raj'nisi]]. We kill all of them
+.
