@@ -49,3 +49,6 @@ We are ambushed by a bunch of snake people. They look similar to [[Raj'nisi]]. W
 We loot:
 - 3 longbows carved like snakes
 
+We are moving to hex 2
+
+We see signs of a fight and see some goblin
