@@ -71,3 +71,6 @@ We start searching the sector and see a walled compound. It is a large building 
 
 They tell us they found the cube at [[Shemagi's Shrine]]. We think that we will fight the frog monster.
 
+## Sector 9
+
+We head over to the sector to fight the large frogoid. Rope bridges have collapsed into the water in the pool. A large statue of a stone frog stands in the water.
