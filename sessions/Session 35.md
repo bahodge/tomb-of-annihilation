@@ -65,3 +65,7 @@ We move to sector 3. nothing
 
 we see a mage circle and a large violet cracked crystal. [[Khar]] won't touch it because it looks like a trap. [[Cyan]] tosses something into the circle and learns that the crystal can be used for devineing. [[Merrick Ravenshade]] walks in and grabs the crystal. She sees visions of the old Omuans and she sees and entity. Towards the end of the vision the entity locks eyes with [[Merrick Ravenshade|Merrick]]. [[Munch]] climbs onto [[Khar]]'s shoulders and get's a lift.
 
+## Sector 10
+
+We start searching the sector and see a walled compound. It is a large building w/ wall and smoke drifts lazily. Scorch march glaze the building.
+
