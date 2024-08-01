@@ -19,4 +19,6 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 ## Camp Vengeance
 
-We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Lost City of Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]].
+We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Lost City of Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. 
+
+[[Merrick Ravenshade]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]
