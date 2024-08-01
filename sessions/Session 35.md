@@ -26,3 +26,7 @@ We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out
 ## Port Nyanzahru
 
 We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse and bath to strategise about [[Lost City of Omu]]. We go shopping.
+
+## Omu
+
+We fly to [[Lost City of Omu]] and try to land on the south side near a staircase. A ruined city drenched in a swollen river. A ruined palace lies a few hundred feet near the steaming gash. 
