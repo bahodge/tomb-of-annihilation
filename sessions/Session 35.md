@@ -25,4 +25,4 @@ We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out
 
 ## Port Nyanzahru
 
-We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse 
+We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse and bath to strategise about [[Lost City of Omu]]. We go shopping.
