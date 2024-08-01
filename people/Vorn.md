@@ -3,4 +3,4 @@ Giant robot that can be controlled with a remote control. [[Munch]] currently co
 Vorn stat block
 https://www.dndbeyond.com/monsters/17012-shield-guardian
 Max Health - 155
-Current Health - 155
+Current Health - 144
