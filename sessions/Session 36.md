@@ -20,4 +20,4 @@ We see a raised stone road cutting through the city. There are noises coming fro
 
 ## Sector 19
 
-We see buildings but one very tall building stands out.
+We see buildings but one very tall building stands out. We walk towards the tall building and don't see anything.
