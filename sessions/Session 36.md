@@ -10,5 +10,8 @@
 
 ## Sector 13
 
-This sector is the back of the compound with gates. We spend 30 minutes exploring it and come across a large metal circle. It looks like a disc. There are two holes in the hole. [[Khar]] opens the manhole and sees that there is some stagnant water. The pipes turn towards the city.
+This sector is the back of the compound with gates. We spend 30 minutes exploring it and come across a large metal circle. It looks like a disc. There are two holes in the hole. [[Khar]] opens the manhole and sees that there is some stagnant water. The pipes turn towards the city. We make note of the entrance to the sewers and head to sector 14.
 
+## Sector 14
+
+We see a raised stone road cutting through the city. There are noises coming from the northern road and we see a group of [[kobold]]s walking down the road.
