@@ -16,4 +16,4 @@ This sector is the back of the compound with gates. We spend 30 minutes explorin
 
 We see a raised stone road cutting through the city. There are noises coming from the northern road and we see a group of [[kobold]]s walking down the road. 
 
-[[Munch]] approaches 
+[[Munch]] approaches the [[kobold]]s and asks to speak to their manager and they point to the ruined bazar
