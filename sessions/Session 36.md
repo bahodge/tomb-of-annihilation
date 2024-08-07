@@ -14,4 +14,6 @@ This sector is the back of the compound with gates. We spend 30 minutes explorin
 
 ## Sector 14
 
-We see a raised stone road cutting through the city. There are noises coming from the northern road and we see a group of [[kobold]]s walking down the road.
+We see a raised stone road cutting through the city. There are noises coming from the northern road and we see a group of [[kobold]]s walking down the road. 
+
+[[Munch]] approaches 
