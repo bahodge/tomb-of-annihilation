@@ -6,4 +6,4 @@
 
 [[Khar]] takes the key and jams it in and a stone door opens. Inside the shrine we see steps decending to a ledge overlooking sharpened stakes and an alcove on the far wall holds a pedestal with a cube atop it. Wooden beams radiate from the walls at floor hight.
 
-[[Merrick Ravenshade]] tries to grab the stone with mage hand but the door smashes shut.
+[[Merrick Ravenshade]] tries to grab the stone with mage hand but the door smashes shut. A wave of poison leaks out and we almost get poisoned.
