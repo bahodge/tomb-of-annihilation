@@ -42,8 +42,8 @@ During our searching we find a ruin that contains the remenants of a campsite fo
 
 We take a long rest and cook the rabbit meat.
 
-As we awake, we hear loud and loud footsteps approaching us. A massive T-rex busts through the ceiling. WE FIGHT!!! We kill the dinosaurs and harvest the hide and 4 bones of non-descript size.
+As we awake, we hear loud and loud footsteps approaching us. A massive T-rex busts through the ceiling. WE FIGHT!!! We kill the dinosaurs and harvest the hide and 4 bones of non-descript size. We killed what we think is the [[King of Feathers]]
 
 ## Next Time
 
-- Short 
+- Head north towards the massive loot at the bazzar
