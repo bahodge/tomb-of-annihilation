@@ -38,4 +38,4 @@ We decide to spend the night in a tiny hut so we continue moving forwards.
 
 ## Sector 37
 
-During our searching we find a ruin that contains the remenants of a campsite for 1 dozen people. There are bodies of mercenaries 
+During our searching we find a ruin that contains the remenants of a campsite for 1 dozen people. There are bodies of mercenaries, theyans and [[Yuan-ti]]. We find a mirror that is cracked and really cool. There are arcane glyphs on the mirror.
