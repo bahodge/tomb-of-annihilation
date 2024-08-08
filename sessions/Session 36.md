@@ -24,4 +24,8 @@ We see buildings but one very tall building stands out. We walk towards the tall
 
 ## Sector 25
 
-We look around the area. We find a building containing a carving depicting a carving of a massive serpent eating it's own tail surrounding a globe of [[Torrel]]. We also find the the remains of a dissected dwarf. [[Khar]] is overwhelmed by the sight and he becomes paralyzed. [[Indy]] catches him as he falls.
+We look around the area. We find a building containing a carving depicting a carving of a massive serpent eating it's own tail surrounding a globe of [[Torrel]]. We also find the the remains of a dissected dwarf. [[Khar]] is overwhelmed by the sight and he becomes paralyzed. [[Indy]] catches him as he falls. We explore the ruin and see that the body was dissected very thoroughly.
+
+## Sector 30
+
+We search the area and find some pillars. A pair of stone doors provide entry to a large ruined building. [[Munch]] pushes [[Cyan]] forward. As we walk in we see thecutest bunny with a unicorn horn scurry under some bushes. We find a bunny burroughs. [[Cyan]] sticks his hand into the hole and feels around. He tries to lure the rabbit out of the burrow and he is able to lure the [[bunnycorn]] 
