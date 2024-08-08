@@ -32,4 +32,4 @@ We search the area and find some pillars. A pair of stone doors provide entry to
 
 [[Cyan]] lets the rabbit go and [[Khar]] snaps its neck. We take the horn. We approach the door and see an inscription. "I’jin teaches us to take the path least expected." [[Indy]] looks for an entrance and [[Khar]] opens the doors. Carved tiles depicting beasts on the floor. [[Khar]] brute forces it and gets fucked up. Then [[Indy]] solves the puzzle and we follow him across.
 
-We reach a T intersection. We go left and reach another T intersection.
+We reach a T intersection. We go left and reach another T intersection. [[Munch]] uses arrows to help remember how to get out of the maze.
