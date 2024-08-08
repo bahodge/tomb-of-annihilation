@@ -30,4 +30,4 @@ We look around the area. We find a building containing a carving depicting a car
 
 We search the area and find some pillars. A pair of stone doors provide entry to a large ruined building. [[Munch]] pushes [[Cyan]] forward. As we walk in we see thecutest bunny with a unicorn horn scurry under some bushes. We find a bunny burroughs. [[Cyan]] sticks his hand into the hole and feels around. He tries to lure the rabbit out of the burrow and he is able to lure the [[almiraj]]. He tells us this is the [[Shrine of I'gin]]. She was a [[almiraj]]. They say that they have seen people go in and out of the shrine. I'gin was trickster god.
 
-[[Cyan]] lets the rabbit go and [[Khar]] snaps its neck. We take the horn. We approach the door and see an inscription. "I’jin teaches us to take the path least expected."
+[[Cyan]] lets the rabbit go and [[Khar]] snaps its neck. We take the horn. We approach the door and see an inscription. "I’jin teaches us to take the path least expected." [[Indy]] looks for an entrance and [[Khar]] opens the doors. Carved tiles depicting beasts on the floor.
