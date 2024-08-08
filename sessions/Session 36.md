@@ -46,4 +46,4 @@ As we awake, we hear loud and loud footsteps approaching us. A massive T-rex bus
 
 ## Next Time
 
-- Head north towards the massive loot at the bazzar
+- Head north towards the massive loot at the bazaar
