@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Vorn.md"
+                "file": "sessions/Session 36.md"
               }
             }
           }
@@ -159,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0537d3733aa43e8c",
+  "active": "cc79c16a5c681779",
   "lastOpenFiles": [
+    "people/Vorn.md",
     "sessions/Session 36.md",
     "almiraj.md",
     "Shrine of I'gin.md",
-    "people/Vorn.md",
     "sessions/Session 9.md",
     "Shemagi's Shrine.md",
     "Kubazan.md",
