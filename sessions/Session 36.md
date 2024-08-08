@@ -34,4 +34,8 @@ We search the area and find some pillars. A pair of stone doors provide entry to
 
 We reach a T intersection. We go left and reach another T intersection. [[Munch]] uses arrows to help remember how to get out of the maze. [[Indy]] takes the cube.
 
-## Sector 
+We decide to spend the night in a tiny hut so we continue moving forwards.
+
+## Sector 37
+
+During our searching we find a ruin that contains the remenants of a campsite for 1 dozen people. There are bodies of mercenaries 
