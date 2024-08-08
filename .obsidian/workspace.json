@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9633e6d79045aaf0",
+  "active": "bef26de26d51c541",
   "lastOpenFiles": [
-    "Shrine of I'gin.md",
+    "sessions/Session 9.md",
     "sessions/Session 36.md",
+    "Shrine of I'gin.md",
     "almiraj.md",
     "Shemagi's Shrine.md",
     "Kubazan.md",
@@ -210,7 +210,6 @@
     "sessions/Session 15.md",
     "sessions/Session 13.md",
     "sessions/Session 12.md",
-    "sessions/Session 7.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
