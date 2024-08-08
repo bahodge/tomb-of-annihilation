@@ -1,0 +1,1 @@
+Shrine in [[Lost City of Omu]] dedicated to a trickster god.
