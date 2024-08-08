@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cc79c16a5c681779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Vorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "499451404ae3e44e",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 36.md",
+                "file": "people/Vorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 36.md",
+                "file": "people/Vorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 36.md"
+                "file": "people/Vorn.md"
               }
             }
           }
@@ -182,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bef26de26d51c541",
+  "active": "cc79c16a5c681779",
   "lastOpenFiles": [
-    "sessions/Session 9.md",
     "sessions/Session 36.md",
+    "sessions/Session 9.md",
     "Shrine of I'gin.md",
     "almiraj.md",
     "Shemagi's Shrine.md",
