@@ -20,4 +20,4 @@ We see a raised stone road cutting through the city. There are noises coming fro
 
 ## Sector 19
 
-We see buildings but one very tall building stands out. We walk towards the tall building and don't see anything. [[Munch]] climbs the tower and looks towards the east and sees the river and a large tree. To the west, she sees a large metal disc in the ground.
+We see buildings but one very tall building stands out. We walk towards the tall building and don't see anything. [[Munch]] climbs the tower and looks towards the east and sees the river and a large tree. To the west, she sees a large metal disc in the ground. To the south she sees what she thinks is the [[Shemagi's Shrine]].

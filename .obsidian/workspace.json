@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c37c4d9493e013e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shemagi's Shrine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,12 +160,12 @@
   },
   "active": "bef26de26d51c541",
   "lastOpenFiles": [
-    "Kubazan.md",
+    "Shemagi's Shrine.md",
     "sessions/Session 36.md",
+    "Kubazan.md",
     "sessions/Session 35.md",
     "sessions/Session 34.md",
     "people/Vorn.md",
-    "Shemagi's Shrine.md",
     "Zigmara.md",
     "sessions/Session 31.md",
     "sessions/Session 32.md",
