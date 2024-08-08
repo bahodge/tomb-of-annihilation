@@ -42,4 +42,4 @@ During our searching we find a ruin that contains the remenants of a campsite fo
 
 We take a long rest and cook the rabbit meat.
 
-## 
+As we awake, we hear loud and loud footsteps approaching us.
