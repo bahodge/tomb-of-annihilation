@@ -12,3 +12,8 @@ We reach the edge of the water and come across a large wall.
 
 ## Sector 46
 
+We spot so [[Yuan-ti]] and they throw a spear at us and we run away. We head south.
+
+## Sector 32
+
+We see a crack in the wall surrounding the nicer part of the city. We slip through the crack.
