@@ -9,3 +9,6 @@ We see a building with a collapsed cellar. [[Munch]] and [[Cyan]] craw into the 
 We continue to the water and see a large ship near a massive waterfall. We hear a lot of magical powers and the longship spills down the waterfall. It is occupied by 2 large giants and a large dog.
 
 We reach the edge of the water and come across a large wall.
+
+## Sector 46
+
