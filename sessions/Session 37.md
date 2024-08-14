@@ -16,4 +16,8 @@ We spot so [[Yuan-ti]] and they throw a spear at us and we run away. We head sou
 
 ## Sector 32
 
-We see a crack in the wall surrounding the nicer part of the city. We slip through the crack.
+We see a crack in the wall surrounding the nicer part of the city. We slip through the crack. And sneak further into the city.
+
+## Sector 33
+
+We find a tunnel that leads into the back side of the shrine. We sneak down into the tunnel. The passage winds down into the bowels of the earth. We see harmless bugs. We continue down the tunnel. We find an underground river. Stalagtites hang low under it's surface.
