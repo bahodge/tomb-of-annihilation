@@ -1,3 +1,1 @@
-The royal lineage of [[Lost City of Omu|Omu]] 
-
-There is a number 205.
+Bloodlines of the Golden Throne: The Royal Lineage of Omu by Amara Lyrell - L/205
