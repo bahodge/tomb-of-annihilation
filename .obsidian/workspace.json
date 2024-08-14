@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa99267ef83bb4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloodlines of the Golden Throne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 37.md",
+                "file": "Bloodlines of the Golden Throne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 37.md",
+                "file": "Bloodlines of the Golden Throne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 37.md"
+                "file": "Bloodlines of the Golden Throne.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62337c00ba6e06f",
+  "active": "fa99267ef83bb4bc",
   "lastOpenFiles": [
-    "sessions/Session 36.md",
+    "Untitled.md",
+    "Bloodlines of the Golden Throne.md",
     "sessions/Session 37.md",
+    "sessions/Session 36.md",
     "sessions/Session 30.md",
     "people/Vorn.md",
     "creatures/King of Feathers.md",
@@ -185,8 +199,6 @@
     "sessions/Session 20.md",
     "sessions/Session 21.md",
     "sessions/Session 19.md",
-    "sessions/Session 18.md",
-    "sessions/Session 15.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
