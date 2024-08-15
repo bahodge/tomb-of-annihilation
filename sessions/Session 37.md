@@ -29,3 +29,5 @@ We capture the guy. We learn that we are in the [[Fane of the Night Serpent]]. H
 - We get 20 unidentified potions
 - We get 5 unidentified potions
 - We get 5 unidentified potions
+
+We continue down. We open a door and the poop door.
