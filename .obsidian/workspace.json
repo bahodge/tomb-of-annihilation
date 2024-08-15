@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6cadc691ce7df14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organ damage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 37.md",
+                "file": "organ damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 37.md",
+                "file": "organ damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 37.md"
+                "file": "organ damage.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7718346e5c6f2e4e",
+  "active": "f6cadc691ce7df14",
   "lastOpenFiles": [
-    "Fane of the Night Serpent.md",
     "sessions/Session 37.md",
+    "organ damage.md",
+    "Fane of the Night Serpent.md",
     "Untitled.md",
     "misc/Bloodlines of the Golden Throne.md",
     "sessions/Session 36.md",
@@ -186,7 +199,6 @@
     "sessions/Session 24.md",
     "sessions/Session 22.md",
     "sessions/Session 20.md",
-    "sessions/Session 21.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
