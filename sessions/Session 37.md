@@ -30,4 +30,6 @@ We capture the guy. We learn that we are in the [[Fane of the Night Serpent]]. H
 - We get 5 unidentified potions
 - We get 5 unidentified potions
 
-We continue down. We open a door and the poop door.
+We continue down. We open a door and the poop door. We sneak in and we think that it is a [[Yuan-ti]] breeding room. We continue forward.
+
+We see a bunch of [[Yuan-ti]] bathing in pools of blood.
