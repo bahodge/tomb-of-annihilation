@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organ damage.md",
+                "file": "sessions/Session 37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organ damage.md",
+                "file": "sessions/Session 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organ damage.md"
+                "file": "sessions/Session 37.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6cadc691ce7df14",
+  "active": "7718346e5c6f2e4e",
   "lastOpenFiles": [
-    "sessions/Session 37.md",
     "organ damage.md",
+    "sessions/Session 37.md",
     "Fane of the Night Serpent.md",
     "Untitled.md",
     "misc/Bloodlines of the Golden Throne.md",
