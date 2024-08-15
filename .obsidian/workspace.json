@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fane of the Night Serpent.md",
+                "file": "sessions/Session 37.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fane of the Night Serpent.md",
+                "file": "sessions/Session 37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fane of the Night Serpent.md",
+                "file": "sessions/Session 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fane of the Night Serpent.md"
+                "file": "sessions/Session 37.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "7718346e5c6f2e4e",
   "lastOpenFiles": [
-    "sessions/Session 37.md",
     "Fane of the Night Serpent.md",
+    "sessions/Session 37.md",
     "Untitled.md",
     "misc/Bloodlines of the Golden Throne.md",
     "sessions/Session 36.md",
