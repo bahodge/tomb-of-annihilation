@@ -1,0 +1,1 @@
+A [[Tabaxi]] imprisioned in [[Lost City of Omu|Omu]]. Was headed to [[Port Nyanzahru]].

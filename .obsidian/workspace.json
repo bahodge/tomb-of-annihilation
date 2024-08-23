@@ -18,6 +18,54 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "836382bfa17d834c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pottery Shard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "324375a0a40e3f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabaxi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "764cad1f8af59472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Olooma Authdamar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a098e230cdc1a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dragonbait.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -146,10 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62337c00ba6e06f",
+  "active": "e731be5a5da57152",
   "lastOpenFiles": [
-    "sessions/Session 37.md",
+    "Pottery Shard.md",
     "sessions/Session 38.md",
+    "Tabaxi.md",
+    "Olooma Authdamar.md",
+    "people/Queen Grabstab.md",
+    "Dragonbait.md",
+    "sessions/Session 37.md",
     "misc/organ damage.md",
     "misc/Fane of the Night Serpent.md",
     "misc/Bloodlines of the Golden Throne.md",
@@ -169,11 +222,6 @@
     "sessions/Session 32.md",
     "sessions/Session 33.md",
     "sessions/Session 29.md",
-    "sessions/Session 26.md",
-    "sessions/Session 28.md",
-    "sessions/Session 24.md",
-    "sessions/Session 22.md",
-    "sessions/Session 20.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
