@@ -1,1 +1,1 @@
-Stole a bunch of shit form [[Queen Zelkor]] and took it to [[Lost City of Omu|Omu]].
+Stole a bunch of shit form [[Queen Zelkor]] and took it to [[Omu|Omu]].

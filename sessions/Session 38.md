@@ -9,4 +9,8 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 2
 
-[[Munch]] and [[Indy]] are put into a cell with [[Pottery Shard]] and [[Olooma Authdamar]]. We ask how we can get out and 
+[[Munch]] and [[Indy]] are put into a cell with [[Pottery Shard]] and [[Olooma Authdamar]]. We ask how we can get out and [[Olooma Authdamar]] gives us a dagger. [[Munch]] hides the dagger in her hair.
+
+## Cell 3
+
+[[Khar]] and [[Merrick Ravenshade]] are put in a cell with [[Lomar Dral]] and [[Zilla Atazi]]. [[Lomar Dral]] was 

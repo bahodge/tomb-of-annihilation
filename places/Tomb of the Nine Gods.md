@@ -1,1 +1,1 @@
-Tomb in [[Lost City of Omu]]
+Tomb in [[Omu]]

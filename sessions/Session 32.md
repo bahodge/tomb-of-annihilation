@@ -14,7 +14,7 @@ We arrive and there big signs saying that the [[colesseum]] is closed. [[Lorenzo
 
 We see [[Akina Afa]]. We produce the Adamantine, tanned dragon skin and the elemental core. She offers to us to be able to use the ship to go into the jungle. We give her 60lbs of Adamantine ingots, the fire source. We have 40lbs of adamantine ingots left. 
 
-[[Akina Afa]] tells us that there is a weapon in the [[Lost City of Omu]]. It is a dagger. She thinks that it is rumored to be called the [[Eye of Zaltec]]. [[Pandora]] negotiates that if we bring [[Akina Afa]] the [[Eye of Zaltec]], she will let us choose to have a weapon from her personal collection. She says that it will take 1 week to fix up the [[Star Goddess]].
+[[Akina Afa]] tells us that there is a weapon in the [[Omu]]. It is a dagger. She thinks that it is rumored to be called the [[Eye of Zaltec]]. [[Pandora]] negotiates that if we bring [[Akina Afa]] the [[Eye of Zaltec]], she will let us choose to have a weapon from her personal collection. She says that it will take 1 week to fix up the [[Star Goddess]].
 
 [[Pandora]] asks why there is no one about the town. As people have been turning grey. Anyone who fights that has [[The Grey]] cannot be healed or resurrected. Thus forcing the [[colesseum]] to close.
 
@@ -24,7 +24,7 @@ We shop around and steal some stuff. We spend the week at the [[Thundering Lizar
 
 [[Munch]] goes to the bath house and takes a bath.
 
-We ask one of the guides if they can take us to the [[Lost City of Omu]]. Her name is [[Selida]]. She agrees to take us.
+We ask one of the guides if they can take us to the [[Omu]]. Her name is [[Selida]]. She agrees to take us.
 
 [[Munch]] goes to buy poison from [[Trade Princess Jesamine]] but she is dead and her daughter is now the trade princess. We buy some drow poison from  [[Trade Princesses Ymezra]].
 
@@ -54,12 +54,12 @@ As we are sailing towards the [[zigurat]], we are unable to approach it from the
 
 We reach the second level but the stairs look very rickety. [[Pandora]] turns into a red parrot and we violently rip some feathers out of her wings. We climb up the steps. We remember a story about [[chawinga]]s and bonk snakes with the orchid and tickle them with a feather and then it slithers into our mouth. We all slither up to the top level of the [[zigurat]].
 
-We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Lost City of Omu]] to rid the world of [[Raj'nisi]]. 
+We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Omu]] to rid the world of [[Raj'nisi]]. 
 
 We ask the snake
 
-1. [[Indy]] asks Where is [[Artis Cymber]]. [[Lost City of Omu]].
-2. [[Munch]] asks How do we stop [[The Grey]]. It has something to do with the [[Lost City of Omu]].
+1. [[Indy]] asks Where is [[Artis Cymber]]. [[Omu]].
+2. [[Munch]] asks How do we stop [[The Grey]]. It has something to do with the [[Omu]].
 3. [[Pandora]] Who is taking our body parts? That sounds like the work of the [[Hags Swin Sisters]].
 4. [[Cyan]]Where can we find the parts to heal [[Cyan]]'s master? [[Garden Palace of Nangalor]] but beware the Queen's sight.
 5. [[Lorenzo von Matterhorn]] is [[Nanny Pu'Pu]] a hag? She is a hag.

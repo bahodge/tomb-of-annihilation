@@ -19,17 +19,17 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 ## Camp Vengeance
 
-We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Lost City of Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. 
+We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. 
 
 [[Merrick Ravenshade]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]. We say some beautiful memories about them. We take 20 crystals and head back to [[Port Nyanzahru]] to pick up [[Vorn]].
 
 ## Port Nyanzahru
 
-We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse and bath to strategise about [[Lost City of Omu]]. We go shopping.
+We arrive fully refreshed and glistening at the [[Port Nyanzahru]]. The party goes to the bathouse and bath to strategise about [[Omu]]. We go shopping.
 
 ## Omu
 
-We fly to [[Lost City of Omu]] and try to land on the south side near a staircase. A ruined city drenched in a swollen river. A ruined palace lies a few hundred feet near the steaming gash. 
+We fly to [[Omu]] and try to land on the south side near a staircase. A ruined city drenched in a swollen river. A ruined palace lies a few hundred feet near the steaming gash. 
 
 [[Munch]] tries to plant the acorn outside the city but it jumps out of the hole. We continue down the stairs towards the guardhouse. We are able to squeeze under the gate.
 

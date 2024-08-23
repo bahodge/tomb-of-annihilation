@@ -6,7 +6,7 @@ We then move to talk to the king [[G’roak]]. He allows us to cast dispel magic
 
 We perform the ceremony and receive a Circlet of Blasting. We are also offered the help of the [[Grung]] whenever we need it using the secret [[Grung]] handshake.
 
-[[Munch]] asks about the [[Lost City of Omu]]. The [[Grung]] records state that the original shrine of [[Queen Nang Nang]]. It is believed to be far to the south. It is deep in the jungle and difficult to find.
+[[Munch]] asks about the [[Omu]]. The [[Grung]] records state that the original shrine of [[Queen Nang Nang]]. It is believed to be far to the south. It is deep in the jungle and difficult to find.
 
 We spend the night and collect our weapons and gear in the morning. We head back to [[Camp Vengeance]]. We inform the commander that we plan to go to the [[Aldani Basin]] with [[Annette]]. [[Munch]] is handed a note for safe treatment by [[Order of the Gauntlet]] members. But most will not be so kind to [[Goblins]]. [[Pandora]] continues training the [[utah raptor]] in the camp. [[Pandora]] says that she will sell the raptor when we head back to town.
 

@@ -1,0 +1,1 @@
+Was searching for someone in [[Port Nyanzahru]] and was poisoned and woke up in [[Omu]].

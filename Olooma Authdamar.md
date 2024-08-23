@@ -1,1 +1,1 @@
-Crew of the [[Star Goddess]] captured in [[Lost City of Omu|Omu]]
+Crew of the [[Star Goddess]] captured in [[Omu|Omu]]

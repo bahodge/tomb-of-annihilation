@@ -1,1 +1,1 @@
-Companion to [[Artis Cymber]], found imprisoned in [[Lost City of Omu|Omu]]
+Companion to [[Artis Cymber]], found imprisoned in [[Omu|Omu]]

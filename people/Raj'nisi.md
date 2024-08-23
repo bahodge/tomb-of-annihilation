@@ -1,1 +1,1 @@
-At the [[Lost City of Omu]] and related to [[The Grey]].
+At the [[Omu]] and related to [[The Grey]].

@@ -1,1 +1,1 @@
-Giant T-Rex in the [[Lost City of Omu]]
+Giant T-Rex in the [[Omu]]
