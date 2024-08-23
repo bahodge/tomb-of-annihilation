@@ -35,4 +35,4 @@ We continue down. We open a door and the poop door. We sneak in and we think tha
 We see a bunch of [[Yuan-ti]] bathing in pools of blood. We burst into the room and attack them. We literally kill thousands. [[Munch]] suffers from [[organ damage]].
 
 Next Time:
-- we continue fighting and try to escape
+- we continue fighting and try to escape or surrender!
