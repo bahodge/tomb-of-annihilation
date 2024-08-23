@@ -4,7 +4,7 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 1 
  
- [[Cyan]] sees [[Queen Grabstab]]. [[Queen Grabstab]] had also planted her seed and was about to perform the ritual but was captured. [[Cyan]] also meets [[Dragonbait]], companion to [[Artis Cymber]]. They are here to kill [[Raj'nisi]] but were captured before they could.
+ [[Cyan]] sees [[Queen Grabstab]]. [[Queen Grabstab]] had also planted her seed and was about to perform the ritual but was captured. [[Cyan]] also meets [[Dragonbait]], companion to [[Artis Cymber]]. They are here to kill [[Raj'nisi]] but were captured before they could. [[Cyan]] also learns that the carving with the snake is actually a teleporter used by [[Raj'nisi]].
 
 ## Cell 2
 
