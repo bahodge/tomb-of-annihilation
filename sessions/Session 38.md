@@ -19,7 +19,10 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 [[Selida]] is thrown into this cell.
 
 ---
-
 We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick Ravenshade]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Ahara]] will come. 
 
 We are told that we should watch what we say because he will report us to and kill us.
+
+---
+
+We fall asleep and awake the next day.

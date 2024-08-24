@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f9b92713cf67268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/organ damage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -146,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e731be5a5da57152",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "people/Artis Cymber.md",
+    "sessions/Session 37.md",
+    "misc/organ damage.md",
     "sessions/Session 38.md",
+    "people/Artis Cymber.md",
     "Yahru.md",
     "places/Omu.md",
     "Zilla Atazi.md",
@@ -159,8 +173,6 @@
     "Olooma Authdamar.md",
     "people/Queen Grabstab.md",
     "Dragonbait.md",
-    "sessions/Session 37.md",
-    "misc/organ damage.md",
     "misc/Fane of the Night Serpent.md",
     "misc/Bloodlines of the Golden Throne.md",
     "sessions/Session 36.md",
