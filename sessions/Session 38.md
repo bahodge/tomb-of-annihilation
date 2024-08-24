@@ -48,4 +48,4 @@ We are shuffled up to our task areas.
 We all head back to our cells.
 
 ---
- The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway.
+ The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway. We are asked about our opinion on [[Finthaza]]. We have none. We learn that top slaves go through rituals.
