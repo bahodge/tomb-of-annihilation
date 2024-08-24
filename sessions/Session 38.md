@@ -39,7 +39,7 @@ We are shuffled up to our task areas.
 
 [[Khar]] overhears the words "black feather, white mask" as he is performing his tasks. 
 
-[[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Finthaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
+[[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Fin'thaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
 
 [[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back. He learns more about the poisons about. We 
 
@@ -48,4 +48,8 @@ We are shuffled up to our task areas.
 We all head back to our cells.
 
 ---
- The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway. We are asked about our opinion on [[Finthaza]]. We have none. We learn that top slaves go through rituals and that they might survive to become a [[Yuan-ti]]. We are told to meet [[Finthaza]] at `x` time.
+ The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway. We are asked about our opinion on [[Fin'thaza]]. We have none. We learn that top slaves go through rituals and that they might survive to become a [[Yuan-ti]]. We are told to meet [[Fin'thaza]] at `x` time. 
+
+We learn that [[Nanth]] will let us out of the front gate if we kill [[Sek'loch]].
+
+We walk up and knock on the door to meet [[Fin'thaza]].

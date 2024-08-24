@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "22113307e0579ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nanth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cf41d25606c1b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Yahru.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -172,10 +148,10 @@
   },
   "active": "e731be5a5da57152",
   "lastOpenFiles": [
-    "Nanth.md",
-    "sessions/Session 38.md",
     "people/Yahru.md",
-    "Finthaza.md",
+    "sessions/Session 38.md",
+    "Fin'thaza.md",
+    "Nanth.md",
     "sessions/Session 37.md",
     "creatures/Azi Mas.md",
     "people/Overseer Ahara.md",
