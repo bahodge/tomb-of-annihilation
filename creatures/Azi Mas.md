@@ -1,0 +1,1 @@
+Giant constrictor snake in charge of the storeroom in [[Omu]]. Used to be a giant constrictor snake but was awakened by a druid.

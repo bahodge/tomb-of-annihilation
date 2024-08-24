@@ -19,7 +19,7 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 [[Selida]] is thrown into this cell.
 
 ---
-We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick Ravenshade]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Ahara]] will come. 
+We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick Ravenshade]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Aohara]] will come. 
 
 We are told that we should watch what we say because he will report us to and kill us.
 
@@ -37,4 +37,8 @@ We are shuffled up to our task areas.
 
 [[Munch]] and [[Queen Grabstab]] are reunited. A guard complains about a corrupt guard at the front gate. One of the guards is also very distracted eating candied [[Grung]] eggs. 
 
-[[Khar]] overhears the words "black feather, white mask" as he is performing his tasks.
+[[Khar]] overhears the words "black feather, white mask" as he is performing his tasks. 
+
+[[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Finthaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
+
+[[Cyan]] heads to the poison distillery.
