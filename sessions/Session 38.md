@@ -70,7 +70,4 @@ Keys are located at
 - hex 52 - [[Poppa'zotl]]'s shrine
 - hex 56 - [[Tomb of the Nine Gods]]
 
-We learn we have 2 keys right now.
-
-We take a long rest.
-
+We learn we have 2 keys right now. We take a long rest. We rendezvous with [[Vorn]] and head towards [[Queen Nang Nang]]'s shrine. 
