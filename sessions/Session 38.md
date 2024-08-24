@@ -41,4 +41,4 @@ We are shuffled up to our task areas.
 
 [[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Finthaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
 
-[[Cyan]] heads to the poison distillery.
+[[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back.
