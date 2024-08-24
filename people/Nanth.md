@@ -1,0 +1,1 @@
+Corrupt gate guard at [[Omu]]. Thinks he can be a better bodyguard than [[Sekelok]] to [[Raj'nisi]].

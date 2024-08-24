@@ -50,7 +50,7 @@ We all head back to our cells.
 ---
  The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway. We are asked about our opinion on [[Fin'thaza]]. We have none. We learn that top slaves go through rituals and that they might survive to become a [[Yuan-ti]]. We are told to meet [[Fin'thaza]] at `x` time. 
 
-We learn that [[Nanth]] will let us out of the front gate if we kill [[Sek'loch]]. We walk up and knock on the door to meet [[Fin'thaza]].
+We learn that [[Nanth]] will let us out of the front gate if we kill [[Sekelok]]. We walk up and knock on the door to meet [[Fin'thaza]].
 
 We talk to her about overthrowing [[Raj'nisi]] and agree that she will help us get our equipment.
 
