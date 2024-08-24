@@ -1,0 +1,1 @@
+Corrupt gate guard at [[Omu]].

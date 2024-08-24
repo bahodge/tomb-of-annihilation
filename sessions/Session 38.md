@@ -35,7 +35,7 @@ We fall asleep and awake the next day. We hear a slither enter the room. We are 
 
 We are shuffled up to our task areas.
 
-[[Munch]] and [[Queen Grabstab]] are reunited. A guard complains about a corrupt guard at the front gate. One of the guards is also very distracted eating candied [[Grung]] eggs. 
+[[Munch]] and [[Queen Grabstab]] are reunited. A guard complains about a corrupt guard at the front gate, [[Nanth]]. One of the guards is also very distracted eating candied [[Grung]] eggs. 
 
 [[Khar]] overhears the words "black feather, white mask" as he is performing his tasks. 
 
