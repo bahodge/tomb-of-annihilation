@@ -70,3 +70,5 @@ Keys are located at
 - hex 52 - [[Poppa'zotl]]'s shrine
 - hex 56 - [[Tomb of the Nine Gods]]
 
+We learn we have 2 keys right now.
+
