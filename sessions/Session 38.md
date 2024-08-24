@@ -25,4 +25,12 @@ We are told that we should watch what we say because he will report us to and ki
 
 ---
 
-We fall asleep and awake the next day.
+We fall asleep and awake the next day. We hear a slither enter the room. We are pulled out of the pit cells. A snake person and a small boy are in the room. [[Overseer Ahara]] has assigned us tasks. 
+
+- [[Munch]] is assigned to muck out the dino pen.
+- [[Cyan]] is assigned to clean the poison pen
+- [[Indy]] is cleaning the bloodroom
+- [[Merrick Ravenshade]] is rearanging the contents of the storeroom
+- [[Khar]] is to clean the nests
+
+We are shuffled up to our task areas.
