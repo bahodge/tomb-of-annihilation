@@ -72,3 +72,5 @@ Keys are located at
 
 We learn we have 2 keys right now.
 
+We take a long rest.
+
