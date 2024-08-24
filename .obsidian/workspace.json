@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe76258a079f8bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 38.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubtoa",
+                "query": "Shegambi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e731be5a5da57152",
+  "active": "fe76258a079f8bff",
   "lastOpenFiles": [
-    "people/Fin'thaza.md",
+    "sessions/Session 36.md",
+    "sessions/Session 35.md",
+    "places/Shegambi.md",
     "sessions/Session 38.md",
+    "people/Fin'thaza.md",
     "people/Sekelok.md",
     "people/Salida.md",
     "people/Yahru.md",
@@ -169,11 +186,8 @@
     "people/Dragonbait.md",
     "misc/Fane of the Night Serpent.md",
     "misc/Bloodlines of the Golden Throne.md",
-    "sessions/Session 36.md",
     "sessions/Session 30.md",
     "people/Vorn.md",
-    "creatures/King of Feathers.md",
-    "creatures/almiraj.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
