@@ -63,7 +63,7 @@ Keys are located at
 - hex 11 - [[Shagambi]] shrine
 - hex 16 - [[Moze]] shrine
 - hex 26 - [[Unk]]'s shrine
-- hex 28 - [[Obelok]] shrine
+- hex 28 - [[Obelack]] shrine
 - hex 30 - [[Igin]] shrine
 - hex 41 - [[Queen Nang Nang|Nang Nang]] shrine
 - hex 50 - [[Wongo]] shrine
@@ -76,4 +76,8 @@ We learn we have 2 keys right now. We take a long rest. We rendezvous with [[Vor
 
 We arrive at a shrine to [[Queen Nang Nang]] and see many dead [[Grung]]. [[Merrick Ravenshade|Merrick]] says that the area is gross. There is are two monoliths. We don't see anything that might have killed all the [[Grung]]. 
 
-We see a quote saying, "Nangnang teaches us to serve only ourselves". We also read of a story in which [[Queen Nang Nang]] steals a spear from [[Shegambi]]. We end up trying to figure out who is the wealthiest. So [[Cyan]], [[Munch]] and [[Merrick Ravenshade]] start stealing stuff and the door opens for [[Merrick Ravenshade]]. She grabes one of the cubes with an Icon of [[Queen Nang Nang]].
+We see a quote saying, "Nangnang teaches us to serve only ourselves". We also read of a story in which [[Queen Nang Nang]] steals a spear from [[Shegambi]]. We end up trying to figure out who is the wealthiest. So [[Cyan]], [[Munch]] and [[Merrick Ravenshade]] start stealing stuff and the door opens for [[Merrick Ravenshade]]. She grabes one of the cubes with an Icon of [[Queen Nang Nang]]. We now have 3 cubes.
+
+## Sector 34
+
+We head to [[Obelack]]'s shrine
