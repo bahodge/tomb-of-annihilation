@@ -71,3 +71,7 @@ Keys are located at
 - hex 56 - [[Tomb of the Nine Gods]]
 
 We learn we have 2 keys right now. We take a long rest. We rendezvous with [[Vorn]] and head towards [[Queen Nang Nang]]'s shrine. 
+
+## Sector 41
+
+We arrive at a shrine to [[Queen Nang Nang]] and see many dead [[Grung]]. [[Merrick Ravenshade|Merrick]] says that the area is gross. There is are two monoliths. We don't see anything that might have killed all the [[Grung]].
