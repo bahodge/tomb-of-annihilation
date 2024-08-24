@@ -16,7 +16,7 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 4
 
-[[Selida]] is thrown into this cell.
+[[Salida]] is thrown into this cell.
 
 ---
 We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick Ravenshade]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Aohara]] will come. 
@@ -54,4 +54,5 @@ We learn that [[Nanth]] will let us out of the front gate if we kill [[Sek'loch]
 
 We talk to her about overthrowing [[Raj'nisi]] and agree that she will help us get our equipment.
 
-We are taken to the thrown room and meet [[Raj'nisi]].
+We are taken to the thrown room and meet [[Raj'nisi]]. [[Raj'nisi]] informs us that [[Fin'thaza]] is a traitor and [[Raj'nisi]] kills [[Yahru]]. Turns out that [[Salida]] is a traitor
+

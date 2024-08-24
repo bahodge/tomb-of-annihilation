@@ -24,7 +24,7 @@ We shop around and steal some stuff. We spend the week at the [[Thundering Lizar
 
 [[Munch]] goes to the bath house and takes a bath.
 
-We ask one of the guides if they can take us to the [[Omu]]. Her name is [[Selida]]. She agrees to take us.
+We ask one of the guides if they can take us to the [[Omu]]. Her name is [[Salida]]. She agrees to take us.
 
 [[Munch]] goes to buy poison from [[Trade Princess Jesamine]] but she is dead and her daughter is now the trade princess. We buy some drow poison from  [[Trade Princesses Ymezra]].
 
@@ -34,11 +34,11 @@ We go to [[Trade Prince Zhan'ti]] and sell all the bolts of silk and loom for 20
 
 ## Port Nyanzahru Colesseum
 
-We decide to head the the [[Garden Palace of Nangalor]] with [[Selida]] on the [[Star Goddess]].  We head to [[Mezro]] to to find [[Artis Cymber]] since it is on the way.
+We decide to head the the [[Garden Palace of Nangalor]] with [[Salida]] on the [[Star Goddess]].  We head to [[Mezro]] to to find [[Artis Cymber]] since it is on the way.
 
 ## Mezro
 
-We fly to [[Mezro]]. The city is abandoned. We land in the middle of the city on the main temple. As we land we see no movement at all. We ask [[Selida]] if [[Mezro]] was a busselling city but learn that it hasn't been for a long time. The [[Flaming Fists]] ransacked the city. We go into the central temple area.
+We fly to [[Mezro]]. The city is abandoned. We land in the middle of the city on the main temple. As we land we see no movement at all. We ask [[Salida]] if [[Mezro]] was a busselling city but learn that it hasn't been for a long time. The [[Flaming Fists]] ransacked the city. We go into the central temple area.
 
 We find a giant tablet that says "Queen Napaka proclaims that the free people of Omu fear nothing. Brave new gods protect us, as Ubtao did before but does no longer. Omu will rise again, and Napaka shall reclaim all that is hers by right of conquest."
 

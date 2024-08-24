@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "956138a750d72592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Salida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d1d73ee50fba3b3d",
             "type": "leaf",
             "state": {
@@ -160,8 +172,9 @@
   },
   "active": "e731be5a5da57152",
   "lastOpenFiles": [
-    "Sek'loch.md",
+    "people/Salida.md",
     "sessions/Session 38.md",
+    "Sek'loch.md",
     "people/Yahru.md",
     "Fin'thaza.md",
     "Nanth.md",
@@ -185,7 +198,6 @@
     "people/Vorn.md",
     "creatures/King of Feathers.md",
     "creatures/almiraj.md",
-    "people/Zigmara.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
