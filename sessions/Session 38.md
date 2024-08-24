@@ -41,6 +41,8 @@ We are shuffled up to our task areas.
 
 [[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Finthaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
 
-[[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back. He learns more about the poisons about.
+[[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back. He learns more about the poisons about. We 
 
 [[Indy]] heads tot he showers and overhears a [[Yuan-ti]] talking about a black opal crown. She says that she thinks that is how they can summon [[Dendar]] and that they are losing faith in [[Raj'nisi]].
+
+We all head back to our cells.
