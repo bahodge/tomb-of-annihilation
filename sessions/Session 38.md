@@ -58,3 +58,15 @@ We are taken to the thrown room and meet [[Raj'nisi]]. [[Raj'nisi]] informs us t
 
 We convince [[Raj'nisi]] that we need to get to the [[Tomb of the Nine Gods]]. He says that it is in the north of the city. We are given our equipment and leave the city.
 
+Keys are located at
+- hex 9 - [[Kubazan]] shrine
+- hex 11 - [[Shagambi]] shrine
+- hex 16 - [[Moze]] shrine
+- hex 26 - [[Unk]]'s shrine
+- hex 28 - [[Obelok]] shrine
+- hex 30 - [[Igin]] shrine
+- hex 41 - [[Queen Nang Nang|Nang Nang]] shrine
+- hex 50 - [[Wongo]] shrine
+- hex 52 - [[Poppa'zotl]]'s shrine
+- hex 56 - [[Tomb of the Nine Gods]]
+
