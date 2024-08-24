@@ -56,6 +56,5 @@ We talk to her about overthrowing [[Raj'nisi]] and agree that she will help us g
 
 We are taken to the thrown room and meet [[Raj'nisi]]. [[Raj'nisi]] informs us that [[Fin'thaza]] is a traitor and [[Raj'nisi]] kills [[Yahru]]. Turns out that [[Salida]] is a traitor. We need to kill her. "She is literally the worst person in the entirety of the universe for deceiving us" - [[Cyan]].
 
-We convince [[Raj'nisi]] that we need to get to the [[Tomb of the Nine Gods]]. He says that it is in the north of the city.
-
+We convince [[Raj'nisi]] that we need to get to the [[Tomb of the Nine Gods]]. He says that it is in the north of the city. We are given our equipment and leave the city.
 
