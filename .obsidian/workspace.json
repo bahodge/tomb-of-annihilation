@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nanth.md",
+                "file": "sessions/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nanth.md",
+                "file": "sessions/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nanth.md"
+                "file": "sessions/Session 38.md"
               }
             }
           }
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22113307e0579ec1",
+  "active": "e731be5a5da57152",
   "lastOpenFiles": [
-    "sessions/Session 38.md",
     "Nanth.md",
+    "sessions/Session 38.md",
     "people/Yahru.md",
     "Finthaza.md",
     "sessions/Session 37.md",
