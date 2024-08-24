@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cf41d25606c1b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Yahru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,14 +160,14 @@
   },
   "active": "e731be5a5da57152",
   "lastOpenFiles": [
-    "Finthaza.md",
+    "people/Yahru.md",
     "sessions/Session 38.md",
+    "Finthaza.md",
     "sessions/Session 37.md",
     "creatures/Azi Mas.md",
     "people/Overseer Ahara.md",
     "misc/organ damage.md",
     "people/Artis Cymber.md",
-    "people/Yahru.md",
     "places/Omu.md",
     "people/Zilla Atazi.md",
     "people/Lomar Dral.md",

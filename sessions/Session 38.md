@@ -46,3 +46,6 @@ We are shuffled up to our task areas.
 [[Indy]] heads tot he showers and overhears a [[Yuan-ti]] talking about a black opal crown. She says that she thinks that is how they can summon [[Dendar]] and that they are losing faith in [[Raj'nisi]].
 
 We all head back to our cells.
+
+---
+ The next day, no work today. We have meetings with [[Yahru]]. He will meet with us in the columned hallway.
