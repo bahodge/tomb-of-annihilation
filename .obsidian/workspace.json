@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e731be5a5da57152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 38.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe76258a079f8bff",
             "type": "leaf",
             "state": {
@@ -32,19 +20,18 @@
             }
           },
           {
-            "id": "69bed0517fd0730f",
+            "id": "fe65f6c7b78eaee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obelack.md",
+                "file": "Session 39.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +160,9 @@
   },
   "active": "fe76258a079f8bff",
   "lastOpenFiles": [
-    "Obelack.md",
+    "Session 39.md",
     "sessions/Session 38.md",
+    "people/Obelack.md",
     "sessions/Session 36.md",
     "sessions/Session 35.md",
     "places/Shegambi.md",
@@ -199,7 +186,6 @@
     "people/Dragonbait.md",
     "misc/Fane of the Night Serpent.md",
     "misc/Bloodlines of the Golden Throne.md",
-    "sessions/Session 30.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
