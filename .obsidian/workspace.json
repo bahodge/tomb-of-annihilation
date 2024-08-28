@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 39.md",
+                "file": "sessions/Session 39.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 38.md",
+                "file": "sessions/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 38.md",
+                "file": "sessions/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 38.md"
+                "file": "sessions/Session 39.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe76258a079f8bff",
+  "active": "fe65f6c7b78eaee9",
   "lastOpenFiles": [
-    "Session 39.md",
     "sessions/Session 38.md",
+    "sessions/Session 39.md",
     "people/Obelack.md",
     "sessions/Session 36.md",
     "sessions/Session 35.md",
