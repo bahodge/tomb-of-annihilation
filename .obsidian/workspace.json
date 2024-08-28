@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Shegambi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe65f6c7b78eaee9",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
     "Zorbos.md",
     "sessions/Session 39.md",
