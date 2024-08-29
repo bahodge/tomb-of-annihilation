@@ -4,7 +4,7 @@
 
 We talk to the guide and he says they have 2 cubes but the red wizard who was carrying it was petrified. We learn that he was petrified as he picked up the cube.
 
-They have [[Shagambi]]'s cube and [[Moze]]'s cube.
+They have [[Shagambi]]'s cube and [[Moa]]'s cube.
 
 Inside of the shrine, there are walls and lit with torches. The corridors is painted with Omu'en reliefs depicting normal life. There is also some writing.
 
