@@ -40,4 +40,9 @@ Never strays from its master
 
 We literally solve the hardest puzzle in the world. We get another cube.
 
-## Sector 
+## Sector 51
+
+is very likely where the bazzar is located.
+## Sector 50
+
+We arrive at the [[Wongo]] shrine. 
