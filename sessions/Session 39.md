@@ -23,4 +23,4 @@ We go pickup [[Vorn]]
 
 ## Sector 52
 
-We find the shrine of [[Poppa'zotl]].
+We find the shrine of [[Poppa'zotl]]. [[Cyan]] is unable to climb the stairs and falls into a pit of alligator.
