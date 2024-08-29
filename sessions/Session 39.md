@@ -12,3 +12,8 @@ Inside of the shrine, there are walls and lit with torches. The corridors is pai
 
 We pick up the petrified man and take him out of the tomb. We unpetrify him with the [[medusa saliva]]. We wrestle 1 of his 2 cubes away and get the cube of [[Obelack]]. He is named [[Voj]]. We don't tell them that we know where other shrines are.
 
+
+## Sector 26
+
+We search the area and look for [[Unk]]'s shrine. We see swirling carvings and see the entrance to a shrine.
+
