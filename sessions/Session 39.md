@@ -25,4 +25,15 @@ We go pickup [[Vorn]]
 
 We find the shrine of [[Poppa'zotl]]. [[Cyan]] is unable to climb the stairs and falls into a pit of alligator. We fight a bunch of crocs and enter the shrine.
 
-We find some writing that says disc
+We find some writing that says "Papazotl teaches us to bow before no one"
+
+we find some common writing saying
+```
+Comes with sunshine
+Leaves with night
+Hides in darkness
+Does not bite
+Always joined to its caster
+Never strays from its master
+```
+
