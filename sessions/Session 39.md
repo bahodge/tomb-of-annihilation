@@ -45,4 +45,10 @@ We literally solve the hardest puzzle in the world. We get another cube.
 is very likely where the bazzar is located.
 ## Sector 50
 
-We arrive at the [[Wongo]] shrine. 
+We arrive at the [[Wongo]] shrine. We kill some monkeys
+
+Next time:
+- kill the [[red wizards]]
+	- get the cubes
+- go to the tomb
+- rescue grabstab
