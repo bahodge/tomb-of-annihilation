@@ -9,3 +9,5 @@ They have [[Shagambi]]'s cube and [[Moze]]'s cube.
 Inside of the shrine, there are walls and lit with torches. The corridors is painted with Omu'en reliefs depicting normal life. There is also some writing.
 
 "[[Obelack]] teaches us to tread warily and stay in the light"
+
+We pick up the petrified man and take him out of the tomb. We unpetrify him with the [[medusa saliva]]. We wrestle 1 of his 2 cubes away and get the cube of [[Obelack]].
