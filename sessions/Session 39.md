@@ -28,6 +28,7 @@ We find the shrine of [[Poppa'zotl]]. [[Cyan]] is unable to climb the stairs and
 We find some writing that says "Papazotl teaches us to bow before no one"
 
 we find some common writing saying
+
 ```
 Comes with sunshine
 Leaves with night
