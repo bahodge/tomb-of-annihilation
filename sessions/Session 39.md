@@ -38,3 +38,4 @@ Always joined to its caster
 Never strays from its master
 ```
 
+We literally solve the hardest puzzle in the world. We get another cube.
