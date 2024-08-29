@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ubtoa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe65f6c7b78eaee9",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "Voj.md",
+    "sessions/Session 17.md",
+    "sessions/Session 9.md",
+    "sessions/Session 11.md",
+    "sessions/Session 6.md",
     "sessions/Session 39.md",
-    "Zorbos.md",
+    "people/Voj.md",
+    "creatures/Zorbos.md",
     "sessions/Session 38.md",
     "people/Obelack.md",
     "sessions/Session 36.md",
@@ -170,10 +174,6 @@
     "people/Zilla Atazi.md",
     "people/Lomar Dral.md",
     "people/Pottery Shard.md",
-    "groups/Tabaxi.md",
-    "people/Olooma Authdamar.md",
-    "people/Queen Grabstab.md",
-    "people/Dragonbait.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
