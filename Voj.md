@@ -1,0 +1,1 @@
+Red wizard we rescued from the shrine of [[Obelack]].

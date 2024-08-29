@@ -10,4 +10,4 @@ Inside of the shrine, there are walls and lit with torches. The corridors is pai
 
 "[[Obelack]] teaches us to tread warily and stay in the light"
 
-We pick up the petrified man and take him out of the tomb. We unpetrify him with the [[medusa saliva]]. We wrestle 1 of his 2 cubes away and get the cube of [[Obelack]].
+We pick up the petrified man and take him out of the tomb. We unpetrify him with the [[medusa saliva]]. We wrestle 1 of his 2 cubes away and get the cube of [[Obelack]]. He is named [[Voj]].

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe76258a079f8bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 38.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe65f6c7b78eaee9",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "142647b4c5903940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zorbos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62337c00ba6e06f",
+  "active": "fe65f6c7b78eaee9",
   "lastOpenFiles": [
-    "Zorbos.md",
+    "Voj.md",
     "sessions/Session 39.md",
+    "Zorbos.md",
     "sessions/Session 38.md",
     "people/Obelack.md",
     "sessions/Session 36.md",
@@ -198,7 +174,6 @@
     "people/Olooma Authdamar.md",
     "people/Queen Grabstab.md",
     "people/Dragonbait.md",
-    "misc/Fane of the Night Serpent.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
