@@ -17,4 +17,4 @@ We pick up the petrified man and take him out of the tomb. We unpetrify him with
 
 We search the area and look for [[Unk]]'s shrine. We see swirling carvings and see the entrance to a shrine. Inside the shrine there are hundreds of keys, some bent, some broken and some serviceable.
 
-We find the keys 
+We find the keys that match
