@@ -15,5 +15,5 @@ We pick up the petrified man and take him out of the tomb. We unpetrify him with
 
 ## Sector 26
 
-We search the area and look for [[Unk]]'s shrine. We see swirling carvings and see the entrance to a shrine. Inside the shrine there are hundreds of keys, some bent, some broken and some servicable.
+We search the area and look for [[Unk]]'s shrine. We see swirling carvings and see the entrance to a shrine. Inside the shrine there are hundreds of keys, some bent, some broken and some serviceable.
 
