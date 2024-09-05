@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 40.md",
+                "file": "sessions/Session 38.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 40.md",
+                "file": "sessions/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 40.md",
+                "file": "sessions/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 40.md"
+                "file": "sessions/Session 38.md"
               }
             }
           }
@@ -160,17 +160,18 @@
   },
   "active": "368b3b277d2f6c93",
   "lastOpenFiles": [
+    "sessions/Session 37.md",
+    "sessions/Session 38.md",
+    "sessions/Session 40.md",
     "sessions/Session 39.md",
     "misc/organ damage.md",
     "people/Vorn.md",
-    "sessions/Session 40.md",
     "sessions/Session 17.md",
     "sessions/Session 9.md",
     "sessions/Session 11.md",
     "sessions/Session 6.md",
     "people/Voj.md",
     "creatures/Zorbos.md",
-    "sessions/Session 38.md",
     "people/Obelack.md",
     "sessions/Session 36.md",
     "sessions/Session 35.md",
@@ -180,7 +181,6 @@
     "people/Salida.md",
     "people/Yahru.md",
     "people/Nanth.md",
-    "sessions/Session 37.md",
     "creatures/Azi Mas.md",
     "people/Overseer Ahara.md",
     "people/Artis Cymber.md",

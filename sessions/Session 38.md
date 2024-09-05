@@ -61,7 +61,7 @@ We convince [[Raj'nisi]] that we need to get to the [[Tomb of the Nine Gods]]. H
 Keys are located at
 - hex 9 - [[Kubazan]] shrine
 - hex 11 - [[Shagambi]] shrine
-- hex 16 - [[Moze]] shrine
+- hex 16 - [[Moa]] shrine
 - hex 26 - [[Unk]]'s shrine
 - hex 28 - [[Obelack]] shrine
 - hex 30 - [[Igin]] shrine
