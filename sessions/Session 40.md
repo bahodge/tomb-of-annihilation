@@ -2,4 +2,4 @@ We go to the bazaar and trade with the kobolds. We then go to speak with the red
 
 we rest and then go to the [[Tomb of the Nine Gods]].
 
-We get to the [[Tomb of the Nine Gods]]. We then 
+We get to the [[Tomb of the Nine Gods]]. We then solve a puzzle and enter the western gate into the tomb. 
