@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5bfeeeeac07a9a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Vorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85546ac4c5bbbe0a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 40.md",
+                "file": "people/Vorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 40.md",
+                "file": "people/Vorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 40.md"
+                "file": "people/Vorn.md"
               }
             }
           }
@@ -158,14 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62337c00ba6e06f",
+  "active": "5bfeeeeac07a9a8c",
   "lastOpenFiles": [
+    "sessions/Session 40.md",
+    "people/Vorn.md",
     "sessions/Session 38.md",
     "sessions/Session 39.md",
     "sessions/Session 35.md",
-    "people/Vorn.md",
     "sessions/Session 37.md",
-    "sessions/Session 40.md",
     "misc/organ damage.md",
     "sessions/Session 17.md",
     "sessions/Session 9.md",
