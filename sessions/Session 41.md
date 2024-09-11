@@ -1,0 +1,1 @@
+We continue north in the tomb on level 1.

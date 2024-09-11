@@ -13,4 +13,8 @@ Opening the chest we find
 - stoppered bone tube 
 - 300gp
 
-We learn that [[Merrick Ravenshade]] and [[Khar]] are cursed but [[Munch]] infinite skill was able to avoid the curse. We continue down the o
+We learn that [[Merrick Ravenshade]] and [[Khar]] are cursed but [[Munch]] infinite skill was able to avoid the curse. We continue down the corridor
+
+## Next time
+
+- Head north
