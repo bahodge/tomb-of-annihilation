@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bfeeeeac07a9a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 40.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a98d03361dd0b78",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
