@@ -12,4 +12,4 @@ We continue to another room with a magnet statue that pulls quite hard. [[Khar]]
 
 We go down the stairs and begin exploring the level. We find a giant green devil mask that seems to be a "death slide". 
 
-We find a letter next to a dead body and a staff.
+We find a letter next to a dead body and a staff. We find another sarcophagus and upon opening it, the room locks and fills with wine. We fight some water elementals while [[Munch]] hides inside a sarcophagus.
