@@ -5,3 +5,4 @@ A mummy appears and we bigin combat.
 We kill the mummy and get a new fancy mace. We give the mace to [[Khar]] who is forced to drop his "special" ring. [[Khar]] tries to give the ring to someone else but we refuse and put it in the bag of holding.
 
 We continue to another room with a magnet statue that pulls quite hard. [[Khar]] finds a fountain. [[Khar]] drinks from the fountain and is transformed completely into a female. He is now a she named [[Khar|Khara]]
+
