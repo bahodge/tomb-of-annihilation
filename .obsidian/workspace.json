@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 41.md",
+                "file": "people/Vorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 41.md",
+                "file": "people/Vorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 41.md"
+                "file": "people/Vorn.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a98d03361dd0b78",
+  "active": "3aacb8419769dc54",
   "lastOpenFiles": [
-    "people/Vorn.md",
     "sessions/Session 41.md",
+    "people/Vorn.md",
     "sessions/Session 40.md",
     "sessions/Session 38.md",
     "sessions/Session 39.md",
