@@ -1,0 +1,1 @@
+[[Khara]] drinks the "supreme large potion" that we found in the room. She immediately takes poison damage. Luckily he isn't poisoned.
