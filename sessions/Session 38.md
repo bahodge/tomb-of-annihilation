@@ -12,7 +12,7 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 3
 
-[[Khar]] and [[Merrick Ravenshade]] are put in a cell with [[Lomar Dral]] and [[Zilla Atazi]]. [[Lomar Dral]]. The kind of slavery they do every day is not explained.
+[[Khara]] and [[Merrick Ravenshade]] are put in a cell with [[Lomar Dral]] and [[Zilla Atazi]]. [[Lomar Dral]]. The kind of slavery they do every day is not explained.
 
 ## Cell 4
 
@@ -31,13 +31,13 @@ We fall asleep and awake the next day. We hear a slither enter the room. We are 
 - [[Cyan]] is assigned to clean the poison pen
 - [[Indy]] is cleaning the bloodroom
 - [[Merrick Ravenshade]] is rearanging the contents of the storeroom
-- [[Khar]] is to clean the nests
+- [[Khara]] is to clean the nests
 
 We are shuffled up to our task areas.
 
 [[Munch]] and [[Queen Grabstab]] are reunited. A guard complains about a corrupt guard at the front gate, [[Nanth]]. One of the guards is also very distracted eating candied [[Grung]] eggs. 
 
-[[Khar]] overhears the words "black feather, white mask" as he is performing his tasks. 
+[[Khara]] overhears the words "black feather, white mask" as he is performing his tasks. 
 
 [[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Fin'thaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
 
