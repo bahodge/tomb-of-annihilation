@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 41.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 41.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Vorn.md",
+                "file": "sessions/Session 41.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Vorn.md"
+                "file": "sessions/Session 41.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "3aacb8419769dc54",
   "lastOpenFiles": [
-    "sessions/Session 41.md",
     "people/Vorn.md",
+    "sessions/Session 41.md",
     "sessions/Session 40.md",
     "sessions/Session 38.md",
     "sessions/Session 39.md",
