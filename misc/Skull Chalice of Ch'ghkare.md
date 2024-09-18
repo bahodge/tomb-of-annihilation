@@ -1,1 +1,1 @@
-Stolen by the accursed [[Asarak]]
+Stolen by the accursed [[Az'Sarak]]
