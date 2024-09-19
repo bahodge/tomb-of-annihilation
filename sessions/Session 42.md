@@ -37,8 +37,15 @@ We find.
 
 We find a froghemoth shrine. There are frescos on the wall and we all done some frog masks to try and recreate the scenes in the frescos.
 
-[[Munch]] finds some bracers of archery. She grabs them and becomes possessed by a froghemoth god.
+[[Munch]] finds some bracers of archery. She grabs them and becomes possessed by a froghemoth god. She is now possess by [[Kubazan]].
 
+![[Pasted image 20240918220458.png]]
 
+This makes 3 of us being possessed. 
+
+## Next Time
+
+- Explore level 3
+- take a long rest
 
 
