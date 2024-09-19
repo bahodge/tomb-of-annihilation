@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "9b7a9ffee704f804",
+            "id": "e67da3a2fe024842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Az'Sarak.md",
+                "file": "people/Khara.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "315aeee6980905d8",
+            "id": "9b7a9ffee704f804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Khara.md",
+                "file": "people/Az'Sarak.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,6 +172,7 @@
   },
   "active": "3aacb8419769dc54",
   "lastOpenFiles": [
+    "people/Khar.md",
     "people/Khara.md",
     "sessions/Session 42.md",
     "people/Az'Sarak.md",
@@ -197,7 +198,6 @@
     "people/Salida.md",
     "people/Yahru.md",
     "people/Nanth.md",
-    "creatures/Azi Mas.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

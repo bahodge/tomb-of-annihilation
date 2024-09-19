@@ -1,1 +1,1 @@
-Bugbear formerly known as Khar. Had a sex change by drinking from a magical fountain in the [[Tomb of the Nine Gods]].:w
+The sex changed bugbear [[Khar]]. Turned female after drinking from a fountain. Constantly being possessed.

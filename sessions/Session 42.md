@@ -4,6 +4,13 @@ We push and pull and try to open the door to get out of the room. At the midpoin
 
 We continue through the hallway. We are told that we should shatter the bottle when we need her. She disappears.
 
-We open the secret door and kill a skeleton and some zombies. We find a sarcophagus with a crane on it. [[Indy]] touches it and a bunch of skeletons appear out of the cauldrons.
+We open the secret door and kill a skeleton and some zombies. We find a sarcophagus with a crane on it. [[Indy]] touches it and a bunch of skeletons appear out of the cauldrons. We kill all the skeltons.
 
+We find
+- golden torc (neck ornament) 250gp
+- 3 beautiful golden cups 75gp/ea
+- 5 gold cloak pins 25gp/ea
+- Golden amulet
+
+[[Khara]] touches the amulet and a shadowy crane appears. [[Khara]] is possessed by the spirit and drops the mace. [[Khara]] is now even more pristine. We throw the mace in the bag of holding.
 

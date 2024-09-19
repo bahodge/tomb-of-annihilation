@@ -4,13 +4,13 @@
 
 > "[[Kubazan]] urges us to tread without fear and to give back as much as we take.”
 
-[[Khara]] takes the key and jams it in and a stone door opens. Inside the shrine we see steps decending to a ledge overlooking sharpened stakes and an alcove on the far wall holds a pedestal with a cube atop it. Wooden beams radiate from the walls at floor hight.
+[[Khar]] takes the key and jams it in and a stone door opens. Inside the shrine we see steps decending to a ledge overlooking sharpened stakes and an alcove on the far wall holds a pedestal with a cube atop it. Wooden beams radiate from the walls at floor hight.
 
 [[Merrick Ravenshade]] tries to grab the stone with mage hand but the door smashes shut. A wave of poison leaks out and we almost get poisoned. [[Indy]] jumps across the threshold and does an indiana jones idol swap. He picks up the stone cube with iconography of the Froghemoth.
 
 ## Sector 13
 
-This sector is the back of the compound with gates. We spend 30 minutes exploring it and come across a large metal circle. It looks like a disc. There are two holes in the hole. [[Khara]] opens the manhole and sees that there is some stagnant water. The pipes turn towards the city. We make note of the entrance to the sewers and head to sector 14.
+This sector is the back of the compound with gates. We spend 30 minutes exploring it and come across a large metal circle. It looks like a disc. There are two holes in the hole. [[Khar]] opens the manhole and sees that there is some stagnant water. The pipes turn towards the city. We make note of the entrance to the sewers and head to sector 14.
 
 ## Sector 14
 
@@ -24,13 +24,13 @@ We see buildings but one very tall building stands out. We walk towards the tall
 
 ## Sector 25
 
-We look around the area. We find a building containing a carving depicting a carving of a massive serpent eating it's own tail surrounding a globe of [[Torrel]]. We also find the the remains of a dissected dwarf. [[Khara]] is overwhelmed by the sight and he becomes paralyzed. [[Indy]] catches him as he falls. We explore the ruin and see that the body was dissected very thoroughly.
+We look around the area. We find a building containing a carving depicting a carving of a massive serpent eating it's own tail surrounding a globe of [[Torrel]]. We also find the the remains of a dissected dwarf. [[Khar]] is overwhelmed by the sight and he becomes paralyzed. [[Indy]] catches him as he falls. We explore the ruin and see that the body was dissected very thoroughly.
 
 ## Sector 30
 
 We search the area and find some pillars. A pair of stone doors provide entry to a large ruined building. [[Munch]] pushes [[Cyan]] forward. As we walk in we see thecutest bunny with a unicorn horn scurry under some bushes. We find a bunny burroughs. [[Cyan]] sticks his hand into the hole and feels around. He tries to lure the rabbit out of the burrow and he is able to lure the [[almiraj]]. He tells us this is the [[Shrine of I'gin]]. She was a [[almiraj]]. They say that they have seen people go in and out of the shrine. I'gin was trickster god.
 
-[[Cyan]] lets the rabbit go and [[Khara]] snaps its neck. We take the horn. We approach the door and see an inscription. "I’jin teaches us to take the path least expected." [[Indy]] looks for an entrance and [[Khara]] opens the doors. Carved tiles depicting beasts on the floor. [[Khara]] brute forces it and gets fucked up. Then [[Indy]] solves the puzzle and we follow him across.
+[[Cyan]] lets the rabbit go and [[Khar]] snaps its neck. We take the horn. We approach the door and see an inscription. "I’jin teaches us to take the path least expected." [[Indy]] looks for an entrance and [[Khar]] opens the doors. Carved tiles depicting beasts on the floor. [[Khar]] brute forces it and gets fucked up. Then [[Indy]] solves the puzzle and we follow him across.
 
 We reach a T intersection. We go left and reach another T intersection. [[Munch]] uses arrows to help remember how to get out of the maze. [[Indy]] takes the cube.
 
