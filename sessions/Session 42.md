@@ -24,7 +24,7 @@ We take a short rest
 
 We decend to the third floor and encounter a fungus with eyestalks creeping out. [[Munch]] chops one of the eyestalks as it tries to charm her. Other eyestalks appear. [[Merrick]] explores further and finds a jackal carving. She looks through it and finds that the death slide from level 2 drops into a chamber with a sarcophagus decorated with [[almiraj]]. A dwarf enters the room and triggers a pressure plate and is devoured by a swarm of insects.
 
-We continue down a hallway with 2 tomb guardians. [[Merrick]] is able sneak by. [[Khara]]'s but hits the chain and the tomb guardians are alerted.
+We continue down a hallway with 2 tomb guardians. [[Merrick]] is able sneak by. [[Khara]]'s but hits the chain and the tomb guardians are alerted. We fight the tomb guardians.
 
 -  Item usages
 	- 
