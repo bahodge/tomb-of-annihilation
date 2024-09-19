@@ -37,4 +37,8 @@ We find.
 
 We find a froghemoth shrine. There are frescos on the wall and we all done some frog masks to try and recreate the scenes in the frescos.
 
+[[Munch]] finds some bracers of archery. She grabs them and becomes possessed by a froghemoth god.
+
+
+
 
