@@ -27,3 +27,11 @@ We decend to the third floor and encounter a fungus with eyestalks creeping out.
 We continue down a hallway with 2 tomb guardians. [[Merrick]] is able sneak by. [[Khara]]'s but hits the chain and the tomb guardians are alerted. We fight the tomb guardians.
 
 We kill the tomb guardians and move to a door. We open the door and find a tapestry depicting nobles. We move the first tapestry which shows nobles enjoying a feast. We move and see the second one which is the nobles are depraved. We move the second tapestry and it scares [[Munch]].  
+
+[[Indy]] and [[Merrick]] try to commit suicide by shoving their heads inside a boars head. We narrowly escape death.
+
+We find.
+- fancy spectacles 100gp
+- Eyepatch set with bloodstone 75gb
+- Platinum Hairpin 150gp
+- 
