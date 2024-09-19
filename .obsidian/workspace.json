@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f36742dadc8ff42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Merrick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "480f5ac96d8321c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Vorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e67da3a2fe024842",
             "type": "leaf",
             "state": {
@@ -172,12 +196,13 @@
   },
   "active": "3aacb8419769dc54",
   "lastOpenFiles": [
+    "people/Merrick.md",
+    "sessions/Session 42.md",
+    "people/Vorn.md",
     "people/Khar.md",
     "people/Khara.md",
-    "sessions/Session 42.md",
     "people/Az'Sarak.md",
     "sessions/Session 41.md",
-    "people/Vorn.md",
     "sessions/Session 40.md",
     "sessions/Session 38.md",
     "sessions/Session 39.md",
@@ -197,7 +222,6 @@
     "people/Sekelok.md",
     "people/Salida.md",
     "people/Yahru.md",
-    "people/Nanth.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",

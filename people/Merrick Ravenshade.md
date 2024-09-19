@@ -1,1 +1,0 @@
-A human 16 year old girl found by the [[Dinoseurs]].

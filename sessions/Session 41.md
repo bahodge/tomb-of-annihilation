@@ -14,7 +14,7 @@ We go down the stairs and begin exploring the level. We find a giant green devil
 
 We find a letter next to a dead body and a staff. We find another sarcophagus and upon opening it, the room locks and fills with wine. We fight some water elementals while [[Munch]] hides inside a sarcophagus.We kill a bunch of elementals and crawl through one of the gargoyle mouths that is spewing out the wine.
 
-We find a salt pentagram and [[Khar|Khar]] immediately breaks it. We are attacked by an invisible creature. We kill the creature and explore the room. [[Khar|Khar]] gives [[Merrick Ravenshade]] her dragon touch focus. [[Khar|Khar]] opens the sarcophagus. Inside the sarcophagus is 
+We find a salt pentagram and [[Khar|Khar]] immediately breaks it. We are attacked by an invisible creature. We kill the creature and explore the room. [[Khar|Khar]] gives [[Merrick]] her dragon touch focus. [[Khar|Khar]] opens the sarcophagus. Inside the sarcophagus is 
 
 - 1 petrified urn
 - 1 egg

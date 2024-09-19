@@ -12,14 +12,14 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 3
 
-[[Khar]] and [[Merrick Ravenshade]] are put in a cell with [[Lomar Dral]] and [[Zilla Atazi]]. [[Lomar Dral]]. The kind of slavery they do every day is not explained.
+[[Khar]] and [[Merrick]] are put in a cell with [[Lomar Dral]] and [[Zilla Atazi]]. [[Lomar Dral]]. The kind of slavery they do every day is not explained.
 
 ## Cell 4
 
 [[Salida]] is thrown into this cell.
 
 ---
-We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick Ravenshade]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Aohara]] will come. 
+We hear some steps in a we [[Yahru]]. He asks what our motivations are and [[Merrick]] lies very poorly. He says that if we do well, they won't kill us if we behave. We are told the [[Overseer Aohara]] will come. 
 
 We are told that we should watch what we say because he will report us to and kill us.
 
@@ -30,7 +30,7 @@ We fall asleep and awake the next day. We hear a slither enter the room. We are 
 - [[Munch]] is assigned to muck out the dino pen.
 - [[Cyan]] is assigned to clean the poison pen
 - [[Indy]] is cleaning the bloodroom
-- [[Merrick Ravenshade]] is rearanging the contents of the storeroom
+- [[Merrick]] is rearanging the contents of the storeroom
 - [[Khar]] is to clean the nests
 
 We are shuffled up to our task areas.
@@ -39,7 +39,7 @@ We are shuffled up to our task areas.
 
 [[Khar]] overhears the words "black feather, white mask" as he is performing his tasks. 
 
-[[Merrick Ravenshade]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Fin'thaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
+[[Merrick]] goes to organize the store room and sees giant constrictor snake. It is named [[Azi Mas]]. She was asked about anything about the slaves. [[Fin'thaza]] is probably planning a coup. We should be sure to not hurt [[Azi Mas]].
 
 [[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back. He learns more about the poisons about. We 
 
@@ -74,9 +74,9 @@ We learn we have 2 keys right now. We take a long rest. We rendezvous with [[Vor
 
 ## Sector 41
 
-We arrive at a shrine to [[Queen Nang Nang]] and see many dead [[Grung]]. [[Merrick Ravenshade|Merrick]] says that the area is gross. There is are two monoliths. We don't see anything that might have killed all the [[Grung]]. 
+We arrive at a shrine to [[Queen Nang Nang]] and see many dead [[Grung]]. [[Merrick|Merrick]] says that the area is gross. There is are two monoliths. We don't see anything that might have killed all the [[Grung]]. 
 
-We see a quote saying, "Nangnang teaches us to serve only ourselves". We also read of a story in which [[Queen Nang Nang]] steals a spear from [[Shegambi]]. We end up trying to figure out who is the wealthiest. So [[Cyan]], [[Munch]] and [[Merrick Ravenshade]] start stealing stuff and the door opens for [[Merrick Ravenshade]]. She grabes one of the cubes with an Icon of [[Queen Nang Nang]]. We now have 3 cubes.
+We see a quote saying, "Nangnang teaches us to serve only ourselves". We also read of a story in which [[Queen Nang Nang]] steals a spear from [[Shegambi]]. We end up trying to figure out who is the wealthiest. So [[Cyan]], [[Munch]] and [[Merrick]] start stealing stuff and the door opens for [[Merrick]]. She grabes one of the cubes with an Icon of [[Queen Nang Nang]]. We now have 3 cubes.
 
 ## Sector 34
 

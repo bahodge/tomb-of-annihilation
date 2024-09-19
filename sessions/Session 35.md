@@ -13,7 +13,7 @@ We ask [[Khar]] what he can do. He says he is pretty good with a bow. We ask how
 
 We walk towards the the [[Star Goddess]] with [[Khar]] and the bodies and hear a scream for help in the forest. We find a very pretty but very young 16 year old human girl with red hair. She looks very dirty and gross.
 
-We lure the child with with candy out of a tree. [[Indy]] asks if she is hiding from someone and she says that she was separated and freaked out and word vomitted. She was with the [[Emerald Enclave]] looking for the cause of the undead menace as punished. She is named [[Merrick Ravenshade]].
+We lure the child with with candy out of a tree. [[Indy]] asks if she is hiding from someone and she says that she was separated and freaked out and word vomitted. She was with the [[Emerald Enclave]] looking for the cause of the undead menace as punished. She is named [[Merrick]].
 
 We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]] and [[Indy]].
 
@@ -21,7 +21,7 @@ We embark on the [[Star Goddess]] and fly to [[Camp Vengeance]] to heal [[Munch]
 
 We arrive at the camp and speak with [[Sister Cyas]] and get healed. We plan out how we are going to [[Omu]] and look for the [[Tomb of the Nine Gods]]. We fly the [[Vorn Crystal Mine]] to bury [[Pandora]] and [[Lorenzo von Matterhorn|Lorenzo]]. 
 
-[[Merrick Ravenshade]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]. We say some beautiful memories about them. We take 20 crystals and head back to [[Port Nyanzahru]] to pick up [[Vorn]].
+[[Merrick]] talks us into the mine. We respectfully yeet [[Pandora]] and [[Lorenzo von Matterhorn]]. We say some beautiful memories about them. We take 20 crystals and head back to [[Port Nyanzahru]] to pick up [[Vorn]].
 
 ## Port Nyanzahru
 
@@ -63,7 +63,7 @@ We move to sector 3. nothing
 
 ## Sector 6
 
-we see a mage circle and a large violet cracked crystal. [[Khar]] won't touch it because it looks like a trap. [[Cyan]] tosses something into the circle and learns that the crystal can be used for devineing. [[Merrick Ravenshade]] walks in and grabs the crystal. She sees visions of the old Omuans and she sees and entity. Towards the end of the vision the entity locks eyes with [[Merrick Ravenshade|Merrick]]. [[Munch]] climbs onto [[Khar]]'s shoulders and get's a lift.
+we see a mage circle and a large violet cracked crystal. [[Khar]] won't touch it because it looks like a trap. [[Cyan]] tosses something into the circle and learns that the crystal can be used for devineing. [[Merrick]] walks in and grabs the crystal. She sees visions of the old Omuans and she sees and entity. Towards the end of the vision the entity locks eyes with [[Merrick|Merrick]]. [[Munch]] climbs onto [[Khar]]'s shoulders and get's a lift.
 
 ## Sector 10
 
@@ -73,6 +73,6 @@ They tell us they found the cube at [[Shegambi]] shrine. We think that we will f
 
 ## Sector 9
 
-We head over to the sector to fight the large frogoid. Rope bridges have collapsed into the water in the pool. A large statue of a stone frog stands in the water. We see in the mouth of the frog statue that it is holding a key. [[Merrick Ravenshade]] uses mage hand to grab the key and a massive frog jumps out of the water.
+We head over to the sector to fight the large frogoid. Rope bridges have collapsed into the water in the pool. A large statue of a stone frog stands in the water. We see in the mouth of the frog statue that it is holding a key. [[Merrick]] uses mage hand to grab the key and a massive frog jumps out of the water.
 
 We kill the frog and [[Cyan]] harvests the eyes.
