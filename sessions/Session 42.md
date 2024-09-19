@@ -4,7 +4,6 @@ We push and pull and try to open the door to get out of the room. At the midpoin
 
 We continue through the hallway. We are told that we should shatter the bottle when we need her. She disappears.
 
-We open the secret door and kill a skeleton and some zombies. We find a sarcophagus with a crane on it.
-
+We open the secret door and kill a skeleton and some zombies. We find a sarcophagus with a crane on it. [[Indy]] touches it and a bunch of skeletons appear out of the cauldrons.
 
 
