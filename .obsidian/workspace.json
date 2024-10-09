@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc236bc19d484815",
+            "id": "480f5ac96d8321c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "480f5ac96d8321c6",
+            "id": "0eaabb0d5b978f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 42.md",
+                "file": "Session 44.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 43.md",
+                "file": "Session 44.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 43.md",
+                "file": "Session 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 43.md"
+                "file": "Session 44.md"
               }
             }
           }
@@ -158,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc236bc19d484815",
+  "active": "0eaabb0d5b978f8f",
   "lastOpenFiles": [
-    "sessions/Session 42.md",
     "sessions/Session 43.md",
+    "Session 44.md",
     "people/Vorn.md",
+    "sessions/Session 42.md",
     "media/Pasted image 20240918220458.png",
     "people/Merrick.md",
     "people/Khar.md",
@@ -186,7 +188,6 @@
     "places/Shegambi.md",
     "people/Fin'thaza.md",
     "people/Sekelok.md",
-    "people/Salida.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
