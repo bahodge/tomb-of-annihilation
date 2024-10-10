@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "480f5ac96d8321c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0eaabb0d5b978f8f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8c85d201ea75524d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3c3081aac453ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Vorn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +166,9 @@
   },
   "active": "0eaabb0d5b978f8f",
   "lastOpenFiles": [
-    "sessions/Session 43.md",
-    "sessions/Session 44.md",
     "people/Vorn.md",
+    "sessions/Session 44.md",
+    "sessions/Session 43.md",
     "sessions/Session 42.md",
     "media/Pasted image 20240918220458.png",
     "people/Merrick.md",
