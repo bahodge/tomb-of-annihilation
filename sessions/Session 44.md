@@ -17,3 +17,9 @@ We loot
 7. unidentifed potion
 8. unidentified bead
 9. unidentified bronze shield with a screaming devils face
+
+We level up!
+
+## Level 4
+
+We continue down the stairs and see 4 large gargoyle statues and another warning. [[Indy]] reads the warning we see.
