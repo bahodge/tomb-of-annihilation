@@ -10,4 +10,6 @@ Our bodies are within a massive chamber of rot. [[Khara]] feeds good berries to 
 
 [[Merrick]] has a minor scar.
 
-[[Indy]] now has a horrible scar that cannot be easily conceled. He has disadvantage on persuasion check and advantage on intimidation checks.
+[[Indy]] now has a horrible scar that cannot be easily conceled. He has disadvantage on persuasion check and advantage on intimidation checks. 
+
+On this day [[Khara]] saved the entire party.
