@@ -13,3 +13,5 @@ Our bodies are within a massive chamber of rot. [[Khara]] feeds good berries to 
 [[Indy]] now has a horrible scar that cannot be easily conceled. He has disadvantage on persuasion check and advantage on intimidation checks. 
 
 On this day [[Khara]] saved the entire party.
+
+We continue down the corridor and come across a hallway with some mysterious goop. We then try to pick a lock and fail and a giant stone juggernaut comes out of the wall and we run away.
