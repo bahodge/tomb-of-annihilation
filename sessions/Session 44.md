@@ -22,4 +22,4 @@ We level up!
 
 ## Level 4
 
-We continue down the stairs and see 4 large gargoyle statues and another warning. [[Indy]] reads the warning we see. We begin exploring and the gargoyle statues come to life. [[Vorn]] bravely protects [[Munch]] and the rest of the party. [[Vorn]] is killed. [[Munch]] is incapacitated and thrown down an abyssal hole as the rest of the [[Dinoseurs]] fight for their lives against the remaining gargoyles. [[Merrick]] and [[Indy]] are both injured and thrown down the hole. [[Khara]] desperately chases the 
+We continue down the stairs and see 4 large gargoyle statues and another warning. [[Indy]] reads the warning we see. We begin exploring and the gargoyle statues come to life. [[Vorn]] bravely protects [[Munch]] and the rest of the party. [[Vorn]] is killed. [[Munch]] is incapacitated and thrown down an abyssal hole as the rest of the [[Dinoseurs]] fight for their lives against the remaining gargoyles. [[Merrick]] and [[Indy]] are both injured and thrown down the hole. [[Khara]] desperately chases them down the hole.
