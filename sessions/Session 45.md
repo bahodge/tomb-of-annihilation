@@ -19,3 +19,7 @@ We continue down the corridor and come across a hallway with some mysterious goo
 [[Munch]] dashes around the corner and takes the ruby. The ruby looks incredibly expensive. The Juggernaut barrels back towards [[Munch]]. The party narrowly escapes and destroys the juggernaut.
 
 We find a statue of a gargoyle. One of it's arms is broken. We find a secret corridor and [[Khara]] talks to a talking door that eats crabs. We continue through the level.
+
+We come across a stone lectern.
+
+A four-foot-high, seven-foot-wide iron lectern in the middle of this rusty, iron-plated room is topped by a slanted control panel. Set into the control panel are a gold lever with a star-shaped handle, two dials in red and blue, and two buttons of the same colors. Wall engravings behind the control panel show five groups of circles, with a small crystal embedded in the wall under each one. The crystal under the configuration labeled “3” glows bright green. Three six-inch-diameter rusty iron pipes jut from the wall above the engravings.
