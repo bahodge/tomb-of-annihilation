@@ -15,3 +15,5 @@ Our bodies are within a massive chamber of rot. [[Khara]] feeds good berries to 
 On this day [[Khara]] saved the entire party.
 
 We continue down the corridor and come across a hallway with some mysterious goop. We then try to pick a lock and fail and a giant stone juggernaut comes out of the wall and we run away.
+
+[[Munch]] dashes around the corner and takes the ruby
