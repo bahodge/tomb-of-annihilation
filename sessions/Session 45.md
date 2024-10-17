@@ -18,4 +18,4 @@ We continue down the corridor and come across a hallway with some mysterious goo
 
 [[Munch]] dashes around the corner and takes the ruby. The ruby looks incredibly expensive. The Juggernaut barrels back towards [[Munch]]. The party narrowly escapes and destroys the juggernaut.
 
-We find a statue of a gargoyle. One of it's arms is broken. We find a secret corridor
+We find a statue of a gargoyle. One of it's arms is broken. We find a secret corridor and [[Khara]] talks to a talking door that eats crabs. We continue through the level.
