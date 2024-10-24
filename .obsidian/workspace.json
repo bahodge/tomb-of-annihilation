@@ -25,12 +25,14 @@
             "id": "f079928f87ea9cd5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Session 46.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Session 46"
             }
           }
         ],
@@ -177,8 +179,9 @@
   },
   "active": "f079928f87ea9cd5",
   "lastOpenFiles": [
-    "sessions/Session 44.md",
     "sessions/Session 45.md",
+    "Session 46.md",
+    "sessions/Session 44.md",
     "people/Vorn.md",
     "sessions/Session 43.md",
     "sessions/Session 42.md",
@@ -203,7 +206,6 @@
     "people/Obelack.md",
     "sessions/Session 36.md",
     "places/Shegambi.md",
-    "people/Fin'thaza.md",
     "media/jahaka_anchorage.png",
     "Untitled.canvas",
     "media",
