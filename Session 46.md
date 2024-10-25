@@ -11,3 +11,6 @@ We kill all the dirty machines. We find a strange device that kind of looks like
 We continue down the stairs in the magnetic room. The room is filled with gas. Three figures approach us in the smokey hall
 1. straw doll with pins
 2. faceless child made of clay
+3. Some other weird doll
+
+We explore the rooms and solve some puzzles. [[Khara]] attacks another innocent.
