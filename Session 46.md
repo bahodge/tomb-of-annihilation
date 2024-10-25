@@ -8,4 +8,6 @@ We kill all the dirty machines. We find a strange device that kind of looks like
 
 - 5k gp
 
-We continue down the stairs in the magnetic room.
+We continue down the stairs in the magnetic room. The room is filled with gas. Three figures approach us in the smokey hall
+1. straw doll with pins
+2. faceless child made of clay
