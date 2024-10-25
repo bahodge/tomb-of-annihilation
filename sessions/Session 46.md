@@ -13,4 +13,8 @@ We continue down the stairs in the magnetic room. The room is filled with gas. T
 2. faceless child made of clay
 3. Some other weird doll
 
-We explore the rooms and solve some puzzles. [[Khara]] attacks another innocent.
+We explore the rooms and solve some puzzles. [[Khara]] attacks another innocent who gave [[Munch]], [[Indy]] and [[Merrick]] some delicious food.
+
+[[Munch]] - Roast Boar: The character feels stronger and has advantage on Strength checks
+[[Indy]] - Squash Stew: The character feels healthier and gains advantage on Constitution saving throws
+[[Merrick]] - Iced Cakes: The character feels energized and gains 2d10 temporary hit points
