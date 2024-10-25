@@ -18,3 +18,9 @@ We explore the rooms and solve some puzzles. [[Khara]] attacks another innocent 
 [[Munch]] - Roast Boar: The character feels stronger and has advantage on Strength checks
 [[Indy]] - Squash Stew: The character feels healthier and gains advantage on Constitution saving throws
 [[Merrick]] - Iced Cakes: The character feels energized and gains 2d10 temporary hit points
+
+We explore a bunch of other rooms and [[Khara]] starts another fight with some pages.
+
+Next Time
+- Fight paper mache
+- Continue to explore the [[Hags Swin Sisters]]
