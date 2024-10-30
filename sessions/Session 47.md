@@ -9,3 +9,4 @@ The little figures offer us boons
 - [[Khara]] remove the requirements to eat/drink/breath
 - [[Munch]] understand languages
 
+[[Merrick]] smashes the bottle that [[Keshma Al Wazir]] resided in. We try to use our wish. We wish for a long rest.
