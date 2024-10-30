@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "keys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f079928f87ea9cd5",
+  "active": "9633e6d79045aaf0",
   "lastOpenFiles": [
     "sessions/Session 45.md",
     "sessions/Session 47.md",

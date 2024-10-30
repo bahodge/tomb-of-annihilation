@@ -10,3 +10,5 @@ The little figures offer us boons
 - [[Munch]] understand languages
 
 [[Merrick]] smashes the bottle that [[Keshma Al Wazir]] resided in. We try to use our wish. We wish for a long rest.
+
+We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug.
