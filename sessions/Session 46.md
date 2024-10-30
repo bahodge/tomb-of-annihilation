@@ -6,7 +6,7 @@ We go through the portcullis and find a room of aging and everyone strips naked 
 
 We kill all the dirty machines. We find a strange device that kind of looks like an orerry. We spin the apparatus. [[Khara]] accidently spawns a massive demon fiend with an ax and we go into initiative. We kill the demon and we find 
 
-- 5k gp
+- 5,000gp
 
 We continue down the stairs in the magnetic room. The room is filled with gas. Three figures approach us in the smokey hall
 1. straw doll with pins
