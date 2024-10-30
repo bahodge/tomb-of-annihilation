@@ -23,4 +23,4 @@ We explore a bunch of other rooms and [[Khara]] starts another fight with some p
 
 Next Time
 - Fight paper mache
-- Continue to explore the [[Hags Swin Sisters]]
+- Continue to explore the [[Hags Swin Sisters]] lair
