@@ -25,6 +25,9 @@ We head back to level 5.
 
 ## Level 5
 
-We figure out the way to turn off the slime and get the rod out of the mastadon's head.
+We figure out the way to turn off the slime and get the rod out of the mastadon's head. Everything lights on fire and some devils come out to die to us.
 
-Everything lights on fire and some devils come out to die to us.
+We kill all of the stupid devil fucks. We all almost die!
+
+Next Time
+- 
