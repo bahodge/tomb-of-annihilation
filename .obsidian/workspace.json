@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keys",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9633e6d79045aaf0",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
     "sessions/Session 45.md",
     "sessions/Session 47.md",
-    "mephit.md",
+    "creatures/mephit.md",
     "sessions/Session 46.md",
     "sessions/Session 44.md",
     "people/Vorn.md",

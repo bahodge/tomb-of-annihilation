@@ -11,4 +11,8 @@ The little figures offer us boons
 
 [[Merrick]] smashes the bottle that [[Keshma Al Wazir]] resided in. We try to use our wish. We wish for a long rest.
 
-We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug.
+We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug. [[Munch]] reads the scary book and the final trial is completed. We go back up stairs realizing that we can't find the last skeleton head needed to open the door.
+
+## Level 5
+
+[[Merrick]] pulls a lever in the control room and the room starts flooding with slime.
