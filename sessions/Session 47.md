@@ -20,3 +20,11 @@ We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug. [[
 ## Level 4
 
 We find a room with some artists and some paintings. there is a gross throne made out of skin and bones. [[Merrick]] uses etherealness and just looks for the skeleton and bypasses the puzzel. She litterally uses fireball and compeltely annihilates the poor skeleton who looked at her with puppy eyes as she cast it.
+
+We head back to level 5.
+
+## Level 5
+
+We figure out the way to turn off the slime and get the rod out of the mastadon's head.
+
+Everything lights on fire and some devils come out to die to us.
