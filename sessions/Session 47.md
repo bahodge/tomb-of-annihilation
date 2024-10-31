@@ -18,3 +18,5 @@ We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug. [[
 [[Merrick]] pulls a lever in the control room and the room starts flooding with slime. We run away and leave the slime running.
 
 ## Level 4
+
+We find a room with some artists and some paintings. there is a gross throne made out of skin and bones. [[Merrick]] uses etherealness and just looks for the skeleton and bypasses the puzzel.
