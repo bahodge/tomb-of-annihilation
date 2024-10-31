@@ -15,4 +15,6 @@ We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug. [[
 
 ## Level 5
 
-[[Merrick]] pulls a lever in the control room and the room starts flooding with slime.
+[[Merrick]] pulls a lever in the control room and the room starts flooding with slime. We run away and leave the slime running.
+
+## Level 4
