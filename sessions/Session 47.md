@@ -19,4 +19,4 @@ We tell [[Keshma Al Wazir]] she can reside in the vinegar of the alchemy jug. [[
 
 ## Level 4
 
-We find a room with some artists and some paintings. there is a gross throne made out of skin and bones. [[Merrick]] uses etherealness and just looks for the skeleton and bypasses the puzzel.
+We find a room with some artists and some paintings. there is a gross throne made out of skin and bones. [[Merrick]] uses etherealness and just looks for the skeleton and bypasses the puzzel. She litterally uses fireball and compeltely annihilates the poor skeleton who looked at her with puppy eyes as she cast it.
