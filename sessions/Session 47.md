@@ -2,7 +2,7 @@
 
 We engage with a dust [[mephit]] and murder it. We continue exploring the room. We figure out how to pull the lever. We hear some grinding.
 
- We ask the little figures for help to read the book. The little monkey one (joho) offers to help. We promise to help them. We learn the [[Hags Swin Sisters]] are not good people. They are somehow related to the cause of all the undead.
+ We ask the little figures for help to read the book. The little monkey one (joho) offers to help. We promise to help them. We learn the [[Hag Swin Sisters]] are not good people. They are somehow related to the cause of all the undead.
 
 The little figures offer us boons
 - [[Merrick]] you can cast etherealness
@@ -29,5 +29,11 @@ We figure out the way to turn off the slime and get the rod out of the mastadon'
 
 We kill all of the stupid devil fucks. We all almost die!
 
+Loot:
+- 5,000gp of gold gems
+- 2,500gp t strip all the gold
+- Skull chalice of [[Skull Chalice of Ch'ghkare]]
+
 Next Time
-- 
+- Put in keys to the [[Hag Swin Sisters]] door
+- Kill [[Az'Sarak]] and children

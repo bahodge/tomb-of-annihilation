@@ -60,7 +60,7 @@ We ask the snake
 
 1. [[Indy]] asks Where is [[Artis Cymber]]. [[Omu]].
 2. [[Munch]] asks How do we stop [[The Grey]]. It has something to do with the [[Omu]].
-3. [[Pandora]] Who is taking our body parts? That sounds like the work of the [[Hags Swin Sisters]].
+3. [[Pandora]] Who is taking our body parts? That sounds like the work of the [[Hag Swin Sisters]].
 4. [[Cyan]]Where can we find the parts to heal [[Cyan]]'s master? [[Garden Palace of Nangalor]] but beware the Queen's sight.
 5. [[Lorenzo von Matterhorn]] is [[Nanny Pu'Pu]] a hag? She is a hag.
 
@@ -74,7 +74,7 @@ We run out of questions but the threat of [[Raj'nisi]] must be dealt with. We pr
 
 We exit the temple and a massive shimmer happens. We head back to the [[Star Goddess]]. We speak with [[Nanny Pu'Pu]].
 
-[[Lorenzo von Matterhorn]], [[Pandora]] and [[Munch]] confront [[Nanny Pu'Pu]]. We ask what she is and she admits to being a hag. We mention the [[Hags Swin Sisters]], and she spits on the ground. She admits she takes our body parts and we believe she is a [[Hags Swin Sisters]], and on that she teleports away.
+[[Lorenzo von Matterhorn]], [[Pandora]] and [[Munch]] confront [[Nanny Pu'Pu]]. We ask what she is and she admits to being a hag. We mention the [[Hag Swin Sisters]], and she spits on the ground. She admits she takes our body parts and we believe she is a [[Hag Swin Sisters]], and on that she teleports away.
 
 
 ## Next time
