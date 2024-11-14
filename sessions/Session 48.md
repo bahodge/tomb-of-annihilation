@@ -24,4 +24,4 @@ We loot:
 
 [[Khara]] feels a blessing overtake her.
 
-We find the [[Navel of the Moon]] and [[Munch]] 
+We find the [[Navel of the Moon]] and [[Munch]] and it is promptly stolen by [[Merrick]].
