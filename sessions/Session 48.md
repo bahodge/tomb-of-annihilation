@@ -4,5 +4,4 @@
 
 We find a room with some artists and some paintings. there is a gross throne made out of skin and bones. [[Khara]] speaks to her god and learns that old omuns used to make furniture out of dead omuns.
 
-[[Khara]] sits in the throne.
-
+[[Khara]] sits in the throne and immediately goes berserk and attacks everyone in the room.
