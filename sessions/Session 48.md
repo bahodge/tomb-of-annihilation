@@ -7,3 +7,8 @@ We find a room with some artists and some paintings. there is a gross throne mad
 [[Khara]] sits in the throne and immediately goes berserk and attacks everyone in the room. We kill all the zombies that appear and find a hidden room.
 
 We find and open a sarcophagus containing the remains of a dead body.
+
+We loot:
+- 1 hornet mask ([[Munch]] wears it) worth 250gp
+- 1 jewelry box with a neckless of fireballs
+- 1 adamantine mace
