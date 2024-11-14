@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "egg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,9 +179,11 @@
   },
   "active": "f079928f87ea9cd5",
   "lastOpenFiles": [
+    "sessions/Session 41.md",
+    "sessions/Session 48.md",
+    "Unk.md",
     "sessions/Session 47.md",
     "media/Pasted image 20241113182712.png",
-    "sessions/Session 48.md",
     "misc/Eye of Zaltec.md",
     "people/Hag Swin Sisters.md",
     "sessions/Session 45.md",
@@ -195,7 +198,6 @@
     "people/Khar.md",
     "people/Khara.md",
     "people/Az'Sarak.md",
-    "sessions/Session 41.md",
     "sessions/Session 40.md",
     "sessions/Session 38.md",
     "sessions/Session 39.md",

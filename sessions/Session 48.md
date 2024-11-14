@@ -23,3 +23,5 @@ We loot:
 - 1 very scintillating looking robe
 
 [[Khara]] feels a blessing overtake her.
+
+We find the [[Navel of the Moon]] and [[Munch]] 
