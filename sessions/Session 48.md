@@ -25,3 +25,7 @@ We loot:
 [[Khara]] feels a blessing overtake her.
 
 We find the [[Navel of the Moon]] and [[Munch]] and it is promptly stolen by [[Merrick]].
+
+We continue to the gargoyels and pay their tolls.
+
+We explore the rest of the floor.
