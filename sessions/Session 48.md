@@ -28,4 +28,4 @@ We find the [[Navel of the Moon]] and [[Munch]] and it is promptly stolen by [[M
 
 We continue to the gargoyels and pay their tolls.
 
-We explore the rest of the floor.
+We explore the rest of the floor. And [[Indy]] and [[Khara]] are sucked into a mirror. [[Munch]] loses her hand by sticking it in the mouth of a statue. She now lost the ability to shoot a bow. Blood pours out through her body.
