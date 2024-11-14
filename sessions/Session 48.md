@@ -14,3 +14,12 @@ We loot:
 - 2 adamantine maces
 
 [[Merrick]] puts on the necklass and it explodes! We all almost die.
+
+We go to another room and find another sarcophagus.
+
+We loot:
+- 10 opaleceant bracelets 75gp each
+	- made of flail snails
+- 1 very scintillating looking robe
+
+[[Khara]] feels a blessing overtake her.
