@@ -11,4 +11,6 @@ We find and open a sarcophagus containing the remains of a dead body.
 We loot:
 - 1 hornet mask ([[Munch]] wears it) worth 250gp
 - 1 jewelry box with a neckless of fireballs
-- 1 adamantine mace
+- 2 adamantine maces
+
+[[Merrick]] puts on the necklass and it explodes! We all almost die.
