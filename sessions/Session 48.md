@@ -1,0 +1,1 @@
+[[Munch]] starts looking at the ruby she picked up and learns that it is the [[Eye of Zaltec]].
