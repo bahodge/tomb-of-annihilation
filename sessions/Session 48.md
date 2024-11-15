@@ -30,4 +30,4 @@ We continue to the gargoyels and pay their tolls.
 
 We explore the rest of the floor. And [[Indy]] and [[Khara]] are sucked into a mirror. [[Munch]] loses her hand by sticking it in the mouth of a statue. She now lost the ability to shoot a bow. Blood pours out through her body.
 
-She dies in agony, screaming at the top of her lungs and drops the [[Eye of Zaltec]] on the ground.
+She dies in agony, screaming at the top of her lungs and drops the [[Eye of Zaltec]] on the ground. [[Merrick]] goes to pick it up and is swiftly fisted and gazed to death by some [[Bodak]]s.
