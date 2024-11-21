@@ -19,4 +19,4 @@ We pick up some of the god items off of the bodies of [[Munch]] and [[Merrick]].
 
 ![[Pasted image 20241120202914.png]]
 
-We use [[Munch]]'s body to open a door and escape the maze. We talk to a lizard and we name him [[Gayko]]. We escape a trap and are teleported into a room of terracotta warriors.
+We use [[Munch]]'s body to open a door and escape the maze. We talk to a lizard and we name him [[Gayko]]. We escape a trap and are teleported into a room of terracotta warriors. We find out it is the sarcophagus of [[Shegambi]]. [[Althea]] opens the sarcophagus and it trips a music box.
