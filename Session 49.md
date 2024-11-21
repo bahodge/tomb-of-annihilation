@@ -10,5 +10,7 @@ They continue down the tomb and free [[Indy]] and [[Khara]] and fight some baddi
 
 We pick up some of the god items off of the bodies of [[Munch]] and [[Merrick]].
 
-[[Ferrin]] grabs the [[Eye of Zaltec]] and [[Mace of Terror]].
+[[Ferrin]] grabs the [[Eye of Zaltec]] and [[Mace of Terror]] and gains the blessing of [[Wongo]]
+![[Pasted image 20241120195826.png]]
+
 
