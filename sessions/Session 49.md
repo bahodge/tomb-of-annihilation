@@ -30,3 +30,10 @@ Loot:
 4. [[Shegambi]]'s mandolin of the bards
 
 
+[[Ferrin]] attunes to the Black opal crown.
+
+![[Pasted image 20241120213612.png]]
+
+Next Time:
+- Go downstairs to the lair of the [[Hag Swin Sisters]].
+- kill everything
