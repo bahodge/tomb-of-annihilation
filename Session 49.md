@@ -19,4 +19,4 @@ We pick up some of the god items off of the bodies of [[Munch]] and [[Merrick]].
 
 ![[Pasted image 20241120202914.png]]
 
-We use [[Munch]]'s body to open a door and escape the maze. 
+We use [[Munch]]'s body to open a door and escape the maze. We talk to a lizard and we name him [[Gayko]]
