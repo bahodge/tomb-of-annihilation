@@ -18,3 +18,5 @@ We pick up some of the god items off of the bodies of [[Munch]] and [[Merrick]].
 [[Ferrin]] attunes to a [[pearl of power]] of [[Queen Nang Nang]].
 
 ![[Pasted image 20241120202914.png]]
+
+We use [[Munch]]'s body to open a door and escape the maze. 
