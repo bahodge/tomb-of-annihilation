@@ -1,0 +1,1 @@
+Ferrin Forn is a Tempus worshiping war cleric.
