@@ -29,3 +29,6 @@ State:
 6. Hags - Stunned until the end of Is-It's turn
 7. Baby - 
 8. Wraith - 
+
+
+We are the true heroes and destroyed the crystal before the baby.
