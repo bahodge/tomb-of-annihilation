@@ -8,7 +8,12 @@ We break into a fight with the hags and kill a red haired one. The other two van
 
 We loot the dead hag and kill some other things:
 - 5 black marbles
-- 1 illustrious stone
-- 1 more rock
+- 1 illustrious stone - Hag's Hearthstone
 - delicious kid's teeth
 - 1 peg leg
+- A second pouch 
+	- opened and hearing a faint wailing
+		- we throw this bag into the acid
+
+
+We give the marbles and pegleg and tell the [[Indy]] clone to look for [[Artis Cymber]].
