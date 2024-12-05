@@ -16,4 +16,5 @@ We loot the dead hag and kill some other things:
 		- we throw this bag into the acid
 
 
-We give the marbles and pegleg and tell the [[Indy]] clone to look for [[Artis Cymber]].
+We give the marbles and pegleg and tell the [[Indy]] clone to look for [[Artis Cymber]]. We insert the keys and the big green door opens.
+
