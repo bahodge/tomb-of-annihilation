@@ -5,3 +5,10 @@ We head to the lair of the [[Hag Swin Sisters]].  [[Althea]] walks up to the doo
 They say that they must protect "his" child. She also let us know that they have been spying on us. 
 
 We break into a fight with the hags and kill a red haired one. The other two vanish! 
+
+We loot the dead hag and kill some other things:
+- 5 black marbles
+- 1 illustrious stone
+- 1 more rock
+- delicious kid's teeth
+- 1 peg leg
