@@ -24,7 +24,7 @@ State:
 1. Indy - 
 2. Althea  - 
 3. Withers - 
-4. Is-It - 
+4. Is-It - Flying 20ft in the air
 5. Ferrin - Concentrating on lvl 4 spriti guardians
 6. Hags - Stunned until the end of Is-It's turn
 7. Baby - 
