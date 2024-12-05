@@ -18,4 +18,14 @@ We loot the dead hag and kill some other things:
 
 We give the marbles and pegleg and tell the [[Indy]] clone to look for [[Artis Cymber]]. We insert the keys and the big green door opens.
 
-We walk in and observe some tentacles and a baby that is tied to the cauldron by an umbilical cord. It is floating near a crystal.
+We walk in and observe some tentacles and a baby that is tied to the cauldron by an umbilical cord. It is floating near a crystal. We fight the giant baby and and attack the disgusting enemies.
+
+State:
+1. Indy - 
+2. Althea  - 
+3. Withers - 
+4. Is-It - 
+5. Ferrin - Concentrating on lvl 4 spriti guardians
+6. Hags - Stunned until the end of Is-It's turn
+7. Baby - 
+8. Wraith - 
