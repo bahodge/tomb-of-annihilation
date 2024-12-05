@@ -18,3 +18,4 @@ We loot the dead hag and kill some other things:
 
 We give the marbles and pegleg and tell the [[Indy]] clone to look for [[Artis Cymber]]. We insert the keys and the big green door opens.
 
+We walk in and observe some tentacles and a baby that is tied to the cauldron by an umbilical cord. It is floating near a crystal.
