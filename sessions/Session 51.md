@@ -2,3 +2,7 @@ We start in combat with a bunch of enemies in the [[Tomb of the Nine Gods]]. We 
 
 We end up killing the evil baby and [[Az'Sarak]] shows up angrilly. [[Ferrin]] uses his resurrection with the [[Eye of Zaltec]] to resurrect [[Munch]]!
 
+The true winner of DND is Ben because he gets [[Munch]] back!
+
+## Next Time
+
