@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Eye of Zaltec.md",
+                "file": "sessions/Session 51.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eye of Zaltec"
+              "title": "Session 51"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4189d7a5c9a7b721",
+  "active": "68a736d05c18dab0",
   "lastOpenFiles": [
-    "sessions/Session 50.md",
     "misc/Eye of Zaltec.md",
+    "sessions/Session 51.md",
+    "sessions/Session 50.md",
     "sessions/Session 48.md",
     "sessions/Session 49.md",
-    "sessions/Session 51.md",
     "media/Pasted image 20241120213612.png",
     "people/Althea.md",
     "people/Ferrin.md",
