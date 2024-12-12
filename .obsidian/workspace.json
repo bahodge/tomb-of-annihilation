@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 50.md",
+                "file": "sessions/Session 51.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 50"
+              "title": "Session 51"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 51.md",
+                "file": "misc/Eye of Zaltec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 51"
+              "title": "Eye of Zaltec"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a736d05c18dab0",
+  "active": "4189d7a5c9a7b721",
   "lastOpenFiles": [
     "sessions/Session 50.md",
-    "sessions/Session 51.md",
-    "sessions/Session 49.md",
+    "misc/Eye of Zaltec.md",
     "sessions/Session 48.md",
+    "sessions/Session 49.md",
+    "sessions/Session 51.md",
     "media/Pasted image 20241120213612.png",
     "people/Althea.md",
     "people/Ferrin.md",
@@ -190,7 +190,6 @@
     "media/Pasted image 20241120195826.png",
     "creatures/Gayko.md",
     "media/Pasted image 20241120202914.png",
-    "misc/Eye of Zaltec.md",
     "2024-11-20.md",
     "sessions/Session 41.md",
     "people/Unk.md",
