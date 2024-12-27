@@ -1,4 +1,4 @@
-We loot the room. [[Althea]] picks up the crown from [[Ferrin]]'s body. 
+We loot the room. [[Althea]] picks up the crown from [[Ferrin]]'s body. [[Munch]] has the ubalaka ring.
 
 We loot:
 - 1 book "Manual of Golums"
@@ -8,4 +8,6 @@ We loot:
 - We also loot 2 potions of greater healing from [[Ferrin]]'s body
 - 9 litch phylactery bottles
 
-We make a deal with the [[Hag Swin Sisters]] to resurrect [[Pandora]] & [[Jr]]. [[Is-It]] attempts to join the Hag's Coven. We brutally murder clone [[Indy]]. They resurrect Hag sister 3 from [[Ferrin]]'s body. 
+We make a deal with the [[Hag Swin Sisters]] to resurrect [[Pandora]] & [[Jr]]. [[Is-It]] attempts to join the Hag's Coven. We brutally murder clone [[Indy]]. They resurrect Hag sister 3 from [[Ferrin]]'s body and [[Pandora]] with clone [[Indy]]'s body (yes we murdered him). [[Munch]] is polymorphed by [[Pandora]] into a beetle.
+
+We continue through the blue portal.
