@@ -11,3 +11,5 @@ We loot:
 We make a deal with the [[Hag Swin Sisters]] to resurrect [[Pandora]] & [[Jr]]. [[Is-It]] attempts to join the Hag's Coven. We brutally murder clone [[Indy]]. They resurrect Hag sister 3 from [[Ferrin]]'s body and [[Pandora]] with clone [[Indy]]'s body (yes we murdered him). [[Munch]] is polymorphed by [[Pandora]] into a beetle.
 
 We continue through the blue portal.
+
+We find [[Captain Taban]] sewn into a leather bag surrounded by creatures chained up. Turns out they are [[nothic]]s! We let one out and it tells us it wants magic items. Not fully what it wants, we kill it.
