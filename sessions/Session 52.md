@@ -30,4 +30,32 @@ We see where there are remnants of a large battle. There are a bunch of dead [[Y
 
 We send the [[Star Goddess]] to follow the tracks of the frost giants to the north and we head south to the front gate
 
-We decide to go and find [[Ras Nisi]] and free [[Queen Grabstab]] and the other prisoners.
+We decide to go and find [[Ras Nisi]] and free [[Queen Grabstab]] and the other prisoners. We brutally kill [[Ras Nisi]] and his guard.
+
+We loot the room and find:
+- 1 flame tonge longsword
+- 1 sending stone
+
+We open a treasure room and a find
+- 1 wine glass worth 50gp
+- fancy clothes worth 75gp
+- cloak worth 100gp
+- Gilded moonshade harp worth 250gp
+- 3 large cusions worth 25gp each
+- leather bound spellbook
+- 30 gemstones in an urn worth 50gp each
+- 150pp in an unlocked wooded chest
+- 350gp scattered on the floor
+- 900sp scattered on the floor
+- 3 Amethyst worth 100gp each
+
+We kill all the remaining [[Yuan-ti]] between us and the prisoners and free the prisoners.
+
+- [[Dragonbait]]
+- [[Queen Grabstab]]
+- [[Olooma Authdamar]]
+- [[Pottery Shard]]
+- [[sev]]
+- [[Gorvax]]
+- [[Zilla Atazi]]
+- [[Lomar Dral]]
