@@ -26,4 +26,4 @@ Priorities:
 
 We take a long rest!
 
-We see where there are remnants of a large battle. There are a bunch of dead [[Yuan-ti]]. The [[Grung]] were already murdered.
+We see where there are remnants of a large battle. There are a bunch of dead [[Yuan-ti]]. The [[Grung]] were already murdered. We investigate and see some tracks leaving the battle. It is likely that there were some frost giants and that there were some humanoid tracks found. We find a satchel that belongs to [[Artis Cymber]] and it confirms our suspicions that he was taken by frost giants.
