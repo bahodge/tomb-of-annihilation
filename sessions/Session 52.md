@@ -1,0 +1,1 @@
+[[Althea]] picks up the crown from [[Ferrin]]'s body. 
