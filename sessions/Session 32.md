@@ -54,7 +54,7 @@ As we are sailing towards the [[zigurat]], we are unable to approach it from the
 
 We reach the second level but the stairs look very rickety. [[Pandora]] turns into a red parrot and we violently rip some feathers out of her wings. We climb up the steps. We remember a story about [[chawinga]]s and bonk snakes with the orchid and tickle them with a feather and then it slithers into our mouth. We all slither up to the top level of the [[zigurat]].
 
-We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Omu]] to rid the world of [[Raj'nisi]]. 
+We enter the temple at the top of the [[zigurat]]. An immense snake is inside. It says it's name is [[Saja n'baza]]. [[Lorenzo von Matterhorn]] asks where [[Artis Cymber]] is. They said that he went to [[Omu]] to rid the world of [[Ras Nisi]]. 
 
 We ask the snake
 
@@ -64,7 +64,7 @@ We ask the snake
 4. [[Cyan]]Where can we find the parts to heal [[Cyan]]'s master? [[Garden Palace of Nangalor]] but beware the Queen's sight.
 5. [[Lorenzo von Matterhorn]] is [[Nanny Pu'Pu]] a hag? She is a hag.
 
-We run out of questions but the threat of [[Raj'nisi]] must be dealt with. We promise [[Saja n'baza]] that we will kill them.
+We run out of questions but the threat of [[Ras Nisi]] must be dealt with. We promise [[Saja n'baza]] that we will kill them.
 
 - [[Munch]] is granted the switcharoo charm
 - [[Pandora]] is granted the selfless charm

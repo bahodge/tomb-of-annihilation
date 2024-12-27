@@ -18,7 +18,7 @@ We continue through a curtain and find an ebon pool. We throw a marble into it a
 
 Priorities:
 1. Long Rest
-2. Kill [[Raj'nisi]]
+2. Kill [[Ras Nisi]]
 	1. Get [[Queen Grabstab]]
 	2. Plant Seed
 3. FInd [[Artis Cymber]]
@@ -30,4 +30,4 @@ We see where there are remnants of a large battle. There are a bunch of dead [[Y
 
 We send the [[Star Goddess]] to follow the tracks of the frost giants to the north and we head south to the front gate
 
-We decide to go and find [[Raj'nisi]] and free [[Queen Grabstab]] and the other prisoners.
+We decide to go and find [[Ras Nisi]] and free [[Queen Grabstab]] and the other prisoners.

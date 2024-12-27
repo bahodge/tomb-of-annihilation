@@ -4,7 +4,7 @@ We consent to being shackled. We lay down our weapons and [[Munch]] quickly swal
 
 ## Cell 1 
  
- [[Cyan]] sees [[Queen Grabstab]]. [[Queen Grabstab]] had also planted her seed and was about to perform the ritual but was captured. [[Cyan]] also meets [[Dragonbait]], companion to [[Artis Cymber]]. They are here to kill [[Raj'nisi]] but were captured before they could. [[Cyan]] also learns that the carving with the snake is actually a teleporter used by [[Raj'nisi]].
+ [[Cyan]] sees [[Queen Grabstab]]. [[Queen Grabstab]] had also planted her seed and was about to perform the ritual but was captured. [[Cyan]] also meets [[Dragonbait]], companion to [[Artis Cymber]]. They are here to kill [[Ras Nisi]] but were captured before they could. [[Cyan]] also learns that the carving with the snake is actually a teleporter used by [[Ras Nisi]].
 
 ## Cell 2
 
@@ -43,7 +43,7 @@ We are shuffled up to our task areas.
 
 [[Cyan]] heads to the poison distillery. He advertises his skills and is told to put them back. He learns more about the poisons about. We 
 
-[[Indy]] heads tot he showers and overhears a [[Yuan-ti]] talking about a black opal crown. She says that she thinks that is how they can summon [[Dendar]] and that they are losing faith in [[Raj'nisi]].
+[[Indy]] heads tot he showers and overhears a [[Yuan-ti]] talking about a black opal crown. She says that she thinks that is how they can summon [[Dendar]] and that they are losing faith in [[Ras Nisi]].
 
 We all head back to our cells.
 
@@ -52,11 +52,11 @@ We all head back to our cells.
 
 We learn that [[Nanth]] will let us out of the front gate if we kill [[Sekelok]]. We walk up and knock on the door to meet [[Fin'thaza]].
 
-We talk to her about overthrowing [[Raj'nisi]] and agree that she will help us get our equipment.
+We talk to her about overthrowing [[Ras Nisi]] and agree that she will help us get our equipment.
 
-We are taken to the thrown room and meet [[Raj'nisi]]. [[Raj'nisi]] informs us that [[Fin'thaza]] is a traitor and [[Raj'nisi]] kills [[Yahru]]. Turns out that [[Salida]] is a traitor. We need to kill her. "She is literally the worst person in the entirety of the universe for deceiving us" - [[Cyan]].
+We are taken to the thrown room and meet [[Ras Nisi]]. [[Ras Nisi]] informs us that [[Fin'thaza]] is a traitor and [[Ras Nisi]] kills [[Yahru]]. Turns out that [[Salida]] is a traitor. We need to kill her. "She is literally the worst person in the entirety of the universe for deceiving us" - [[Cyan]].
 
-We convince [[Raj'nisi]] that we need to get to the [[Tomb of the Nine Gods]]. He says that it is in the north of the city. We are given our equipment and leave the city.
+We convince [[Ras Nisi]] that we need to get to the [[Tomb of the Nine Gods]]. He says that it is in the north of the city. We are given our equipment and leave the city.
 
 Keys are located at
 - hex 9 - [[Kubazan]] shrine
