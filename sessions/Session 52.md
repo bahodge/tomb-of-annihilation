@@ -1,4 +1,4 @@
-We loot the room. [[Althea]] picks up the crown from [[Ferrin]]'s body. [[Munch]] has the ubalaka ring.
+We loot the room. [[Althea]] picks up the crown from [[Ferrin]]'s body. [[Munch]] has the [[Ubalaka]] ring.
 
 We loot:
 - 1 book "Manual of Golums"
