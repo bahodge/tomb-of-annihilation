@@ -8,3 +8,4 @@ We loot:
 - We also loot 2 potions of greater healing from [[Ferrin]]'s body
 - 9 litch phylactery bottles
 
+We make a deal with the [[Hag Swin Sisters]] to resurrect [[Pandora]] & [[Jr]]. [[Is-It]] attempts to join the Hag's Coven. We brutally murder clone [[Indy]]. They resurrect Hag sister 3 from [[Ferrin]]'s body. 
