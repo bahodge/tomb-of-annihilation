@@ -14,3 +14,4 @@ We continue through the blue portal.
 
 We find [[Captain Taban]] sewn into a leather bag surrounded by creatures chained up. Turns out they are [[nothic]]s! We let one out and it tells us it wants magic items. Not fully what it wants, we kill it. Turns out it was a misunderstanding and we just murdered a few of them.
 
+We continue through a curtain and find an ebon pool. We throw a marble into it an an obelisk appears. We are teleported to the entrance of the [[Tomb of the Nine Gods]].
