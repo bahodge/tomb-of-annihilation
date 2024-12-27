@@ -23,3 +23,7 @@ Priorities:
 	2. Plant Seed
 3. FInd [[Artis Cymber]]
 4. Go to [[Port Nyanzahru]]
+
+We take a long rest!
+
+We see where there are remnants of a large battle. There are a bunch of dead [[Yuan-ti]]. The [[Grung]] were already murdered.
