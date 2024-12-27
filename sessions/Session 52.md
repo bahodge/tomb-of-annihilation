@@ -60,4 +60,4 @@ We kill all the remaining [[Yuan-ti]] between us and the prisoners and free the 
 - [[Zilla Atazi]]
 - [[Lomar Dral]]
 
-We ask [[Queen Grabstab]] where you can 
+We ask [[Queen Grabstab]] where you can plant the seed and she tells of a place in the south. We get the seed from [[Azi Mas]] the snake and head to the location described by [[Queen Grabstab]].
