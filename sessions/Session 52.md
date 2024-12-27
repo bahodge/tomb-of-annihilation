@@ -59,3 +59,5 @@ We kill all the remaining [[Yuan-ti]] between us and the prisoners and free the 
 - [[Gorvax]]
 - [[Zilla Atazi]]
 - [[Lomar Dral]]
+
+We ask [[Queen Grabstab]] where you can 
