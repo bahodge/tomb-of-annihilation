@@ -1,0 +1,1 @@
+Causes cold winter? Brings an eternal winter.

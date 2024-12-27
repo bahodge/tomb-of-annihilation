@@ -62,4 +62,6 @@ We kill all the remaining [[Yuan-ti]] between us and the prisoners and free the 
 
 We ask [[Queen Grabstab]] where you can plant the seed and she tells of a place in the south. We get the seed from [[Azi Mas]] the snake and head to the location described by [[Queen Grabstab]].
 
+We learn from [[Dragonbait]] that the frost giants found the [[Ring of Winter]] and are the cause of the cold climate.
 
+We go to the pillar and plant the seed. It opens a giant portal and out comes a fey wild champion. [[Munch]] is granted thanks and congratulations from the [[Queen of Air and Darkness]] for saving her prince from the grey. [[Munch]] is given a seed which is [[Dormant infiltrator's key]].
