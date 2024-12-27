@@ -12,4 +12,5 @@ We make a deal with the [[Hag Swin Sisters]] to resurrect [[Pandora]] & [[Jr]]. 
 
 We continue through the blue portal.
 
-We find [[Captain Taban]] sewn into a leather bag surrounded by creatures chained up. Turns out they are [[nothic]]s! We let one out and it tells us it wants magic items. Not fully what it wants, we kill it.
+We find [[Captain Taban]] sewn into a leather bag surrounded by creatures chained up. Turns out they are [[nothic]]s! We let one out and it tells us it wants magic items. Not fully what it wants, we kill it. Turns out it was a misunderstanding and we just murdered a few of them.
+
