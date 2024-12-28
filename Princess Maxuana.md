@@ -1,0 +1,1 @@
+Deposed queen of [[Omu]]
