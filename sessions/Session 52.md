@@ -65,3 +65,7 @@ We ask [[Queen Grabstab]] where you can plant the seed and she tells of a place 
 We learn from [[Dragonbait]] that the frost giants found the [[Ring of Winter]] and are the cause of the cold climate.
 
 We go to the pillar and plant the seed. It opens a giant portal and out comes a fey wild champion. [[Munch]] is granted thanks and congratulations from the [[Queen of Air and Darkness]] for saving her prince from the grey. [[Munch]] is given a seed which is [[Dormant infiltrator's key]].
+
+We fly back to [[Port Nyanzahru]] and arrive a day later. As we go further north, it gets colder and colder. We go to talk to [[Grandfather Zatembe]] with his daughter [[Annette]]. We also meet with [[Syndra Silvayn]] and she is happy about us freeing the death curse. We let her know that it was [[Az'Sarak]]. [[Syndra Silvayn]] also says that we found the [[Skull Chalice of Ch'ghkare]].
+
+All goblins welcome in [[Port Nyanzahru]] going forward! Huzzah! 
