@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moonbeamers.md",
+                "file": "groups/Moonbeamers.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Princess Maxuana.md",
+                "file": "people/Princess Maxuana.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,14 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87b971d68aedcdd",
+  "active": "d62337c00ba6e06f",
   "lastOpenFiles": [
-    "Moonbeamers.md",
-    "Princess Maxuana.md",
+    "groups/Moonbeamers.md",
+    "people/Princess Maxuana.md",
     "sessions/Session 52.md",
     "misc/Bloodlines of the Golden Throne.md",
     "people/Ras Nisi.md",
-    "Ring of Winter.md",
+    "misc/Ring of Winter.md",
     "people/Annette.md",
     "creatures/Azi Mas.md",
     "creatures/nothic.md",
