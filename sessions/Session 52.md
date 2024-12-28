@@ -70,4 +70,6 @@ We fly back to [[Port Nyanzahru]] and arrive a day later. As we go further north
 
 All goblins welcome in [[Port Nyanzahru]] going forward! Huzzah! We plan to depose the existing [[Trade Princes]] and support the queen to reestablish the monarchy. We go to visit [[Princess Maxuana]]
 
-We meet [[Princess Maxuana]] and give her the [[Skull Chalice of Ch'ghkare]] to rule [[Chult]]. The [[Dinoseurs]] are appointed a house and the ability to establish a guild.
+We meet [[Princess Maxuana]] and give her the [[Skull Chalice of Ch'ghkare]] to rule [[Chult]]. The [[Dinoseurs]] are appointed a house and the ability to establish a guild. We systematically remove the [[Trade Princes]] and establish a guild called the [[Moonbeamers]]. [[Pandora]] becomes the grand admiral of the navy of [[Chult]].
+
+This is the end!
