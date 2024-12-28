@@ -69,3 +69,5 @@ We go to the pillar and plant the seed. It opens a giant portal and out comes a 
 We fly back to [[Port Nyanzahru]] and arrive a day later. As we go further north, it gets colder and colder. We go to talk to [[Grandfather Zatembe]] with his daughter [[Annette]]. We also meet with [[Syndra Silvayn]] and she is happy about us freeing the death curse. We let her know that it was [[Az'Sarak]]. [[Syndra Silvayn]] also says that we found the [[Skull Chalice of Ch'ghkare]].
 
 All goblins welcome in [[Port Nyanzahru]] going forward! Huzzah! We plan to depose the existing [[Trade Princes]] and support the queen to reestablish the monarchy. We go to visit [[Princess Maxuana]]
+
+We meet [[Princess Maxuana]] and give her the [[Skull Chalice of Ch'ghkare]] to rule [[Chult]]. The [[Dinoseurs]] are appointed a house and the ability to establish a guild.
